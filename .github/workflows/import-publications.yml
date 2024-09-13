@@ -40,7 +40,7 @@ jobs:
         id: com
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit-message: 'content: import publications from Bibtex'
+          commit_message: 'content: import publications from Bibtex'
           #title: Hugo Blox Builder - Import latest publications
           #body: |
           #  Import the latest publications from `publications.bib` to `content/publication/`.
