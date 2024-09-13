@@ -7,6 +7,12 @@ on:
   # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
+    
+  # Trigger when the Import Publications workflow completes successfully
+  workflow_run:
+    workflows: ["Import Publications From Bibtex"]
+    types:
+      - completed
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
