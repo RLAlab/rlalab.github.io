@@ -28,7 +28,7 @@ author = scholarly.fill(next(search_query))
 
 # Generate BibTeX for publications
 bibtex_entries = []
-for pub in author['publications'][:5]:
+for pub in author['publications'][:8]:
     publication = scholarly.fill(pub)
     bibtex_entry = create_bibtex_entry(publication)
     bibtex_entries.append(bibtex_entry)
