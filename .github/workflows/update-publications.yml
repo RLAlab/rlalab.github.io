@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 1 * *"  # Runs at midnight on the 1st day of every month
+    - cron: "*/5 * * * *"  # Runs at midnight on the 1st day of every month
   workflow_dispatch:  # Allows manual trigger of this workflow from the Actions tab
 
 jobs:
