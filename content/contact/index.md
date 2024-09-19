@@ -9,11 +9,12 @@ sections:
     content:
       title: Contact us
       text: |-
-        ## Positions - Join the group
+        ## Positions - Join the group!
         If you are a talented and highly motivated researcher/student with knowledge/interest in the research areas of the group and you would like to join us, please email us with your CV and motivation.
 
         ## Consulting
-        Dr Ledesma-Amaro and the lab believe that academic knowledge has a key role in translational research, and we are currently involved in partnerships with several companies at different levels. We often consider consultancy tasks that relies in our field of expertise. Please contact us for more information. Additional information can be found at: https://www.imperial-consultants.co.uk/expertise-areas/bioengineering-biotechnology.html
+        Dr Ledesma-Amaro and the lab believe that academic knowledge has a key role in translational research, and we are currently involved in partnerships with several companies at different levels. We often consider consultancy tasks that relies in our field of expertise. Please contact us for more information. 
+        Additional information can be found at https://www.imperial-consultants.co.uk/.
       email: r.ledesma-amaro@imperial.ac.uk
       phone: 020 7584 1113
       address:
