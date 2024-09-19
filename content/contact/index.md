@@ -27,7 +27,6 @@ sections:
       coordinates:
         latitude: '51.49936987716543'
         longitude: '-0.1750880767103513'
-
       directions: RSM 3.06, Royal School of Mines, South Kensington Campus
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
