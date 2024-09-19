@@ -9,19 +9,13 @@ sections:
     content:
       title: Contact us
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        ## Positions - Join the group
+        If you are a talented and highly motivated researcher/student with knowledge/interest in the research areas of the group and you would like to join us, please email us with your CV and motivation.
+
+        ## Consulting
+        Dr Ledesma-Amaro and the lab believe that academic knowledge has a key role in translational research, and we are currently involved in partnerships with several companies at different levels. We often consider consultancy tasks that relies in our field of expertise. Please contact us for more information. Additional information can be found at: https://www.imperial-consultants.co.uk/expertise-areas/bioengineering-biotechnology.html
       email: r.ledesma-amaro@imperial.ac.uk
       phone: 020 7584 1113
-      contact_links:
-        # - icon: brands/x
-        #   name: @LedesmaAmaro
-        #   link: 'https://x.com/ledesmaamaro'
-        - icon: brands/google-scholar
-          name: Rodrigo Ledesma-Amaro
-          link: 'https://scholar.google.com/citations?user=kWTPnDIAAAAJ&hl=es'
-        - icon: academicons/researchgate
-          name: Rodrigo Ledesma-Amaro
-          link: 'https://www.researchgate.net/profile/Rodrigo-Ledesma-Amaro'
       address:
         street: Exhibition Rd, South Kensington
         city: London
