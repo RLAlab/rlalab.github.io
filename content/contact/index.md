@@ -29,10 +29,10 @@ sections:
       #  - 'Wednesday 09:00 to 10:00'
       # appointment_url: 'https://calendly.com'
       contact_links:
-        - icon: x
-          icon_pack: brands
-          name: @LedesmaAmaro
-          link: 'https://x.com/ledesmaamaro'
+        # - icon: x
+        #   icon_pack: brands
+        #   name: @LedesmaAmaro
+        #   link: 'https://x.com/ledesmaamaro'
         - icon: google-scholar
           icon_pack: brands
           name: Rodrigo Ledesma-Amaro
