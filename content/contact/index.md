@@ -29,7 +29,7 @@ sections:
       #  - 'Wednesday 09:00 to 10:00'
       # appointment_url: 'https://calendly.com'
       contact_links:
-        - icon: X
+        - icon: x
           icon_pack: brands
           name: @LedesmaAmaro
           link: 'https://x.com/ledesmaamaro'
