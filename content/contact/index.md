@@ -12,6 +12,19 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
       email: r.ledesma-amaro@imperial.ac.uk
       phone: 020 7584 1113
+      contact_links:
+        # - icon: x
+        #   icon_pack: brands
+        #   name: @LedesmaAmaro
+        #   link: 'https://x.com/ledesmaamaro'
+        - icon: google-scholar
+          icon_pack: brands
+          name: Rodrigo Ledesma-Amaro
+          link: 'https://scholar.google.com/citations?user=kWTPnDIAAAAJ&hl=es'
+        - icon: researchgate
+          icon_pack: academicons
+          name: Rodrigo Ledesma-Amaro
+          link: 'https://www.researchgate.net/profile/Rodrigo-Ledesma-Amaro'
       address:
         street: Exhibition Rd, South Kensington
         city: London
@@ -28,19 +41,6 @@ sections:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
       # appointment_url: 'https://calendly.com'
-      contact_links:
-        # - icon: x
-        #   icon_pack: brands
-        #   name: @LedesmaAmaro
-        #   link: 'https://x.com/ledesmaamaro'
-        - icon: google-scholar
-          icon_pack: brands
-          name: Rodrigo Ledesma-Amaro
-          link: 'https://scholar.google.com/citations?user=kWTPnDIAAAAJ&hl=es'
-        - icon: researchgate
-          icon_pack: academicons
-          name: Rodrigo Ledesma-Amaro
-          link: 'https://www.researchgate.net/profile/Rodrigo-Ledesma-Amaro'
     
       # Automatically link email and phone or display as text?
       autolink: true
