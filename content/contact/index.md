@@ -13,16 +13,13 @@ sections:
       email: r.ledesma-amaro@imperial.ac.uk
       phone: 020 7584 1113
       contact_links:
-        # - icon: x
-        #   icon_pack: brands
-        #   name: @LedesmaAmaro
-        #   link: 'https://x.com/ledesmaamaro'
-        - icon: google-scholar
-          icon_pack: brands
+        - icon: brands/x
+          name: @LedesmaAmaro
+          link: 'https://x.com/ledesmaamaro'
+        - icon: brands/google-scholar
           name: Rodrigo Ledesma-Amaro
           link: 'https://scholar.google.com/citations?user=kWTPnDIAAAAJ&hl=es'
-        - icon: researchgate
-          icon_pack: academicons
+        - icon: academicons/researchgate
           name: Rodrigo Ledesma-Amaro
           link: 'https://www.researchgate.net/profile/Rodrigo-Ledesma-Amaro'
       address:
