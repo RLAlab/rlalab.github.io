@@ -17,8 +17,8 @@ sections:
           - Administration
           - Visitors
           - Alumni
-      sort_by: Params.role
-      sort_ascending: true
+      #sort_by: Params.role
+      #sort_ascending: true
     design:
       show_interests: false
       show_role: true
