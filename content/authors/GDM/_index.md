@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Giorgia Del Missier
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Giorgia
+last_name: Del Missier
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: Research Technician
 
 # Organizations/Affiliations
 organizations:
@@ -33,13 +33,13 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 
-#   - icon: x-twitter
-#     icon_pack: fab
-#     link: 
+social:
+  - icon: github
+    icon_pack: fas
+    link: https://github.com/gioodm
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/giorgia-del-missier/
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: 
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Ciao! I’m Giorgia and I am from Italy. My research at the RLA lab lies at the intersection of bioengineering, structural biology, and machine learning. My long-term goal is to contribute to creating a circular bio-economy, and I believe synthetic biology is the key to a greener future. Outside the lab I enjoy experimenting with new vegan recipes, swimming and hiking and I recently started bouldering!

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Diego Ruiz Sanchis
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Diego
+last_name: Ruiz Sanchis
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Hi there! I'm Diego, from Spain. In my PhD project I'm trying to understand how yeasts behave when they live in community. Why and how do they trade their very precious metabolites? How does this shape the population landscape? Can we rewrite the rules that govern their communities? Outside the lab, I enjoy going to the theatre, bouldering, I sing in a choir (or attempt to), and repeatedly fail at cooking elaborate dishes.

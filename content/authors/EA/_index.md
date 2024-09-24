@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Eliza Atkison
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Eliza
+last_name: Atkinson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Hello! I’m Eliza and I’m a BioDesign Engineering CDT student. My project investigates the use of novel communication systems and division of metabolic load within microbial consortia for the development of next generation biotechnology. Outside the lab I spend my time baking cakes, watching horror movies and accidentally murdering my houseplants.
