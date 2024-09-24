@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Lucas Coppens
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Lucas
+last_name: Coppens
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Trying to make the a-team of microbes: heterotrophs, diazotrophs and autotrophs combining forces, growing happily together and making up for eachother's deficiencies. I am a strong believer in the potential of synthetic biology to improve sustainability on our planet. In my spare time I enjoy making music, working out and wandering into the unknown.

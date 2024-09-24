@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Javiera Lopez
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Javiera
+last_name: Lopez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: Lab manager
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Hi, I'm Javiera from Chile. I have worked for several years with yeasts using synthetic biology tools, and now I have the opportunity to work in the study of microbial communities with the potential to produce biotechnological products. When I'm out of the lab I really enjoy photography, especially when portraying my children.

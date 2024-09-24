@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Razieh Rafieenia
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Razieh
+last_name: Rafieenia
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Hi, I’m Razieh and I joined the group as a Marie Skłodowska-Curie Research Fellow to work on microbial lipids production from lignocellulosic biomass using synthetic microbial consortia. Prior to Imperial, I had experience on microbial electrochemical systems for the treatment of recalcitrant pollutants, anaerobic digestion for hydrogen and methane production from organic wastes, and metabolic flux balance analysis. In my free time, I enjoy traveling, eating, and cooking for friends.

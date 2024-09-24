@@ -10,7 +10,7 @@ last_name: Atkinson
 superuser: true
 
 # Role/position
-role: PhD
+role: PhD student
 
 # Organizations/Affiliations
 organizations:

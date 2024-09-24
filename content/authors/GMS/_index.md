@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Giovanni Maresca di Serracapriola
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Giovanni
+last_name: Maresca di Serracapriola
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Hi! I am Giovanni from Lecce, a small town in southern Italy. I joined the RLA lab during my MEng in bioengineering here at Imperial, and decided to stick around for longer for a PhD. Although my research focuses primarily on engineering yeast produce dyes and pigments, I had the chance to work with other organisms, such as the spore-forming bacterium Bacillus subtilis. In 2022, I was also involved with iGEM, leading the “Sporadicate” team in the competition. In my free time I like to boast about my cooking skills, chat about Italian food and lose in chess against Lucas.

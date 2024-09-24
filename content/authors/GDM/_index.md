@@ -35,7 +35,7 @@ organizations:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/gioodm
   - icon: linkedin
     icon_pack: fab

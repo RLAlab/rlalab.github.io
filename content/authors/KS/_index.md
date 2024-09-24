@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Kathakali Sarkar
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Kathakali
+last_name: Sarkar
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,13 +33,13 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 
-#   - icon: x-twitter
-#     icon_pack: fab
-#     link: 
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ksarkar@ic.ac.uk'
+  - icon: linkedin
+    icon_pack: fab
+    link: linkedin.com/in/kathakali-sarkar-1975bb66 
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: 
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Hello! I’m Kathakali from India! With a PhD in distributed computing in multicellular consortia, I’m now working on resource-aware biomolecular control circuits with potential industrial applications. I have a soft spot for music and wild dreams like adopting a baby rhino! 

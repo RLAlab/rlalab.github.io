@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Heber Gamboa
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Heber
+last_name: Gamboa
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,10 +33,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 
+social:
+  - icon: linkedin
+    icon_pack: fas
+    link: https://www.linkedin.com/in/heber-gamboa-melendez/
 #   - icon: x-twitter
 #     icon_pack: fab
 #     link: 
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Hello! I am Heber from Mexico, I have a background in Fungal Genetics, particularly with plant pathogens. I extended my expertise working in Metabolic Engineering to improve fatty acid derivatives yields in Yarrowia lipolytica. I’m particularly interested in synthetic microbial communities, adaptive laboratory evolution and bioprocess control to develop robust bioproduction systems in yeast. Beside my lab work, I enjoy music, volleyball, running, hiking/trail, and ballet spectacles.

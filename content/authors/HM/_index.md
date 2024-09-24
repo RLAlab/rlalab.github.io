@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Harman Mehta
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Harman
+last_name: Mehta
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,5 @@ user_groups:
   - Researchers
 ---
 
+Hi! I am Harman from India. My PhD project is focused on controlling synthetic bacterial communities for bio production. Outside the lab, I enjoy reading, travelling and dancing.
 
