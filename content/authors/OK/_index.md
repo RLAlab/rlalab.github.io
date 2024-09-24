@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Oliver Konzock
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Oliver
+last_name: Konzock
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,13 +33,13 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 
-#   - icon: x-twitter
-#     icon_pack: fab
-#     link: 
+social:
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Oliver-Konzock 
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=rc-0UbUAAAAJ&hl=en
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: 
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+I am originally from Germany and completed my PhD at Chalmers University of Technology in Gothenburg, Sweden. My research focuses on harnessing the oleaginous yeast Yarrowia lipolytica to produce various lipids, particularly food oils. I am passionate about advancing microbial biotechnology to create sustainable solutions for the future of food production.

@@ -35,7 +35,7 @@ organizations:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/heber-gamboa-melendez/
 #   - icon: x-twitter
 #     icon_pack: fab

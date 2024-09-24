@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Kyler Roy
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Kyler
+last_name: Roy
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Hi, I’m Kyler from Canada! Yeasts make beer, which I think is pretty cool, but they could be even cooler if they made more things, like drugs, fragrances or biofuels. One of the biggest problems in metabolic engineering of microbes to produce high-value products is optimizing metabolic flux towards that compound of interest. My project focuses on enhancing multiplexed CRISPR systems to simultaneously upregulate or downregulate dozens of genes within a metabolic network to enhance bioproduction of many interesting compounds.

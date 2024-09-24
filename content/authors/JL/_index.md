@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Jamie Lee
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Jamie
+last_name: Lee
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+My PhD focuses on designing a novel microbial therapy for patients with eczema by controlling the skin microbiome. I am particularly interested in using a systems biology approach to understand how the stability of the microbiome can be maintained. In my spare time, I enjoy rock climbing, reading, and drawing.

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Juline Savigny
 
 # Full Name (for SEO)
-first_name: Cinzia
-last_name: Klemm
+first_name: Juline
+last_name: Savigny
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Heterogeneity within yeast cultures is believed to weaken the robustness and efficiency of microbial cell factories. My project aims to understand where this heterogeneity comes from in the hope of manipulating it for our own gain. When not in the lab, I enjoy being outdoors, hiking and traveling.

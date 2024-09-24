@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Cinzia Klemm
+title: Mohamed Almarei
 
 # Full Name (for SEO)
-first_name: Cinzia
+first_name: Mohamed
 last_name: Klemm
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Strictly aerobic organisms and oxygen formed an unbreakable bond that stretches back many generations and matured exclusively through evolution. For us to understand how this relationship came into place and reverse it requires identifying the missing parts in an aerobe’s metabolism, similar to solving a jigsaw puzzle! My name is Mohamed and that was a brief description of my project. In my free time I enjoy learning new things, doing sporty stuff and watching anything that makes me laugh at a screen.
