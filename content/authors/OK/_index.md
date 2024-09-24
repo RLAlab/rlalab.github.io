@@ -10,7 +10,7 @@ last_name: Konzock
 superuser: true
 
 # Role/position
-role: Postdoc
+role:   Postdoc
 
 # Organizations/Affiliations
 organizations:

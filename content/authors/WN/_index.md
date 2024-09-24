@@ -10,7 +10,7 @@ last_name: Newell
 superuser: true
 
 # Role/position
-role: PhD
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
