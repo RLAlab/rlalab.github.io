@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         RLAlab
-        Research Group
+        Synthetic Biology for Metabolic Engineering
       image:
         filename: welcome.jpg
       text: |
