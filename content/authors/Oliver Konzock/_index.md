@@ -38,7 +38,7 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Oliver-Konzock 
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=rc-0UbUAAAAJ&hl=en
 #   - icon: google-scholar
 #     icon_pack: ai
