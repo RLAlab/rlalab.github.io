@@ -10,7 +10,7 @@ last_name: Barkay
 superuser: true
 
 # Role/position
-role: Grant Writer & Project Manager
+role: Grant writer
 
 # Organizations/Affiliations
 organizations:
