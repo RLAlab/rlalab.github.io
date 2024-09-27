@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Heber Gamboa
+title: Heber Gamboa-Melendez
 
 # Full Name (for SEO)
 first_name: Heber
-last_name: Gamboa
+last_name: Gamboa-Melendez
 
 # Is this the primary user of the site?
 superuser: true
