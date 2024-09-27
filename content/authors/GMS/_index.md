@@ -33,13 +33,13 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 
-#   - icon: x-twitter
-#     icon_pack: fab
-#     link: 
+social:
+   - icon: envelope
+     icon_pack: fas
+     link: 'mailto:Giovanni.maresca99@gmail.com'
+   - icon: linkedin
+     icon_pack: fab
+     link: https://www.linkedin.com/in/giovanni-maresca-di-serracapriola-26b645196/
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: 
