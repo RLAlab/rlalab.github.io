@@ -35,7 +35,7 @@ sections:
           url: ../research/
       - title: Interested in our research?
         content: Check out open positions
-        align: right
+        align: right-below
         background:
           image:
             filename: social.JPG
