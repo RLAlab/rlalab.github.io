@@ -48,7 +48,7 @@ sections:
           icon_pack: fas
           text: Join us
           url: ../contact/
-          color: black
+          style: "color: #ff6600;" 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
