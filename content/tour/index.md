@@ -23,7 +23,7 @@ sections:
         align: right 
         background:
           image:
-            filename: try2.png
+            filename: research.jpg
             filters:
               brightness: 0.8
           position: center
