@@ -25,7 +25,7 @@ sections:
           image:
             filename: research.jpg
             filters:
-              brightness: 0.8
+              brightness: 0.6
           position: center
           #color: '#555'
         link:
@@ -40,15 +40,14 @@ sections:
           image:
             filename: social.JPG
             filters:
-              brightness: 0.7
+              brightness: 0.6
           position: center
           color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join us
+          text: Join us!
           url: ../contact/
-          position: right-low
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
