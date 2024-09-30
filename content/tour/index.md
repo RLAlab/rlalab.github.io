@@ -8,18 +8,18 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Rodrigo Ledesma-Amaro's Lab
+        content: Synthetic Biology for Metabolic Engineering
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: lab.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Our research lines
+        content: Take a look at what we’re working on…
         align: left
         background:
           image:
@@ -28,12 +28,17 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+        link:
+          icon: flask
+          icon_pack: fas
+          text: What we do
+          url: ../research/
+      - title: Interested in our research?
+        content: Check out open positions
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: socials.jpg
             filters:
               brightness: 0.5
           position: center
@@ -41,7 +46,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: Join us
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
