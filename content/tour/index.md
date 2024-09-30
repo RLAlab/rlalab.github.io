@@ -20,7 +20,7 @@ sections:
           color: '#666'
       - title: Our research lines
         content: Take a look at what we’re working on…
-        align: left 
+        align: right 
         background:
           image:
             filename: research.jpg
