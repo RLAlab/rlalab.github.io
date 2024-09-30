@@ -25,7 +25,7 @@ sections:
           image:
             filename: research.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.5
           position: center
           #color: '#555'
         link:
