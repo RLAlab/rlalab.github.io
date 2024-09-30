@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers, Postdocs
+  - Researchers
+  - Postdocs
 ---
 
 Hi, I’m Cinzia from Germany. I have a background in functional genomics and cell biology and focussed on yeast cell cycle regulation during my PhD. In the RLA lab, I am working on a project to better understand metabolic heterogeneity in clonal yeast populations based on their cell cycle state and I aim to manipulate the cell cycle for improved bioproduction. In my free time, I enjoy running, hiking and cycling.
