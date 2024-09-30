@@ -13,14 +13,15 @@ sections:
       user_groups:
           - Principal Investigator
           - Researchers
-          - Grad Students
-          - Administration
+          - PhD Students
+          - Postdocs
+          - Technicians
           - Visitors
           - Alumni
       #sort_by: Params.role
       #sort_ascending: true
     design:
       show_interests: false
-      show_role: false
-      show_social: true
+      show_role: true
+      show_social: false
 ---
