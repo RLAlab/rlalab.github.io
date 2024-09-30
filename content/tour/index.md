@@ -25,7 +25,7 @@ sections:
           image:
             filename: research.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.6
           position: center
           color: '#555'
         link:
@@ -35,12 +35,12 @@ sections:
           url: ../research/
       - title: Interested in our research?
         content: #Check out open positions
-        align: right-below
+        align: left
         background:
           image:
             filename: social.JPG
             filters:
-              brightness: 0.6
+              brightness: 0.7
           position: center
           color: '#333'
         link:
