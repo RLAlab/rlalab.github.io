@@ -15,17 +15,17 @@ sections:
           image:
             filename: lab.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.6
           position: right
           color: '#666'
       - title: Our research lines
         content: Take a look at what we’re working on…
-        align: left
+        align: left 
         background:
           image:
             filename: research.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: center
           color: '#555'
         link:
@@ -40,7 +40,7 @@ sections:
           image:
             filename: social.JPG
             filters:
-              brightness: 0.5
+              brightness: 0.6
           position: center
           color: '#333'
         link:
@@ -48,6 +48,7 @@ sections:
           icon_pack: fas
           text: Join us
           url: ../contact/
+          color: black
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
