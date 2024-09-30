@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: research.jpg
             filters:
               brightness: 0.7
           position: center
@@ -38,7 +38,7 @@ sections:
         align: right
         background:
           image:
-            filename: socials.jpg
+            filename: social.JPG
             filters:
               brightness: 0.5
           position: center
