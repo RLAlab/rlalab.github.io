@@ -10,7 +10,7 @@ last_name: Del Missier
 superuser: true
 
 # Role/position
-#role: #Research technician
+role: Research technician
 
 # Organizations/Affiliations
 organizations:
