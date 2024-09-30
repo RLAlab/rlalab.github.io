@@ -35,7 +35,7 @@ organizations:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: researchgate
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Oliver-Konzock 
   - icon: google-scholar
     icon_pack: ai
