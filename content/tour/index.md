@@ -15,7 +15,7 @@ sections:
           image:
             filename: lab.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
       - title: Our research lines
