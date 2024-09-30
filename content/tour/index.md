@@ -34,7 +34,7 @@ sections:
           text: What we do
           url: ../research/
       - title: Interested in our research?
-        content: Check out open positions
+        content: #Check out open positions
         align: right-below
         background:
           image:
@@ -56,5 +56,5 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 5000
 ---
