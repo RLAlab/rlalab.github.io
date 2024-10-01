@@ -3,7 +3,7 @@ name = "rla_theme"
 
 [light]
   # Primary
-  primary = "#358A31"
+  primary = "#3d7764"
 
   # Menu
   menu_primary = "#fff"
@@ -17,7 +17,7 @@ name = "rla_theme"
 
 [dark]
   # Primary
-  primary = "#b9dbcf"
+  primary = "#70aa97"
 
-  link = "#b9dbcf"
-  link_hover = "#b9dbcf"
+  link = "#70aa97"
+  link_hover = "#70aa97"
