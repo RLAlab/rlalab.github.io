@@ -27,7 +27,7 @@ sections:
             filters:
               brightness: 0.55
           position: center
-          #color: '#555'
+          color: '#666'
         link:
           icon: flask
           icon_pack: fas
@@ -38,11 +38,11 @@ sections:
         align: center
         background:
           image:
-            filename: socials2.png
+            filename: socials3.png
             filters:
               brightness: 0.9
           position: center
-          color: '#333'
+          color: '#666'
         link:
           icon: graduation-cap
           icon_pack: fas
