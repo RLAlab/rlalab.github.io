@@ -1,0 +1,23 @@
+# Theme metadata
+name = "rla_theme"
+
+[light]
+  # Primary
+  primary = "#4d957d"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#294b4b"
+  menu_text_active = "#56a68b"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  # Primary
+  primary = "#87c1ad"
+
+  link = "#87c1ad"
+  link_hover = "#87c1ad"
