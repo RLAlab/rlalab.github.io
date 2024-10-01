@@ -18,7 +18,7 @@ sections:
               brightness: 0.55
           position: right
           color: '#666'
-      - title: Take a look at what we’re working on…
+      - title: Take a look at what we do…
         content: #Take a look at what we’re working on…
         align: right 
         background:
@@ -33,14 +33,14 @@ sections:
           icon_pack: fas
           text: Our research
           url: ../research/
-      - title: Interested in our research?
+      - title: #Interested in our research?
         content: #Check out open positions
         align: right
         background:
           image:
             filename: socials.png
             filters:
-              brightness: 0.6
+              brightness: 0.8
           position: center
           color: '#333'
         link:
