@@ -25,7 +25,7 @@ sections:
           image:
             filename: research.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.6
           position: center
           #color: '#555'
         link:
@@ -33,7 +33,7 @@ sections:
           icon_pack: fas
           text: What we do
           url: ../research/
-      - title: Interest in our research?
+      - title: Interested in our research?
         content: #Check out open positions
         align: right
         background:
