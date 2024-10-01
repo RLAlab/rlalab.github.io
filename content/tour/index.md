@@ -35,10 +35,10 @@ sections:
           url: ../research/
       - title: #Interested in our research?
         content: #Check out open positions
-        align: right
+        align: center
         background:
           image:
-            filename: socials.png
+            filename: socials2.png
             filters:
               brightness: 0.8
           position: center
