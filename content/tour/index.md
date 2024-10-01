@@ -38,7 +38,7 @@ sections:
         align: center
         background:
           image:
-            filename: socials3.png
+            filename: socials.png
             filters:
               brightness: 0.9
           position: center
