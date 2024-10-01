@@ -18,20 +18,20 @@ sections:
               brightness: 0.6
           position: right
           color: '#666'
-      - title: Our research
+      - title: #Our research
         content: Take a look at what we’re working on…
         align: right 
         background:
           image:
             filename: research.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.55
           position: center
           #color: '#555'
         link:
           icon: flask
           icon_pack: fas
-          text: What we do
+          text: Our research
           url: ../research/
       - title: Interested in our research?
         content: #Check out open positions
