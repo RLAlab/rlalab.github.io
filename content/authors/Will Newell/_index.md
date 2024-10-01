@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
+  #- Researchers
 ---
 
 I'm Will, visiting the lab for a while and hoping to stay for longer! I'm working on implementing novel forms of carbon assimilation in Yarrowia to drive down costs and increase the sustainability of the bioindustry. I'm interested in all things sustainability and I'm an ardent believer in the revolutionary, liberatory potential of biotechnology. I enjoy cooking, the outdoors (if anyone wants to go on a fishing trip and talk about climate change hit me up) and in happier times I enjoyed going to the gym.

@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
+  #- Researchers
 ---
 
 Hi, I'm Mengyao from China. I am trying to explore the production of some nutrients by engineered Yarrowia lipolytica, like carbohydrates, proteins and lipids. I am currently building a synthetic pathway for human milk oligosaccharides. Next may be the most valuable protein in human milk. Yes! We may be creating unrivaled baby formula! In my free time, I like to travel, chat with friends, and play the piano (some of my favorite songs).

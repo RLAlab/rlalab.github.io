@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Postdocs
+  #- Researchers
 ---
 
 Hi, I am Maëlle from France. I am working on phenotypic heterogeneity in clonal yeast populations. I am particularly interested in the mechanisms leading to production heterogeneity and how we could manage it to build more efficient microbial cell factories. I truly believe that biotechnology can contribute to changes towards a more sustainable future and I love talking and learning about all related subjects. I also enjoy dancing, cooking, travelling and spending time out with friends.

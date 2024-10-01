@@ -12,16 +12,13 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigator
-          - Researchers
           - Postdocs
           - PhD Students
-          - Technicians
-          - Visitors
-          - Alumni
+          - Researchers
       #sort_by: Params.role
       #sort_ascending: true
     design:
       show_interests: false
-      show_role: true
-      show_social: false
+      show_role: false
+      show_social: true
 ---

@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
+  #- Researchers
 ---
 
 Hello! I’m Eliza and I’m a BioDesign Engineering CDT student. My project investigates the use of novel communication systems and division of metabolic load within microbial consortia for the development of next generation biotechnology. Outside the lab I spend my time baking cakes, watching horror movies and accidentally murdering my houseplants.

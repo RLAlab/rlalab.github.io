@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
+  #- Researchers
 ---
 
 Hi, I’m Kyler from Canada! Yeasts make beer, which I think is pretty cool, but they could be even cooler if they made more things, like drugs, fragrances or biofuels. One of the biggest problems in metabolic engineering of microbes to produce high-value products is optimizing metabolic flux towards that compound of interest. My project focuses on enhancing multiplexed CRISPR systems to simultaneously upregulate or downregulate dozens of genes within a metabolic network to enhance bioproduction of many interesting compounds.

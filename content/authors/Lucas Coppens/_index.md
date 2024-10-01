@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
+  #- Researchers
 ---
 
 Trying to make the a-team of microbes: heterotrophs, diazotrophs and autotrophs combining forces, growing happily together and making up for eachother's deficiencies. I am a strong believer in the potential of synthetic biology to improve sustainability on our planet. In my spare time I enjoy making music, working out and wandering into the unknown.

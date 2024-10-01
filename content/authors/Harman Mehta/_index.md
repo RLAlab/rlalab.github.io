@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
+  #- Researchers
 ---
 
 Hi! I am Harman from India. My PhD project is focused on controlling synthetic bacterial communities for bio production. Outside the lab, I enjoy reading, travelling and dancing.

@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
+  #- Researchers
 ---
 
 Heterogeneity within yeast cultures is believed to weaken the robustness and efficiency of microbial cell factories. My project aims to understand where this heterogeneity comes from in the hope of manipulating it for our own gain. When not in the lab, I enjoy being outdoors, hiking and traveling.

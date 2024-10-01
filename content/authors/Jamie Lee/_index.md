@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
+  #- Researchers
 ---
 
 My PhD focuses on designing a novel microbial therapy for patients with eczema by controlling the skin microbiome. I am particularly interested in using a systems biology approach to understand how the stability of the microbiome can be maintained. In my spare time, I enjoy rock climbing, reading, and drawing.

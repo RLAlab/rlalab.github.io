@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Postdocs
+  #- Researchers
 ---
 
 Hello everyone! I am Içvara from Switzerland. I did my PhD on synthetic gene regulatory networks for spatiotemporal formation in E.coli while at Imperial, I work on C. acnes, a skin bacterium. Outside the lab, I like to hang out with people and do sports, mainly martial arts but I also started running and bouldering. I also enjoy a lot being in nature!

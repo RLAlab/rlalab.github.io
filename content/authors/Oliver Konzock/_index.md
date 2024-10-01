@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Postdocs
+  #- Researchers
 ---
 
 I am originally from Germany and completed my PhD at Chalmers University of Technology in Gothenburg, Sweden. My research focuses on harnessing the oleaginous yeast Yarrowia lipolytica to produce various lipids, particularly food oils. I am passionate about advancing microbial biotechnology to create sustainable solutions for the future of food production.

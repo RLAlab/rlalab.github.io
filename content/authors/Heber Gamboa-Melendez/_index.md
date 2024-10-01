@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  #- Researchers
+  - Postdocs
 ---
 
 Hello! I am Heber from Mexico, I have a background in Fungal Genetics, particularly with plant pathogens. I extended my expertise working in Metabolic Engineering to improve fatty acid derivatives yields in Yarrowia lipolytica. I’m particularly interested in synthetic microbial communities, adaptive laboratory evolution and bioprocess control to develop robust bioproduction systems in yeast. Beside my lab work, I enjoy music, volleyball, running, hiking/trail, and ballet spectacles.

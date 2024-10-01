@@ -61,7 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Postdocs
+  #- Researchers
 ---
 
 Hello! I’m Kathakali from India! With a PhD in distributed computing in multicellular consortia, I’m now working on resource-aware biomolecular control circuits with potential industrial applications. I have a soft spot for music and wild dreams like adopting a baby rhino! 
