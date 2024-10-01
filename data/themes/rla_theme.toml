@@ -17,7 +17,7 @@ name = "rla_theme"
 
 [dark]
   # Primary
-  primary = "#87c1ad"
+  primary = "#b9dbcf"
 
-  link = "#87c1ad"
-  link_hover = "#87c1ad"
+  link = "#b9dbcf"
+  link_hover = "#b9dbcf"
