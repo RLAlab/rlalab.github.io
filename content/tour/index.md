@@ -15,11 +15,11 @@ sections:
           image:
             filename: lab.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.55
           position: right
           color: '#666'
-      - title: #Our research
-        content: Take a look at what we’re working on…
+      - title: Take a look at what we’re working on…
+        content: #Take a look at what we’re working on…
         align: right 
         background:
           image:
