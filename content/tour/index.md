@@ -40,7 +40,7 @@ sections:
           image:
             filename: socials2.png
             filters:
-              brightness: 0.8
+              brightness: 0.9
           position: center
           color: '#333'
         link:
