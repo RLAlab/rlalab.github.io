@@ -3,7 +3,7 @@ name = "rla_theme"
 
 [light]
   # Primary
-  primary = "#4d957d"
+  primary = "#13883f"
 
   # Menu
   menu_primary = "#fff"
