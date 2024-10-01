@@ -8,7 +8,7 @@
 appearance:
   theme_day: rla_theme
   theme_night: rla_theme
-  font: classic
+  font: rla_fonts
   font_size: L
 
 # SEO
