@@ -6,6 +6,6 @@ google_fonts = "family=Lato:wght@400;700&family=Merriweather&family=Roboto:wght@
 
 # Font families
 heading_font = "Lato"
-body_font = "Merriweather"
+body_font = "Roboto"
 nav_font = "Lato"
 mono_font = "Roboto"
