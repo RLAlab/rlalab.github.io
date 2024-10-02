@@ -8,6 +8,7 @@ sections:
   - block: hero
     content:
       title: |
+        Rodrigo Ledesma-Amaro's Lab
       image:
         filename: rlalab.jpeg
       text: |
