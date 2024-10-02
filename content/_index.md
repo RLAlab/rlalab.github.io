@@ -8,12 +8,11 @@ sections:
   - block: hero
     content:
       title: |
-        RLA Lab <br>
-
-        <span style="font-size: 12px;">Synthetic Biology for Metabolic Engineering</span>
+        RLA Lab
       image:
         filename: rlalab.jpeg
       text: |
+        **Synthetic Biology for Metabolic Engineering**
         <br>
 
         The RLA Lab is interested in how the development of synthetic biology can revolutionise biotechnologies and help us to move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of applications which span from the production of the chemicals and fuels we usually get from petroleum to their use in food, biomedicine and therapeutics.
