@@ -8,14 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        RLAlab
+        RLA Lab
+      subtitle: |
         Synthetic Biology for Metabolic Engineering
       image:
-        filename: #welcome.jpg
+        filename: rlalab.jpeg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The RLA Lab is interested in how the development of synthetic biology can revolutionise biotechnologies and help us to move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of applications which span from the production of the chemicals and fuels we usually get from petroleum to their use in food, biomedicine and therapeutics.
   
   - block: collection
     content:
