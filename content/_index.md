@@ -12,6 +12,7 @@ sections:
       image:
         filename: rlalab.jpeg
       text: |
+        <br>
         
         The **RLA Lab** is interested in how the development of synthetic biology can revolutionise biotechnologies and help us to move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of applications which span from the production of the chemicals and fuels we usually get from petroleum to their use in food, biomedicine and therapeutics.
     
