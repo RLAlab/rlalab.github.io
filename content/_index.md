@@ -12,7 +12,7 @@ sections:
       image:
         filename: rlalab.jpeg
       text: |
-         <br>
+        <br>
         **Synthetic Biology for Metabolic Engineering**
         <br> <br>
 
