@@ -8,12 +8,11 @@ sections:
   - block: hero
     content:
       title: |
-        RLA Lab <br>
-      subtitle: |
-        **Synthetic Biology for Metabolic Engineering**
+        RLA Lab
       image:
         filename: rlalab.jpeg
       text: |
+         <br>
         **Synthetic Biology for Metabolic Engineering**
         <br> <br>
 
