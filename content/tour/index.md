@@ -18,8 +18,8 @@ sections:
               brightness: 0.55
           position: right
           color: '#666'
-      - title: Take a look at what we do…
-        content: #Take a look at what we’re working on…
+      - title: Take a look at what we do
+        content:
         align: right 
         background:
           image:
