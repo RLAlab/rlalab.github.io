@@ -1,4 +1,4 @@
----
+<!-- ---
 # Leave the homepage title empty to use the site title
 title: About
 date: 2024-09-19
@@ -38,4 +38,4 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
----
+--- -->
