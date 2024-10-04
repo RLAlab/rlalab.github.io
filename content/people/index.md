@@ -27,7 +27,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="content/alumni/" cta_text="Alumni →" %}}
+        {{% cta cta_link="./alumni/" cta_text="Alumni →" %}}
     design:
       columns: '1'
 ---
