@@ -10,7 +10,7 @@ last_name: Krakowiecka
 superuser: true
 
 # Role/position
-role: Research support technician
+role: Research Support Technician
 
 # Organizations/Affiliations
 organizations:
@@ -61,6 +61,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Staff
 ---
 

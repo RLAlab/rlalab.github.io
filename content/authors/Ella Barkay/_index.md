@@ -10,7 +10,7 @@ last_name: Barkay
 superuser: true
 
 # Role/position
-role: Grant writer
+role: Grant Writer & Project Manager
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Staff
 ---
 
 My name is Ella Barkay. My academic background is in Biology and Medical Sciences. In 2017, I established a grant writing consultancy specializing in Biotech and MedTech. My work has revolved around supporting accelerators and companies, mainly in Cambridge Oxford and London, by providing mentoring and grant writing services. My primary focus has been helping spin-out and start-up companies secure government grants to fund their innovative projects. Prior to that, I spent over three years at the Weizmann Institute of Science, as a lab manager and was an integral part of the grant writing team at the biomolecular science department.

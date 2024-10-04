@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Staff
 ---
 
 Hi, I’m Peiti coming from Taiwan. In metabolic engineering, yeasts and bacteria are working to produce valuable compounds just like tiny biofactories. I’m extremely into biosynthesis of natural products with microorganisms, especially for colorants and fragrances. My project focuses on carotenoids production in Y. lipolytica, enabling novel approaches to achieve green industries. For leisure, I love travelling, cooking, singing, playing guitar and making music!

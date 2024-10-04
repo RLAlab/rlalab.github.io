@@ -10,7 +10,7 @@ last_name: Del Missier
 superuser: true
 
 # Role/position
-role: Research technician
+role: Research Technician
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Staff
 ---
 
 Ciao! I’m Giorgia and I am from Italy. My research at the RLA lab lies at the intersection of bioengineering, structural biology, and machine learning. My long-term goal is to contribute to creating a circular bio-economy, and I believe synthetic biology is the key to a greener future. Outside the lab I enjoy experimenting with new vegan recipes, swimming and hiking and I recently started bouldering!

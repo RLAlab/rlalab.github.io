@@ -10,7 +10,7 @@ last_name: Sarkar
 superuser: true
 
 # Role/position
-role: Postdoc
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdocs
+  - Postdoctoral Researchers
   #- Researchers
 ---
 

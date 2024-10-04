@@ -10,7 +10,7 @@ last_name: Lopez
 superuser: true
 
 # Role/position
-role: Lab manager
+role: Lab Manager
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Staff
 ---
 
 Hi, I'm Javiera from Chile. I have worked for several years with yeasts using synthetic biology tools, and now I have the opportunity to work in the study of microbial communities with the potential to produce biotechnological products. When I'm out of the lab I really enjoy photography, especially when portraying my children.
