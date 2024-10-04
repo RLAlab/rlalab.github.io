@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
+  - block: people
     content:
       title: Former students, post-docs and staff of RLA Lab
       user_groups:
