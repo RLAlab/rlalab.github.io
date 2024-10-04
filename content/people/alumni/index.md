@@ -13,6 +13,8 @@ sections:
       sort_by: Params.last_name
       sort_ascending: true
     design:
+      view: list
+      columns: '3'
       show_interests: false
       show_role: true
       show_social: true
