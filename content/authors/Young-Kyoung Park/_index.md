@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kiyan Shabestary
+title: Young-Kyoung Park
 
 # Full Name (for SEO)
-first_name: Kiyan
-last_name: Shabestary
+first_name: Young-Kyoung
+last_name: Park
 
 # Is this the primary user of the site?
 superuser: true
@@ -36,10 +36,10 @@ organizations:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/kiyan-shabestary-8872aaa8/
+    link: https://www.linkedin.com/in/youngkyoung-park-809b50224/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.ch/citations?user=In9D6MoAAAAJ&hl=en
+    link: https://scholar.google.ch/citations?user=5FJV2G4AAAAJ&hl=en&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

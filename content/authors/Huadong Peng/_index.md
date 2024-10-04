@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kiyan Shabestary
+title: Huadong Peng
 
 # Full Name (for SEO)
-first_name: Kiyan
-last_name: Shabestary
+first_name: Huadong
+last_name: Peng
 
 # Is this the primary user of the site?
 superuser: true
@@ -36,10 +36,10 @@ organizations:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/kiyan-shabestary-8872aaa8/
+    link: https://www.linkedin.com/in/huadongpeng/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.ch/citations?user=In9D6MoAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=f9_PtB8AAAAJ&hl=zh-CN
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

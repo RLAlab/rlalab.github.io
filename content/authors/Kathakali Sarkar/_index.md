@@ -39,7 +39,7 @@ social:
     link: 'mailto:ksarkar@ic.ac.uk'
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/kathakali-sarkar-1975bb66 
+    link: https://www.linkedin.com/in/kathakali-sarkar-1975bb66/
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: 
