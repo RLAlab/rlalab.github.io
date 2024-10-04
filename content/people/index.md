@@ -15,10 +15,19 @@ sections:
           - Postdoctoral Researchers
           - PhD Students
           - Staff
-      #sort_by: Params.role
-      #sort_ascending: true
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
       show_interests: false
       show_role: true
       show_social: true
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./alumni/" cta_text="Alumni →" %}}
+    design:
+      columns: '1'
 ---

@@ -10,7 +10,7 @@ last_name: Sun
 superuser: true
 
 # Role/position
-role: Research technician
+role: Research Technician
 
 # Organizations/Affiliations
 organizations:
