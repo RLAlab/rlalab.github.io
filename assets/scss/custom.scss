@@ -1,0 +1,14 @@
+.people-widget {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust column size */
+    grid-auto-flow: column; /* This forces the vertical flow */
+    gap: 20px; /* Adjust space between items */
+  }
+  
+.people-person {
+    flex: 1 1 30%; /* Adjust 30% for 3 columns, 45% for 2 columns */
+    max-width: 30%;
+    padding: 15px;
+    box-sizing: border-box;
+  }
+  
