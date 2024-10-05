@@ -20,6 +20,7 @@
   </div>
   {{ end }}
 
+  <div class="people-widget">
   {{ with $block.content.text }}
     <div class="col-md-12">
       {{ . | emojify | $page.RenderString }}
