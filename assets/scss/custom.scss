@@ -1,62 +1,31 @@
-  .people-widget {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-auto-flow: column;
-    gap: 2rem;
-    width: 100%;
-  }
-  
-  /* Ensure each person takes full width of their grid cell */
+.people-widget {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: flex-start;
+}
+
+.people-person {
+  flex: 0 1 200px;
+  min-width: 200px;
+  margin-bottom: 1rem;
+}
+
+.portrait-title {
+  text-align: left;
+}
+
+.portrait-title h2 {
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Optional: if you need responsive adjustments */
+@media (max-width: 768px) {
   .people-person {
-    width: 100%;
-    text-align: center;
+    flex: 0 1 150px;
+    min-width: 150px;
   }
-  
-  /* Adjust portrait title for better readability */
-  .portrait-title {
-    margin-bottom: 1rem;
-  }
-  
-  .portrait-title h2 {
-    font-size: 1rem;
-    margin-bottom: 0.5rem;
-    word-wrap: break-word;
-  }
-  
-  .portrait-title h3 {
-    font-size: 0.9rem;
-    opacity: 0.8;
-  }
-  
-  /* Responsive adjustments */
-  @media (max-width: 768px) {
-    .people-widget {
-      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-      gap: 1rem;
-    }
-  }
-
-// .people-person {
-//     padding: 20px;
-//   }
-
-// .portrait-title h2 {
-//     font-size: 12px; /* Adjust this size to your preference */
-//     margin: 0; /* Remove any unnecessary margin */
-//   }
-
-// .name-social {
-//     display: flex;
-//     align-items: center; /* Align icons vertically with the name */
-//     gap: 10px; /* Space between the name and the icons */
-//   }
-  
-// .name-social h2 {
-//     font-size: 16px; /* Small font size for the name */
-//     margin-right: 10px; /* Add some space between the name and icons */
-//   }
-  
-// .name-social .social-links {
-//     display: inline-flex;
-//   }
-  
+}
