@@ -3,7 +3,6 @@
   grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
   gap: 40px; /* Space between columns */
   width: 100%;
-  grid-auto-flow: column; /* This makes the order go down columns instead of across rows */
 }
 
 .people-person {
