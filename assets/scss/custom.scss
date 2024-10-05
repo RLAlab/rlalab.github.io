@@ -1,6 +1,5 @@
 .section-heading h1 {
   font-size: 38px; /* Adjust this value to make the title smaller or larger */
-  margin-bottom: 50px; /* Add some space below the title */
 }
 
 .people-widget {
@@ -16,7 +15,7 @@
   -webkit-column-break-inside: avoid;
   
   /* Add some vertical spacing between names */
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   display: block;
 }
 
