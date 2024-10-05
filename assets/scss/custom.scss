@@ -1,6 +1,6 @@
 .people-widget {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+    grid-template-rows: repeat(5, auto);
     grid-auto-flow: column;
     gap: 20px;
   }
