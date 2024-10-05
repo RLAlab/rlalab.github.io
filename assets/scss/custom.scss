@@ -1,38 +1,44 @@
 .people-widget {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
-  gap: 40px; /* Space between columns */
+  column-count: 4; /* Adjust the number of columns as needed */
+  column-gap: 40px; /* Space between columns */
   width: 100%;
 }
 
 .people-person {
+  /* Prevent splitting across columns */
+  break-inside: avoid;
+  page-break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  
+  /* Add some vertical spacing between names */
   margin-bottom: 10px;
+  display: block;
 }
 
 .portrait-title {
-  text-align: center; /* Center the text */
+  text-align: left;
 }
 
 .portrait-title h2 {
   margin: 0;
-  font-size: 16px;
+  font-size: 16px; /* Adjust as needed */
 }
 
 /* Responsive adjustments */
 @media (max-width: 992px) {
   .people-widget {
-    grid-template-columns: repeat(3, 1fr);
+    column-count: 3;
   }
 }
 
 @media (max-width: 768px) {
   .people-widget {
-    grid-template-columns: repeat(2, 1fr);
+    column-count: 2;
   }
 }
 
 @media (max-width: 576px) {
   .people-widget {
-    grid-template-columns: 1fr;
+    column-count: 1;
   }
 }
