@@ -6,7 +6,6 @@
   column-count: 5; /* Adjust the number of columns as needed */
   column-gap: 40px; /* Space between columns */
   width: 100%;
-  font-size: 8px;
 }
 
 .people-person-a {
@@ -19,6 +18,11 @@
   margin-bottom: 0px;
   display: block;
 }
+
+.people-person-a {
+  font-size: 8px;
+}
+
 
 .portrait-title-a {
   text-align: left;
