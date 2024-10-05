@@ -23,7 +23,7 @@
     
     <div class="row justify-content-center people-widget">
     {{ with $block.content.text }}
-      <div class="col-md-12">
+      <div class="section-heading col-12 mb-3 text-center">
         {{ . | emojify | $page.RenderString }}
       </div>
     {{ end }}
@@ -39,8 +39,8 @@
       {{ $query = sort $query $sort_by $sort_order }}
   
       {{if $query | and (gt (len $block.content.user_groups) 1) }}
-        <div class="col-md-12">
-          <h2 class="mb-4">{{ . | markdownify }}</h2>
+        <div class="col-12 mb-3 text-center">
+          <h2 class="col-12 mb-3 text-center">{{ . | markdownify }}</h2>
         </div>
       {{end}}
   
