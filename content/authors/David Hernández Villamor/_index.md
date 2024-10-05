@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Huadong Peng
+title: David Hernández Villamor
 
 # Full Name (for SEO)
-first_name: Huadong
-last_name: Peng
+first_name: David
+last_name: Villamor
 
 # Is this the primary user of the site?
 superuser: true

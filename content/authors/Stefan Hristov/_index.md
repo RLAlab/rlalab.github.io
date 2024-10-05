@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Huadong Peng
+title: Stefan Hristov
 
 # Full Name (for SEO)
-first_name: Huadong
-last_name: Peng
+first_name: Stefan
+last_name: Hristov
 
 # Is this the primary user of the site?
 superuser: true
