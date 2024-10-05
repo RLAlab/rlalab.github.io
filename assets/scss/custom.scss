@@ -1,14 +1,14 @@
-.section-heading-a h1 {
+.section-headinga h1 {
   font-size: 38px; /* Adjust this value to make the title smaller or larger */
 }
 
-.people-widget-a {
-  column-count: 5; /* Adjust the number of columns as needed */
+.people-widgeta {
+  column-count: 4; /* Adjust the number of columns as needed */
   column-gap: 40px; /* Space between columns */
   width: 100%;
 }
 
-.people-person-a {
+.people-persona {
   /* Prevent splitting across columns */
   break-inside: avoid;
   page-break-inside: avoid;
@@ -19,30 +19,26 @@
   display: block;
 }
 
-.people-person-a {
+.people-persona {
   font-size: 8px;
 }
 
 
-.portrait-title-a {
-  text-align: left;
-}
-
 /* Responsive adjustments */
 @media (max-width: 992px) {
-  .people-widget-a {
+  .people-widgeta {
     column-count: 3;
   }
 }
 
 @media (max-width: 768px) {
-  .people-widget-a {
+  .people-widgeta {
     column-count: 2;
   }
 }
 
 @media (max-width: 576px) {
-  .people-widget-a {
+  .people-widgeta {
     column-count: 1;
   }
 }
