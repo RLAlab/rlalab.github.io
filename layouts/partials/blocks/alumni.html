@@ -14,7 +14,7 @@
   <div class="row justify-content-center people-title">
   {{ with $block.content.title }}
     <div class="section-heading col-12 mb-3 text-center">
-      <h1 class="mb-0">{{ . | markdownify | emojify }}</h1>
+      <h2 class="mb-0">{{ . | markdownify | emojify }}</h1>
       {{ with $block.content.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
     </div>
   {{ end }}
