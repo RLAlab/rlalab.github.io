@@ -17,8 +17,8 @@
       <h1 class="mb-0">{{ . | markdownify | emojify }}</h1>
       {{ with $block.content.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
     </div>
+    {{ end }}
   </div>
-  {{ end }}
 
   <div class="people-widget">
   {{ with $block.content.text }}
