@@ -1,16 +1,22 @@
-.section-heading {
-  margin-bottom: 30px;
-}
-
 .people-widget {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 40px;
+  grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+  gap: 40px; /* Space between columns */
   width: 100%;
+  grid-auto-flow: column; /* This makes the order go down columns instead of across rows */
 }
 
 .people-person {
   margin-bottom: 10px;
+}
+
+.portrait-title {
+  text-align: center; /* Center the text */
+}
+
+.portrait-title h2 {
+  margin: 0;
+  font-size: 16px;
 }
 
 /* Responsive adjustments */
