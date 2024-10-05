@@ -10,13 +10,25 @@
 {{ $show_organizations := $block.design.show_organizations | default false }}
 {{ $show_role := $block.design.show_role | default false }}
 
-<div class="row justify-content-center people-widget">
+<div class="row justify-content-center">
   {{ with $block.content.title }}
     <div class="section-heading col-12 mb-3 text-center">
       <h1 class="mb-0">{{ . | markdownify | emojify }}</h1>
       {{ with $block.content.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
     </div>
-  {{ end }}
+    {{ end }}
+</div>
+
+<div class="row justify-content-center people-widget">
+    {{ range $query }}
+      <div class="col-12 col-sm-auto people-person">
+        <div class="portrait-title">
+          <h2>{{.Title}}</h2>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+  
 
   {{ with $block.content.text }}
     <div class="col-md-12">
