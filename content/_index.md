@@ -32,7 +32,7 @@ sections:
           icon: flask
           icon_pack: fas
           text: Our research
-          url: ../research/
+          url: ./research/
       - title: #Interested in our research?
         content: #Check out open positions
         align: right
@@ -47,7 +47,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join us!
-          url: ../contact/
+          url: ./contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
