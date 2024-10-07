@@ -15,6 +15,7 @@ sections:
           - Postdoctoral Researchers
           - PhD Students
           - Staff
+          - Visitors
       sort_by: Params.last_name
       sort_ascending: true
     design:
