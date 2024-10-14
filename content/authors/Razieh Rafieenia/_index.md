@@ -10,7 +10,7 @@ last_name: Rafieenia
 superuser: true
 
 # Role/position
-role: Marie Sklodowska-Curie Individual Fellow
+role: Marie Skłodowska-Curie Individual Fellow
 
 # Organizations/Affiliations
 organizations:

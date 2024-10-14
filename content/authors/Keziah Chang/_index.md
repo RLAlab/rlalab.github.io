@@ -10,7 +10,7 @@ last_name: Chang
 superuser: true
 
 # Role/position
-role: PhD student
+role: MRes Bioengineering
 
 # Organizations/Affiliations
 organizations:
