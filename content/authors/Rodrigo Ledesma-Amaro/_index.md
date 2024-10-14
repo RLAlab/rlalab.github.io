@@ -21,21 +21,13 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+#   - 
 
 # education:
 #   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
+#     - course: 
+#       institution: 
+#       year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -77,9 +69,9 @@ user_groups:
 
 ## Overview
 Rodrigo Ledesma-Amaro is a Reader at the Department of Bioengineering, Director of the Bezos Centre for Sustainable Protein and Director of the Microbial Food Hub at Imperial College London. He is leading a research group at the interface of synthetic biology and metabolic engineering.  
-Rodrigo has published more than 200 articles and patents, has obtained 11 fellowships/scholarships and 8 awards. He has been invited speaker in more than 20 conferences and workshops, including keynote talks. He is involved in editorial activities including works in editorial boards and acts as reviewer for journals and grants, including Nature, H2020 or BBSRC.
+Rodrigo has published more than 200 articles and patents in the field of sustainable bioproduction.  
 
 ## Biography
-Rodrigo Ledesma-Amaro obtained his PhD at the University of Salamanca under the supervision of Prof. Jose Luis Revuelta, the head of the metabolic engineering group. His PhD thesis was about systems metabolic engineering of A. gossypii for the production of vitamins, nucleosides and lipids. It combined modeling, synthetic biology, systems biology and metabolic engineering techniques and it produced numerous research papers and industrial patents (being currently used by BASF). During his PhD, Rodrigo was a visiting researcher at Prof. Jens Nielsen´s group at Chalmers University of Technology (Sweden), at Prof. Jean-Marc Nicaud’s lab at INRA (France) and at Prof. Kamisaka`s group at AIST (Japan). Before that, Rodrigo obtained an MSc in Microbial Biotechnology at the Universidad Autonoma de Madrid and two undergraduate degrees (Biotechnology and Chemical Engineering) at the University of Salamanca.  
-After the PhD, he moved to France with a Marie Curie Fellowship where he performed his postdoc in the group of Jean-Marc Nicaud. Most of his postdoctoral research work was done in the oleaginous yeast Yarrowia lipolytica. During those years, Rodrigo engineered this organism to 1) produce different compounds (lipids, lipid-derived chemicals, carotenoids, etc), 2) be able to use low-cost carbon sources such as lignocellulosic materials or starch and 3) facilitate the recovery of the products by engineering lipid secretion. During the postdoc, Rodrigo taught synthetic biology related subjects at SUP biotech, Paris.  
+Rodrigo Ledesma-Amaro obtained his PhD at the University of Salamanca (Spain) under the supervision of Prof. Jose Luis Revuelta. His PhD thesis was about systems metabolic engineering of _Ashbya gossypii_ for the production of food ingredients (vitamins, flavour enhancers and lipids). During his PhD, Rodrigo was a visiting researcher at Prof. Jens Nielsen´s group at Chalmers University of Technology (Sweden), at Prof. Jean-Marc Nicaud’s lab at INRA (France) and at Prof. Kamisaka's group at AIST (Japan). Before that, Rodrigo obtained an MSc in Microbial Biotechnology at the Universidad Autonoma de Madrid and two undergraduate degrees (Biotechnology and Chemical Engineering) at the University of Salamanca.  
+After his PhD, Rodrigo moved to France with a Marie Curie Fellowship where he performed his postdoc in the group of Jean-Marc Nicaud. During his postdoctoral his research focused on engineering the yeast _Yarrowia lipolytica_ to 1. produce different compounds (lipids, lipid-derived chemicals, carotenoids, etc for food and fuels applications), 2. be able to use low-cost carbon sources such as lignocellulosic materials or starch as renewable feedstocks and 3) facilitate the downstream processes via metabolic engineering (e.g. recovery of the products by engineering lipid secretion).  
 In 2017, he joined Imperial College London as independent research with an Imperial College Research Fellowship and in 2019 he was appointed as lecturer in the Department of Bioengineering. From 2024 he is the Director of the new Bezos Centre for Sustainable Protein and of the Microbial Food Hub.
