@@ -65,4 +65,4 @@ user_groups:
   #- Researchers
 ---
 
-Hi! My name is Jing and I come from China. I worked as a postdoc at Chalmers University of Technology in Sweden for almost 4 years. I worked with Yarrowia and Saccharomyces on value-added products through metabolic engineering and synthetic biology. At Imperial I work as a postdoc and continue to work with Yarrowia.
+Hi! My name is Jing and I come from China. I worked as a postdoc at Chalmers University of Technology in Sweden for almost 4 years. I worked with _Yarrowia lipolytica_ and _Saccharomyces cerevisiae_ on value-added products through metabolic engineering and synthetic biology. At Imperial I continue to work with Yarrowia.

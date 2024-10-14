@@ -62,4 +62,5 @@ user_groups:
   - PhD Students
 ---
 
-Hi there! I'm Diego, from Spain. In my PhD project I'm trying to understand how yeasts behave when they live in community. Why and how do they trade their very precious metabolites? How does this shape the population landscape? Can we rewrite the rules that govern their communities? Outside the lab, I enjoy going to the theatre, bouldering, I sing in a choir (or attempt to), and repeatedly fail at cooking elaborate dishes.
+Hi there! I'm Diego, from Spain. In my PhD project I'm trying to understand how yeasts behave when they live in community. Why and how do they trade their very precious metabolites? How does this shape the population landscape? Can we rewrite the rules that govern their communities?  
+Outside the lab, I enjoy going to the theatre, bouldering, I sing in a choir (or attempt to), and repeatedly fail at cooking elaborate dishes.

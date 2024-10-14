@@ -65,4 +65,4 @@ user_groups:
   #- Researchers
 ---
 
-I am originally from Germany and completed my PhD at Chalmers University of Technology in Gothenburg, Sweden. My research focuses on harnessing the oleaginous yeast Yarrowia lipolytica to produce various lipids, particularly food oils. I am passionate about advancing microbial biotechnology to create sustainable solutions for the future of food production.
+I am originally from Germany and completed my PhD at Chalmers University of Technology in Gothenburg, Sweden. My research focuses on harnessing the oleaginous yeast _Yarrowia lipolytica_ to produce various lipids, particularly food oils. I am passionate about advancing microbial biotechnology to create sustainable solutions for the future of food production.

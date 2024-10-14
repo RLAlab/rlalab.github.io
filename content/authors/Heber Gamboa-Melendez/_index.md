@@ -65,4 +65,5 @@ user_groups:
   - Postdoctoral Researchers
 ---
 
-Hello! I am Heber from Mexico, I have a background in Fungal Genetics, particularly with plant pathogens. I extended my expertise working in Metabolic Engineering to improve fatty acid derivatives yields in Yarrowia lipolytica. I’m particularly interested in synthetic microbial communities, adaptive laboratory evolution and bioprocess control to develop robust bioproduction systems in yeast. Beside my lab work, I enjoy music, volleyball, running, hiking/trail, and ballet spectacles.
+Hello! I am Heber from Mexico, I have a background in Fungal Genetics, particularly with plant pathogens. I extended my expertise working in Metabolic Engineering to improve fatty acid derivatives yields in _Yarrowia lipolytica_. I’m particularly interested in synthetic microbial communities, adaptive laboratory evolution and bioprocess control to develop robust bioproduction systems in yeast.  
+Beside my lab work, I enjoy music, volleyball, running, hiking/trail, and ballet spectacles.

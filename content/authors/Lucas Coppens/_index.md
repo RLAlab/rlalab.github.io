@@ -65,4 +65,5 @@ user_groups:
   #- Researchers
 ---
 
-Trying to make the a-team of microbes: heterotrophs, diazotrophs and autotrophs combining forces, growing happily together and making up for eachother's deficiencies. I am a strong believer in the potential of synthetic biology to improve sustainability on our planet. In my spare time I enjoy making music, working out and wandering into the unknown.
+Trying to make the a-team of microbes: heterotrophs, diazotrophs and autotrophs combining forces, growing happily together and making up for eachother's deficiencies. I am a strong believer in the potential of synthetic biology to improve sustainability on our planet.  
+In my spare time I enjoy making music, working out and wandering into the unknown.

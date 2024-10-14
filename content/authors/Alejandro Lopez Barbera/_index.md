@@ -58,4 +58,5 @@ user_groups:
   - Visitors
 ---
 
-Hi! I’m Alejandro from Spain. I am a PhD student visiting RLA lab for a few months. My PhD project focuses on the application of multi-omics analysis as a tool to check for off-target effects and to optimize the metabolic flux in bioengineered microorganisms. Outside the lab you can find me in the rugby pitch, having a pint in a pub or searching the city for new dishes to try.
+Hi! I’m Alejandro from Spain. I am a PhD student visiting RLA lab for a few months. My PhD project focuses on the application of multi-omics analysis as a tool to check for off-target effects and to optimize the metabolic flux in bioengineered microorganisms.  
+Outside the lab you can find me in the rugby pitch, having a pint in a pub or searching the city for new dishes to try.

@@ -65,5 +65,5 @@ user_groups:
   #- Researchers
 ---
 
-Hi! I am Harman from India. My PhD project is focused on controlling synthetic bacterial communities for bio production. Outside the lab, I enjoy reading, travelling and dancing.
+Hi! I am Harman from India. My PhD project is focused on controlling synthetic bacterial communities for bioproduction.   Outside the lab, I enjoy reading, travelling and dancing.
 

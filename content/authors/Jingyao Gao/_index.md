@@ -65,4 +65,5 @@ user_groups:
   #- Researchers
 ---
 
-Hi, I'm Jingyao Gao (Alexander), from China. My research direction is the biosynthesis of natural plant extracts. Here, I will use engineered Yarrowia lipolytica to produce Mogroside V (a triterpenoid compound) as the starting point, and finally hope to achieve industrialization. In my spare time I like to travel around with my little Potato (a corgi) and experience different cultures and cuisines.
+Hi, I'm Jingyao Gao (Alexander), from China. My research direction is the biosynthesis of natural plant extracts. Here, I will use engineered _Yarrowia lipolytica_ to produce Mogroside V (a triterpenoid compound) as the starting point, and finally hope to achieve industrialisation.  
+In my spare time I like to travel around with my little Potato (a corgi) and experience different cultures and cuisines.

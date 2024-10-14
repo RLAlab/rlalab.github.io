@@ -65,4 +65,5 @@ user_groups:
   #- Researchers
 ---
 
-Hello everyone! I am Içvara from Switzerland. I did my PhD on synthetic gene regulatory networks for spatiotemporal formation in E.coli while at Imperial, I work on C. acnes, a skin bacterium. Outside the lab, I like to hang out with people and do sports, mainly martial arts but I also started running and bouldering. I also enjoy a lot being in nature!
+Hello everyone! I am Içvara from Switzerland. I did my PhD on synthetic gene regulatory networks for spatiotemporal formation in _Escherichia coli_ while at Imperial, I work on _Cutibacterium acnes_, a skin bacterium.  
+Outside the lab, I like to hang out with people and do sports, mainly martial arts but I also started running and bouldering. I also enjoy a lot being in nature!

@@ -64,4 +64,5 @@ user_groups:
   - Staff
 ---
 
-Hi, I'm Javiera from Chile. I have worked for several years with yeasts using synthetic biology tools, and now I have the opportunity to work in the study of microbial communities with the potential to produce biotechnological products. When I'm out of the lab I really enjoy photography, especially when portraying my children.
+Hi, I'm Javiera from Chile. I have worked for several years with yeasts using synthetic biology tools, and now I have the opportunity to work in the study of microbial communities with the potential to produce biotechnological products.  
+When I'm out of the lab I really enjoy photography, especially when portraying my children.

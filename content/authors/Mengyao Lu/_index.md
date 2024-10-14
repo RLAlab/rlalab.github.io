@@ -65,4 +65,5 @@ user_groups:
   #- Researchers
 ---
 
-Hi, I'm Mengyao from China. I am trying to explore the production of some nutrients by engineered Yarrowia lipolytica, like carbohydrates, proteins and lipids. I am currently building a synthetic pathway for human milk oligosaccharides. Next may be the most valuable protein in human milk. Yes! We may be creating unrivaled baby formula! In my free time, I like to travel, chat with friends, and play the piano (some of my favorite songs).
+Hi, I'm Mengyao from China. I am trying to explore the production of some nutrients by engineered _Yarrowia lipolytica_, like carbohydrates, proteins and lipids. I am currently building a synthetic pathway for human milk oligosaccharides. Next may be the most valuable protein in human milk. Yes! We may be creating unrivaled baby formula!  
+In my free time, I like to travel, chat with friends, and play the piano (some of my favorite songs).

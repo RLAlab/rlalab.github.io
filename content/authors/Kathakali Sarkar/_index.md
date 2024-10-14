@@ -65,4 +65,5 @@ user_groups:
   #- Researchers
 ---
 
-Hello! I’m Kathakali from India! With a PhD in distributed computing in multicellular consortia, I’m now working on resource-aware biomolecular control circuits with potential industrial applications. I have a soft spot for music and wild dreams like adopting a baby rhino! 
+Hello! I’m Kathakali from India! With a PhD in distributed computing in multicellular consortia, I’m now working on resource-aware biomolecular control circuits with potential industrial applications.  
+I have a soft spot for music and wild dreams like adopting a baby rhino! 
