@@ -16,6 +16,7 @@ sections:
   - block: markdown
     content:
       title: |
+         
       subtitle: |
         New Tools: New synthetic biology approaches for metabolic control
       text: |
