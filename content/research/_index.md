@@ -16,9 +16,9 @@ sections:
   - block: markdown
     content:
       title: |
-        New Tools: New synthetic biology approaches for metabolic control
       text: |
         <br>
+        ### New Tools: New synthetic biology approaches for metabolic control
         
         The group is interested in using and developing new synthetic biology tools that allow us to precisely manipulate microbial cells in a reliable, predictable and standardised way. In particular, we are interested in those cutting-edge techniques that permit a fine tuning of metabolic pathways.
 
