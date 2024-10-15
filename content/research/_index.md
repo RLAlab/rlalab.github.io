@@ -22,6 +22,11 @@ sections:
 
         The group is interested in using and developing new synthetic biology tools that allow us to precisely manipulate microbial cells in a reliable, predictable and standardised way. In particular, we are interested in those cutting-edge techniques that permit a fine tuning of metabolic pathways.
 
+        <img src="../../assets/media/rlalab.jpg" alt="Synthetic biology tools" width="500px"/>
+
+        [Our Multiplexing CRISPRai system for accelerating metabolic engineering](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=kWTPnDIAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=kWTPnDIAAAAJ:bnK-pcrLprsC)
+
+
   - block: markdown
     content:
       title: |
