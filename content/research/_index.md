@@ -13,7 +13,7 @@ sections:
         
         The **RLA Lab** is interested in how the development of synthetic biology can revolutionise biotechnologies and help us to move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of applications which span from the production of novel foods and alternative proteins to chemicals and fuels.
 
-  - block: markdown
+  - block: collection
     content:
       title: |
       text: |
@@ -22,7 +22,7 @@ sections:
 
         The group is interested in using and developing new synthetic biology tools that allow us to precisely manipulate microbial cells in a reliable, predictable and standardised way. In particular, we are interested in those cutting-edge techniques that permit a fine tuning of metabolic pathways.
 
-        <img src="../../assets/media/rlalab.jpg" alt="Synthetic biology tools" width="500px"/>
+        <img src="../../assets/media" alt="Synthetic biology tools" width="500px"/>
 
         [Our Multiplexing CRISPRai system for accelerating metabolic engineering](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=kWTPnDIAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=kWTPnDIAAAAJ:bnK-pcrLprsC)
 
