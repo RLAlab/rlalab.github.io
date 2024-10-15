@@ -25,7 +25,7 @@ sections:
     content:
       title: |
       text: |
-        <h3>New Products: Metabolic Engineering for sustainable bioproduction</h3>
+        <h2>New Products: Metabolic Engineering for sustainable bioproduction</h2>
 
         The manipulation and optimization of microbial metabolic pathways are the keys for biotechnology and a bio-based economy. Our research group is highly interested in hacking metabolism using synthetic biology tools to create new properties and enhanced behaviours in microbial cells. The engineering strategies are not only designed to produce new high-value products or higher amount of pre-existing products but also to facilitate the downstream and upstream parts of the bioprocesses.  
         The lab is interested in engineering both, conventional (such as _S. cerevisiae_ and _E. coli_) and non-conventional organisms, including our widely used yeast _Y. lipolytica_.
@@ -34,38 +34,16 @@ sections:
     content:
       title: |
       text: |
+        <h2>New Processes: Synthetic microbial communities for biotechnology</h2>
+
+        Microbial communities are important for both industrial bioprocesses (i.e. food production). We are interested in how microbial communities can be engineered and how synthetic biology can help to establish novel communities of microbes which can have applications in biotechnology.
+
+  - block: markdown
+    content:
+      title: |
+      text: |
+        <h2>New Knowledge: Understanding phenotypic heterogeneity and how it affects production</h2>
+
+        The development of single-cell technologies allowed to study how individual cells behave within a population. Such variations affect total bioproduction in a biotechnological process. We are interested in understanding heterogeneity and develop tools to control it in our favour.
+
 ---
-
-
-
-<!-- 
-
-New Processes: Synthetic microbial communities for biotechnology 
-Microbial communities are important for both industrial bioprocesses (i.e. food production). We are interested in how microbial communities can be engineered and how synthetic biology can help to establish novel communities of microbes which can have applications in biotechnology.
-
-For further reading see some or our last articles and reviews:
-
-
-Synthetic yeast communities with syntrophy enhances bioproduction:
-https://scholar.google.com/citations?view_op=view_citation&hl=es&user=kWTPnDIAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=kWTPnDIAAAAJ:NJ774b8OgUMC
-
-
-A toolkit to make yeast synthetic communities for bioproduction:
-https://scholar.google.com/citations?view_op=view_citation&hl=es&user=kWTPnDIAAAAJ&sortby=pubdate&citation_for_view=kWTPnDIAAAAJ:zLWjf1WUPmwC
-
-A review on synthetic microbial communities for biotechnology:
-https://scholar.google.com/citations?view_op=view_citation&hl=es&user=kWTPnDIAAAAJ&citation_for_view=kWTPnDIAAAAJ:-f6ydRqryjwC
-
-A review on division of labour:
-https://scholar.google.com/citations?view_op=view_citation&hl=es&user=kWTPnDIAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=kWTPnDIAAAAJ:l7t_Zn2s7bgC
-
-Synthetic lichen, from CO2 and light to products in Yarrowia:
-https://scholar.google.com/citations?view_op=view_citation&hl=es&user=kWTPnDIAAAAJ&sortby=pubdate&citation_for_view=kWTPnDIAAAAJ:ILKRHgRFtOwC
-
-New Knowledge: Understanding phenotypic heterogeneity and how it affects production
-The development of single-cell technologies allowed to study how individual cells behave within a population. Such variations affect total bioproduction in a biotechnological process. We are interested in understanding heterogeneity and develop tools to control it in our favour.
-
-For further reading see some or our last articles and reviews:
-
-Phenotypic heterogeneity:
-https://scholar.google.com/citations?view_op=view_citation&hl=es&user=kWTPnDIAAAAJ&sortby=pubdate&citation_for_view=kWTPnDIAAAAJ:L7CI7m0gUJcC --> -->
