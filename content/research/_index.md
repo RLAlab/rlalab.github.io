@@ -71,15 +71,16 @@ sections:
 
         For further reading see some or our last articles and reviews:
 
-        - [Synthetic yeast communities with syntrophy enhances bioproduction]
+        - [A toolkit to make yeast synthetic communities for bioproduction, _Nature Microbiology_, (2024)](https://doi.org/10.1038/s41564-023-01596-4)
 
-        - [A toolkit to make yeast synthetic communities for bioproduction]
+        - [Synthetic lichen, from CO2 and light to products in Yarrowia, _Bioresource Technology_ (2024)](https://doi.org/10.1016/j.biortech.2024.131232)
 
-        - [A review on synthetic microbial communities for biotechnology]
+        - [Synthetic yeast communities with syntrophy enhances bioproduction, _Nature Chemical Biology_ (2023)](https://doi.org/10.1038/s41589-023-01341-2)
 
-        - [A review on division of labour]
+        - [A review on division of labour, _Current Opinion in Biotechnology_ (2022)](https://doi.org/10.1016/j.copbio.2022.102706)
 
-        - [Synthetic lichen, from CO2 and light to products in Yarrowia]
+        - [A review on synthetic microbial communities for biotechnology, _Trends in Biotechnology_ (2019)](https://doi.org/10.1016/j.tibtech.2018.11.002)
+
 
   - block: markdown
     content:
@@ -91,7 +92,7 @@ sections:
         Such variations affect total bioproduction in a biotechnological process. We are interested in understanding 
         heterogeneity and develop tools to control it in our favour.
 
-        - [Phenotypic heterogeneity]
+        - [Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity, _Nature Communications_ (2024)](https://doi.org/10.1038/s41467-024-50602-8)
 
 
 
