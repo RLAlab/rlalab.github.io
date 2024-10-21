@@ -26,9 +26,9 @@ sections:
 
         For further reading see some or our last articles and reviews:
 
-        - [Genome-scale models of _Vibrio natriegens_ (2023)](https://doi.org/10.15252/msb.202110523)
+        - [The first genome-scale metabolic model of _Vibrio natriegens_, _Molecular Systems Biology_ (2023)](https://doi.org/10.15252/msb.202110523)
 
-        - [_Yarrowia lipolytica_ versatile engineering toolkit with CRISPR compatibilities (2023)](https://doi.org/10.1038/s42003-023-05202-5)
+        - [A _Yarrowia lipolytica_ versatile engineering toolkit with CRISPR compatibilities (2023)](https://doi.org/10.1038/s42003-023-05202-5)
 
         - [Our Multiplexing CRISPRai system for accelerating metabolic engineering (2022)](https://doi.org/10.1038/s41467-022-32603-7)
 
@@ -51,6 +51,14 @@ sections:
         The lab is interested in engineering both, conventional (such as _S. cerevisiae_ and _E. coli_) and 
         non-conventional organisms, including our widely used yeast _Y. lipolytica_.
 
+        For further reading see some or our last articles and reviews:
+
+        - Our review on microbial food
+
+        - One of our latest review on Yarrowia and why it is one of our favourite hosts:
+        
+        - Unlocking C1 utilisation with metabolic engineering - a review
+  
   - block: markdown
     content:
       title: |
