@@ -26,15 +26,16 @@ sections:
 
         For further reading see some or our last articles and reviews:
 
-        - [Our Multiplexing CRISPRai system for accelerating metabolic engineering](https://doi.org/10.1038/s41467-022-32603-7)
+        - [Genome-scale models of _Vibrio natriegens_ (2023)](https://doi.org/10.15252/msb.202110523)
 
-        - [Multiplexing CRISPR for accelerating metabolic engineering (a review)](https://doi.org/10.1038/s41467-020-15053-x)
+        - [_Yarrowia lipolytica_ versatile engineering toolkit with CRISPR compatibilities (2023)](https://doi.org/10.1038/s42003-023-05202-5)
 
-        - [Genome-scale models of _Vibrio natriegens_](https://doi.org/10.15252/msb.202110523)
+        - [Our Multiplexing CRISPRai system for accelerating metabolic engineering (2022)](https://doi.org/10.1038/s41467-022-32603-7)
+
+        - [Multiplexing CRISPR for accelerating metabolic engineering - a review (2020)](https://doi.org/10.1038/s41467-020-15053-x)
   
-        - [Electric control of gene expression](10.1126/sciadv.abm5091)
+        - [Electric control of gene expression (2022)](https://www.science.org/doi/10.1126/sciadv.abm5091)
 
-        - [Yarrowia versatile engineering toolkit with CRISPR compatibilities](https://doi.org/10.1038/s42003-023-05202-5)
 
   - block: markdown
     content:
