@@ -41,7 +41,7 @@ sections:
     content:
       title: |
       text: |
-        <h2>New Products: Metabolic Engineering for sustainable bioproduction</h2>
+        <h2>New Products: Metabolic engineering for sustainable bioproduction</h2>
 
         The manipulation and optimization of microbial metabolic pathways are the keys for biotechnology and a 
         bio-based economy. Our research group is highly interested in hacking metabolism using synthetic biology 
@@ -65,7 +65,7 @@ sections:
       text: |
         <h2>New Processes: Synthetic microbial communities for biotechnology</h2>
 
-        Microbial communities are important for both industrial bioprocesses (i.e. food production). We are interested 
+        Microbial communities are important for industrial bioprocesses (i.e. food production). We are interested 
         in how microbial communities can be engineered and how synthetic biology can help to establish novel communities 
         of microbes which can have applications in biotechnology.
 

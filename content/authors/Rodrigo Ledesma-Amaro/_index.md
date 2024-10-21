@@ -68,7 +68,7 @@ user_groups:
 ---
 
 ## Overview
-Rodrigo Ledesma-Amaro is a Reader at the Department of Bioengineering, Director of the Bezos Centre for Sustainable Protein and Director of the Microbial Food Hub at Imperial College London. He is leading a research group at the interface of synthetic biology and metabolic engineering.  
+Rodrigo Ledesma-Amaro is a Reader at the Department of Bioengineering, Director of the [Bezos Centre for Sustainable Protein](https://www.imperial.ac.uk/news/254353/bezos-centre-sustainable-protein-launches-imperial/) and Director of the [Microbial Food Hub](https://www.imperial.ac.uk/news/251436/ukri-engineering-biology-missions-award-millions/) at Imperial College London. He is leading a research group at the interface of synthetic biology and metabolic engineering.  
 Rodrigo has published more than 200 articles and patents in the field of sustainable bioproduction.  
 
 ## Biography
