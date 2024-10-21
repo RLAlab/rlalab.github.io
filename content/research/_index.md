@@ -53,9 +53,9 @@ sections:
 
         For further reading see some or our last articles and reviews:
 
-        - [Our review on microbial food, _Nature Communications (2023)](https://doi.org/10.1038/s41467-023-37891-1)
+        - [Our review on microbial food, _Nature Communications_ (2023)](https://doi.org/10.1038/s41467-023-37891-1)
 
-        - [One of our latest review on Yarrowia and why it is one of our favourite hosts, _Trends in Biotechnology (2023)](https://doi.org/10.1016/j.tibtech.2022.07.006)
+        - [One of our latest review on Yarrowia and why it is one of our favourite hosts, _Trends in Biotechnology_ (2023)](https://doi.org/10.1016/j.tibtech.2022.07.006)
         
         - [Unlocking C1 utilisation with metabolic engineering - a review, _Nature Chemical Biology_ (2021)](https://doi.org/10.1038/s41589-021-00836-0)
   
@@ -69,6 +69,18 @@ sections:
         in how microbial communities can be engineered and how synthetic biology can help to establish novel communities 
         of microbes which can have applications in biotechnology.
 
+        For further reading see some or our last articles and reviews:
+
+        - [Synthetic yeast communities with syntrophy enhances bioproduction]
+
+        - [A toolkit to make yeast synthetic communities for bioproduction]
+
+        - [A review on synthetic microbial communities for biotechnology]
+
+        - [A review on division of labour]
+
+        - [Synthetic lichen, from CO2 and light to products in Yarrowia]
+
   - block: markdown
     content:
       title: |
@@ -78,5 +90,9 @@ sections:
         The development of single-cell technologies allowed to study how individual cells behave within a population. 
         Such variations affect total bioproduction in a biotechnological process. We are interested in understanding 
         heterogeneity and develop tools to control it in our favour.
+
+        - [Phenotypic heterogeneity]
+
+
 
 ---
