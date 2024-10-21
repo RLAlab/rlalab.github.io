@@ -24,6 +24,18 @@ sections:
         manipulate microbial cells in a reliable, predictable and standardised way. In particular, we are interested 
         in those cutting-edge techniques that permit a fine tuning of metabolic pathways.
 
+        For further reading see some or our last articles and reviews:
+
+        - [Our Multiplexing CRISPRai system for accelerating metabolic engineering] (https://doi.org/10.1038/s41467-022-32603-7)
+
+        - [Multiplexing CRISPR for accelerating metabolic engineering (a review)] (https://doi.org/10.1038/s41467-020-15053-x)
+
+        - [Genome-scale models of _Vibrio natriegens_] (https://doi.org/10.15252/msb.202110523)
+  
+        - [Electric control of gene expression] (10.1126/sciadv.abm5091)
+
+        - [Yarrowia versatile engineering toolkit with CRISPR compatibilities] (https://doi.org/10.1038/s42003-023-05202-5)
+
   - block: markdown
     content:
       title: |
