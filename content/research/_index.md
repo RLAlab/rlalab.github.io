@@ -53,11 +53,11 @@ sections:
 
         For further reading see some or our last articles and reviews:
 
-        - Our review on microbial food
+        - [Our review on microbial food, _Nature Communications (2023)](https://doi.org/10.1038/s41467-023-37891-1)
 
-        - One of our latest review on Yarrowia and why it is one of our favourite hosts:
+        - [One of our latest review on Yarrowia and why it is one of our favourite hosts, _Trends in Biotechnology (2023)](https://doi.org/10.1016/j.tibtech.2022.07.006)
         
-        - Unlocking C1 utilisation with metabolic engineering - a review
+        - [Unlocking C1 utilisation with metabolic engineering - a review, _Nature Chemical Biology_ (2021)](https://doi.org/10.1038/s41589-021-00836-0)
   
   - block: markdown
     content:
