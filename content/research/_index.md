@@ -103,7 +103,7 @@ sections:
         <div style="display: flex; align-items: center; max-width: 100%; gap: 300px;">
           <a href="https://doi.org/10.1038/s41467-024-50602-8" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
             <img src="rlalab.jpg" alt="Phenotypic heterogeneity" style="width: 200px; height: auto;">
-            <div style="flex-grow: 1;">
+            <div style="flex-grow: 1; gap: 300px;">
               <strong>Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity</strong><br>
               <em>Nature Communications</em> (2024)
             </div>
