@@ -14,9 +14,10 @@ sections:
         The RLA Lab is interested in how the development of synthetic biology can revolutionise biotechnologies 
         and help us to move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of 
         applications which span from the production of novel foods and alternative proteins to chemicals and fuels.
+
   - block: markdown
     content:
-      title: |
+      title:
       text: |
         <h2>New Tools: New synthetic biology approaches for metabolic control</h2>
 
@@ -35,11 +36,9 @@ sections:
         - [Multiplexing CRISPR for accelerating metabolic engineering - a review, _Nature Communications_ (2020)](https://doi.org/10.1038/s41467-020-15053-x)
   
         - [Electric control of gene expression, _Science Advances_ (2022)](https://www.science.org/doi/10.1126/sciadv.abm5091)
-
-
   - block: markdown
     content:
-      title: |
+      title:
       text: |
         <h2>New Products: Metabolic engineering for sustainable bioproduction</h2>
 
@@ -61,7 +60,7 @@ sections:
   
   - block: markdown
     content:
-      title: |
+      title:
       text: |
         <h2>New Processes: Synthetic microbial communities for biotechnology</h2>
 
@@ -81,10 +80,9 @@ sections:
 
         - [A review on synthetic microbial communities for biotechnology, _Trends in Biotechnology_ (2019)](https://doi.org/10.1016/j.tibtech.2018.11.002)
 
-
   - block: markdown
     content:
-      title: |
+      title:
       text: |
         <h2>New Knowledge: Understanding phenotypic heterogeneity and how it affects production</h2>
 
@@ -93,6 +91,27 @@ sections:
         heterogeneity and develop tools to control it in our favour.
 
         - [Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity, _Nature Communications_ (2024)](https://doi.org/10.1038/s41467-024-50602-8)
+
+  - block: markdown
+    content:
+      title:
+      text: |
+        <h2>New Knowledge: Understanding Phenotypic Heterogeneity and How It Affects Production</h2>
+
+        <p>The development of single-cell technologies has enabled the study of individual cell behaviors within a population. Such variations can impact total bioproduction in biotechnological processes. We aim to understand heterogeneity and develop tools to control it to our advantage.</p>
+
+        <div style="display: flex; align-items: center;">
+          <a href="https://doi.org/10.1038/s41467-024-50602-8" target="_blank" style="text-decoration: none; color: black;">
+            <img src="path/to/phenotypic_heterogeneity_image.jpg" alt="Phenotypic heterogeneity" style="width: 150px; height: auto; margin-right: 15px;">
+            <div>
+              <strong>Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity</strong><br>
+              <em>Nature Communications</em> (2024)
+            </div>
+          </a>
+        </div>
+
+
+        
 
 
 
