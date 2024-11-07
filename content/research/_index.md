@@ -96,23 +96,30 @@ sections:
     content:
       title:
       text: |
-        <h2>New Knowledge: Understanding Phenotypic Heterogeneity and How It Affects Production</h2>
+        <h2>New Tools: New Synthetic Biology Approaches for Metabolic Control</h2>
+        <p>The group is interested in using and developing new synthetic biology tools that allow us to precisely manipulate microbial cells in a reliable, predictable, and standardized way. In particular, we are interested in cutting-edge techniques for fine-tuning metabolic pathways.</p>
+        <p>For further reading, see some of our recent articles and reviews:</p>
 
-        <p>The development of single-cell technologies has enabled the study of individual cell behaviors within a population. Such variations can impact total bioproduction in biotechnological processes. We aim to understand heterogeneity and develop tools to control it to our advantage.</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+          <div style="display: flex; width: 100%; align-items: center;">
+            <a href="https://doi.org/10.15252/msb.202110523" target="_blank" style="text-decoration: none; color: black;">
+              <img src="path/to/vibrio_natriegens_image.jpg" alt="Vibrio natriegens" style="width: 150px; height: auto; margin-right: 15px;">
+              <div>
+                <strong>The first genome-scale metabolic model of <i>Vibrio natriegens</i></strong><br>
+                <em>Molecular Systems Biology</em> (2023)
+              </div>
+            </a>
+          </div>
 
-        <div style="display: flex; align-items: center;">
-          <a href="https://doi.org/10.1038/s41467-024-50602-8" target="_blank" style="text-decoration: none; color: black;">
-            <img src="path/to/phenotypic_heterogeneity_image.jpg" alt="Phenotypic heterogeneity" style="width: 150px; height: auto; margin-right: 15px;">
-            <div>
-              <strong>Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity</strong><br>
-              <em>Nature Communications</em> (2024)
-            </div>
-          </a>
+          <div style="display: flex; width: 100%; align-items: center;">
+            <a href="https://www.science.org/doi/10.1126/sciadv.abm5091" target="_blank" style="text-decoration: none; color: black;">
+              <img src="path/to/electric_control_image.jpg" alt="Electric control of gene expression" style="width: 150px; height: auto; margin-right: 15px;">
+              <div>
+                <strong>Electric control of gene expression</strong><br>
+                <em>Science Advances</em> (2022)
+              </div>
+            </a>
+          </div>
         </div>
-
-
-        
-
-
 
 ---
