@@ -103,7 +103,7 @@ sections:
         <div style="display: flex; align-items: center; max-width: 600px;">
           <a href="https://doi.org/10.1038/s41467-024-50602-8" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
             <img src="path/to/phenotypic_heterogeneity_image.jpg" alt="Phenotypic heterogeneity" style="width: 100px; height: auto; margin-right: 15px;">
-            <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+            <div style="white-space: nowrap; overflow: hidden; text-overflow:">
               <strong>Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity</strong><br>
               <em>Nature Communications</em> (2024)
             </div>
