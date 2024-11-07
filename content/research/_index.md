@@ -100,14 +100,15 @@ sections:
 
         <p>The development of single-cell technologies has enabled the study of individual cell behaviors within a population. Such variations can impact total bioproduction in biotechnological processes. We aim to understand heterogeneity and develop tools to control it to our advantage.</p>
 
-        <div style="display: flex; align-items: center;">
-          <a href="https://doi.org/10.1038/s41467-024-50602-8" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center;">
-            <img src="path/to/phenotypic_heterogeneity_image.jpg" alt="Phenotypic heterogeneity" style="width: 150px; height: auto; margin-right: 15px;">
-            <div style="max-width: 600px;">
+        <div style="display: flex; align-items: center; max-width: 600px;">
+          <a href="https://doi.org/10.1038/s41467-024-50602-8" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
+            <img src="path/to/phenotypic_heterogeneity_image.jpg" alt="Phenotypic heterogeneity" style="width: 100px; height: auto; margin-right: 15px;">
+            <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
               <strong>Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity</strong><br>
               <em>Nature Communications</em> (2024)
             </div>
           </a>
         </div>
+
 
 ---
