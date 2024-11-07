@@ -33,13 +33,13 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 
-#   - icon: x-twitter
-#     icon_pack: fab
-#     link: 
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/maria-portela/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mariasmfportela
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: 
@@ -65,3 +65,4 @@ user_groups:
   #- Researchers
 ---
 
+I am a postgraduate research student in the Microbiome-Microscopy and Microfluidics Lab, co-supervised by Dr Rodrigo Ledesma-Amaro. My project focuses on developing microfluidic tools to study the responsiveness and germination dynamics of environmental soil spore communities at the single-cell level. Before starting my PhD I studied Molecular Bioengineering at Imperial, with a year in industry working on single-cell genomics for drug discovery, and completed a Masters project in the RLA lab building and testing ATP biosensors to study metabolic heterogeneity in yeast.
