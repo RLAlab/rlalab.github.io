@@ -32,7 +32,7 @@ sections:
           <!-- First Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.15252/msb.202110523" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="vnat_gem.png" alt="Vnat genome-scale model" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="vnat_gem.png" alt="Vnat genome-scale model" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>The first genome-scale metabolic model of <i>Vibrio natriegens</i></strong><br>
                 <em>Molecular Systems Biology</em> (2023)
@@ -43,7 +43,7 @@ sections:
           <!-- Second Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s42003-023-05202-5" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="crispr_yl.png" alt="CRISPR Yarrowia toolkit" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="crispr_yl.png" alt="CRISPR Yarrowia toolkit" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>A <i>Yarrowia lipolytica</i> versatile engineering toolkit with CRISPR compatibilities</strong><br>
                 <em>Communications Biology</em> (2023)
@@ -54,7 +54,7 @@ sections:
           <!-- Third Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41467-022-32603-7" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="crisprai_system.png" alt="Multiplexing CRISPRai system" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="crisprai_system.png" alt="Multiplexing CRISPRai system" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Our Multiplexing CRISPRai system for accelerating metabolic engineering</strong><br>
                 <em>Nature Communications</em> (2022)
@@ -65,7 +65,7 @@ sections:
           <!-- Fourth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41467-020-15053-x" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="multiplexing_crispr_review.png" alt="Multiplexing CRISPR review" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="multiplexing_crispr_review.png" alt="Multiplexing CRISPR review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Multiplexing CRISPR for accelerating metabolic engineering - a review</strong><br>
                 <em>Nature Communications</em> (2020)
@@ -76,7 +76,7 @@ sections:
           <!-- Fifth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://www.science.org/doi/10.1126/sciadv.abm5091" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="electric_control_gene_expression.png" alt="Electric control of gene expression" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="electric_control_gene_expression.png" alt="Electric control of gene expression" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Electric control of gene expression</strong><br>
                 <em>Science Advances</em> (2022)
@@ -108,7 +108,7 @@ sections:
           <!-- First Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41467-023-37891-1" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="microbial_food_review.png" alt="Microbial food review" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="microbial_food_review.png" alt="Microbial food review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Our review on microbial food</strong><br>
                 <em>Nature Communications</em> (2023)
@@ -119,7 +119,7 @@ sections:
           <!-- Second Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.tibtech.2022.07.006" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="yarrowia_review.png" alt="Yarrowia review" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="yarrowia_review.png" alt="Yarrowia review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Our latest review on <i>Yarrowia</i> and why it is one of our favorite hosts</strong><br>
                 <em>Trends in Biotechnology</em> (2023)
@@ -130,7 +130,7 @@ sections:
           <!-- Third Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41589-021-00836-0" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="c1_utilisation_review.png" alt="C1 Utilisation review" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="c1_utilisation_review.png" alt="C1 Utilisation review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Unlocking C1 utilization with metabolic engineering - a review</strong><br>
                 <em>Nature Chemical Biology</em> (2021)
@@ -157,7 +157,7 @@ sections:
           <!-- First Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41564-023-01596-4" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="yeast_synthetic_communities.png" alt="Yeast synthetic communities toolkit" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="yeast_synthetic_communities.png" alt="Yeast synthetic communities toolkit" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>A toolkit to make yeast synthetic communities for bioproduction</strong><br>
                 <em>Nature Microbiology</em> (2024)
@@ -168,7 +168,7 @@ sections:
           <!-- Second Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.biortech.2024.131232" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_lichen.png" alt="Synthetic lichen bioproduction" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="synthetic_lichen.png" alt="Synthetic lichen bioproduction" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Synthetic lichen, from CO<sub>2</sub> and light to products in <i>Yarrowia</i></strong><br>
                 <em>Bioresource Technology</em> (2024)
@@ -179,7 +179,7 @@ sections:
           <!-- Third Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41589-023-01341-2" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_yeast_communities.png" alt="Synthetic yeast communities" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="synthetic_yeast_communities.png" alt="Synthetic yeast communities" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Synthetic yeast communities with syntrophy enhances bioproduction</strong><br>
                 <em>Nature Chemical Biology</em> (2023)
@@ -190,7 +190,7 @@ sections:
           <!-- Fourth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.copbio.2022.102706" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="division_of_labour_review.png" alt="Division of labor review" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="division_of_labour_review.png" alt="Division of labor review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>A review on division of labour</strong><br>
                 <em>Current Opinion in Biotechnology</em> (2022)
@@ -201,7 +201,7 @@ sections:
           <!-- Fifth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.tibtech.2018.11.002" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_microbial_communities_review.png" alt="Synthetic microbial communities review" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="synthetic_microbial_communities_review.png" alt="Synthetic microbial communities review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>A review on synthetic microbial communities for biotechnology</strong><br>
                 <em>Trends in Biotechnology</em> (2019)
@@ -221,7 +221,7 @@ sections:
 
         <div style="display: flex; align-items: center; max-width: 100%;">
           <a href="https://doi.org/10.1038/s41467-024-50602-8" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-            <img src="heterogeneity.jpg" alt="Phenotypic heterogeneity" style="width: 200px; height: auto; margin-right: 15px;">
+            <img src="heterogeneity.jpg" alt="Phenotypic heterogeneity" style="width: 250px; height: auto; margin-right: 15px;">
             <div style="flex-grow: 1;">
               <strong>Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity</strong><br>
               <em>Nature Communications</em> (2024)
