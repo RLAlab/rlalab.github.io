@@ -157,7 +157,7 @@ sections:
           <!-- First Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41564-023-01596-4" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="yeast_synthetic_communities.png" alt="Yeast synthetic communities toolkit" style="style="height: 250px; width: auto;; margin-right: 15px; border-radius: 5px;">
+              <img src="yeast_synthetic_communities.png" alt="Yeast synthetic communities toolkit" style="height: 250px; width: auto;; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>A toolkit to make yeast synthetic communities for bioproduction</strong><br>
                 <em>Nature Microbiology</em> (2024)
@@ -168,7 +168,7 @@ sections:
           <!-- Second Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.biortech.2024.131232" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_lichen.jpg" alt="Synthetic lichen bioproduction" style="style="height: 250px; width: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="synthetic_lichen.jpg" alt="Synthetic lichen bioproduction" style="height: 250px; width: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Synthetic lichen, from CO<sub>2</sub> and light to products in <i>Yarrowia</i></strong><br>
                 <em>Bioresource Technology</em> (2024)
@@ -179,7 +179,7 @@ sections:
           <!-- Third Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41589-023-01341-2" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_yeast_communities.png" alt="Synthetic yeast communities" style="style="height: 250px; width: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="synthetic_yeast_communities.png" alt="Synthetic yeast communities" style="height: 250px; width: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Synthetic yeast communities with syntrophy enhances bioproduction</strong><br>
                 <em>Nature Chemical Biology</em> (2023)
@@ -190,7 +190,7 @@ sections:
           <!-- Fourth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.copbio.2022.102706" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="division_of_labour.jpg" alt="Division of labor review" style="style="height: 250px; width: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="division_of_labour.jpg" alt="Division of labor review" style="height: 250px; width: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>A review on division of labour</strong><br>
                 <em>Current Opinion in Biotechnology</em> (2022)
