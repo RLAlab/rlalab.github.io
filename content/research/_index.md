@@ -108,7 +108,7 @@ sections:
           <!-- First Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41467-023-37891-1" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="microbial_food_review.png" alt="Microbial food review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="microbial_food.png" alt="Microbial food review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Our review on microbial food</strong><br>
                 <em>Nature Communications</em> (2023)
@@ -119,7 +119,7 @@ sections:
           <!-- Second Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.tibtech.2022.07.006" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="yarrowia_review.png" alt="Yarrowia review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="yarrowia_review.jpg" alt="Yarrowia review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Our latest review on <i>Yarrowia</i> and why it is one of our favorite hosts</strong><br>
                 <em>Trends in Biotechnology</em> (2023)
@@ -130,7 +130,7 @@ sections:
           <!-- Third Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41589-021-00836-0" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="c1_utilisation_review.png" alt="C1 Utilisation review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="c1_utilisation.png" alt="C1 Utilisation review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Unlocking C1 utilization with metabolic engineering - a review</strong><br>
                 <em>Nature Chemical Biology</em> (2021)
