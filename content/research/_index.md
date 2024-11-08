@@ -119,7 +119,7 @@ sections:
           <!-- Second Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.tibtech.2022.07.006" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="yarrowia_review.jpg" alt="Yarrowia review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="yarrowia_review.png" alt="Yarrowia review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Our latest review on <i>Yarrowia</i> and why it is one of our favorite hosts</strong><br>
                 <em>Trends in Biotechnology</em> (2023)
@@ -168,7 +168,7 @@ sections:
           <!-- Second Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.biortech.2024.131232" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_lichen.jpg" alt="Synthetic lichen bioproduction" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="synthetic_lichen.png" alt="Synthetic lichen bioproduction" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Synthetic lichen, from CO<sub>2</sub> and light to products in <i>Yarrowia</i></strong><br>
                 <em>Bioresource Technology</em> (2024)
@@ -190,7 +190,7 @@ sections:
           <!-- Fourth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.copbio.2022.102706" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="division_of_labour.jpg" alt="Division of labor review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="division_of_labour.png" alt="Division of labor review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>A review on division of labour</strong><br>
                 <em>Current Opinion in Biotechnology</em> (2022)
