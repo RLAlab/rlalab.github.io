@@ -27,6 +27,30 @@ sections:
 
         For further reading see some or our last articles and reviews:
 
+        <div style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
+  
+          <div style="display: flex; align-items: center;">
+            <a href="https://doi.org/10.15252/msb.202110523" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
+              <img src="vnat_gem.png" alt="Vnat_genome_scale_model" style="width: 200px; height: auto; margin-right: 15px;">
+              <div style="flex-grow: 1;">
+                <strong>The first genome-scale metabolic model of _Vibrio natriegens_</strong><br>
+                <em>Molecular Systems Biology</em> (2023)
+              </div>
+            </a>
+          </div>
+          
+          <div style="display: flex; align-items: center;">
+            <a href="https://doi.org/10.1038/s42003-023-05202-5" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
+              <div style="flex-grow: 1;">
+                <strong>A _Yarrowia lipolytica_ versatile engineering toolkit with CRISPR compatibilities</strong><br>
+                <em>Communications Biology</em> (2023)
+              </div>
+               <img src="crispr_1.png" alt="crispr_yarrowia" style="width: 200px; height: auto; margin-left: 15px;">
+            </a>
+          </div>
+
+        </div>
+
         - [The first genome-scale metabolic model of _Vibrio natriegens_, _Molecular Systems Biology_ (2023)](https://doi.org/10.15252/msb.202110523)
 
         - [A _Yarrowia lipolytica_ versatile engineering toolkit with CRISPR compatibilities, _Communications Biology_ (2023)](https://doi.org/10.1038/s42003-023-05202-5)
