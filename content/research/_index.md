@@ -168,7 +168,7 @@ sections:
           <!-- Second Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.biortech.2024.131232" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_lichen.png" alt="Synthetic lichen bioproduction" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="synthetic_lichen.jpg" alt="Synthetic lichen bioproduction" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Synthetic lichen, from CO<sub>2</sub> and light to products in <i>Yarrowia</i></strong><br>
                 <em>Bioresource Technology</em> (2024)
@@ -190,7 +190,7 @@ sections:
           <!-- Fourth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.copbio.2022.102706" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="division_of_labour_review.png" alt="Division of labor review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="division_of_labour.jpg" alt="Division of labor review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>A review on division of labour</strong><br>
                 <em>Current Opinion in Biotechnology</em> (2022)
@@ -201,7 +201,7 @@ sections:
           <!-- Fifth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1016/j.tibtech.2018.11.002" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_microbial_communities_review.png" alt="Synthetic microbial communities review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="synthetic_microbial_communities.png" alt="Synthetic microbial communities review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>A review on synthetic microbial communities for biotechnology</strong><br>
                 <em>Trends in Biotechnology</em> (2019)
@@ -221,13 +221,12 @@ sections:
 
         <div style="display: flex; align-items: center; max-width: 100%;">
           <a href="https://doi.org/10.1038/s41467-024-50602-8" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-            <img src="heterogeneity.jpg" alt="Phenotypic heterogeneity" style="width: 250px; height: auto; margin-right: 15px;">
+            <img src="heterogeneity.png" alt="Phenotypic heterogeneity" style="width: 250px; height: auto; margin-right: 15px;">
             <div style="flex-grow: 1;">
               <strong>Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity</strong><br>
               <em>Nature Communications</em> (2024)
             </div>
           </a>
         </div>
-
 
 ---
