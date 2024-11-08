@@ -200,7 +200,7 @@ sections:
 
           <!-- Fifth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1016/j.tibtech.2018.11.002" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
+            <a href="https://doi.org/10.1016/j.tibtech.2018.11.002" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
               <img src="synthetic_microbial_communities.png" alt="Synthetic microbial communities review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>A review on synthetic microbial communities for biotechnology</strong><br>
