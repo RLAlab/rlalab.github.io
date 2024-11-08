@@ -32,7 +32,7 @@ sections:
           <!-- First Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.15252/msb.202110523" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center; width: 100%;">
-              <img src="vnat_gem.png" alt="Vnat genome-scale model" style="width: 150px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <img src="vnat_gem.png" alt="Vnat genome-scale model" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>The first genome-scale metabolic model of <i>Vibrio natriegens</i></strong><br>
                 <em>Molecular Systems Biology</em> (2023)
