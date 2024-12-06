@@ -15,11 +15,11 @@ sections:
         and help us to move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of 
         applications which span from the production of novel foods and alternative proteins to chemicals and fuels.
 
-        <div style="display: flex; gap: 10px;">
-          <a href="#tools" class="button" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Explore Tools</a>
-          <a href="#products" class="button" style="padding: 10px 15px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">Explore Products</a>
-          <a href="#processes" class="button" style="padding: 10px 15px; background-color: #17A2B8; color: white; text-decoration: none; border-radius: 5px;">Explore Processes</a>
-          <a href="#knowledge" class="button" style="padding: 10px 15px; background-color: #FFC107; color: white; text-decoration: none; border-radius: 5px;">Explore Knowledge</a>
+        <div style="text-align: center; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+          <a href="#tools" style="padding: 10px 20px; border-radius: 5px; text-decoration: none;">New Tools</a>
+          <a href="#products" style="padding: 10px 20px; border-radius: 5px; text-decoration: none;">New Products</a>
+          <a href="#processes" style="padding: 10px 20px; border-radius: 5px; text-decoration: none;">New Processes</a>
+          <a href="#knowledge" style="padding: 10px 20px; border-radius: 5px; text-decoration: none;">New Knowledge</a>
         </div>
 
 
