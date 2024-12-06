@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Celine Caraffa
+title: Hakimi Kassim
 
 # Full Name (for SEO)
-first_name: Celine
-last_name: Caraffa
+first_name: Hakimi
+last_name: Kassim
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Students
+role: Visiting Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Imperial College London
-    url: 
+  - name: Universiti Pendidikan Sultan Idris
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -34,11 +34,17 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:ksarkar@ic.ac.uk'
 #   - icon: linkedin
 #     icon_pack: fab
-#     link: 
+#     link: https://www.linkedin.com/in/kathakali-sarkar-1975bb66/
 #   - icon: google-scholar
 #     icon_pack: ai
+#     link: 
+#   - icon: researchgate
+#     icon_pack: fab
 #     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -55,5 +61,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+    - Visitors
+  #- Researchers
 ---
+
+Hi! I’m Hakimi Kassim, a lecturer at Universiti Pendidikan Sultan Idris (UPSI) in Malaysia. I completed my DPhil at the University of Oxford, where I explored the filamentation of metabolic enzymes in budding yeast under nutrient stress and investigated the biology of extracellular vesicles in breast cancer cells. At the RLA lab, my current work focuses on developing synthetic biology tools for metabolic engineering in _Fusarium venenatum_, aiming to produce valuable chemicals.  
+Outside the lab, I enjoy traveling and fishing, which provide opportunities to explore nature and unwind.
