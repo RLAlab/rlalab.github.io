@@ -16,10 +16,10 @@ sections:
         applications which span from the production of novel foods and alternative proteins to chemicals and fuels.
 
         <div style="text-align: center; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-          <a href="#tools" style="padding: 10px 20px; border-radius: 5px; text-decoration: none;">New Tools</a>
-          <a href="#products" style="padding: 10px 20px; border-radius: 5px; text-decoration: none;">New Products</a>
-          <a href="#processes" style="padding: 10px 20px; border-radius: 5px; text-decoration: none;">New Processes</a>
-          <a href="#knowledge" style="padding: 10px 20px; border-radius: 5px; text-decoration: none;">New Knowledge</a>
+          <a href="#tools" style="padding: 10px 20px; color: white; border-radius: 5px; text-decoration: none;">Tools</a>
+          <a href="#products" style="padding: 10px 20px; background: #28a745; color: white; border-radius: 5px; text-decoration: none;">Products</a>
+          <a href="#processes" style="padding: 10px 20px; background: #ffc107; color: black; border-radius: 5px; text-decoration: none;">Processes</a>
+          <a href="#knowledge" style="padding: 10px 20px; background: #17a2b8; color: white; border-radius: 5px; text-decoration: none;">Knowledge</a>
         </div>
 
 
