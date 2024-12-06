@@ -10,7 +10,9 @@ sections:
       title: Contact us
       text: |-
         ### Positions - Join the group!
-        If you are a talented and highly motivated researcher/student with knowledge/interest in the research areas of the group and you would like to join us, please email us with your CV and motivation.
+        If you are a talented and highly motivated researcher or student with knowledge or interest in the research areas of the group, we would love to hear from you. Please email us with your CV and a brief motivation letter.
+
+        We value diversity and are committed to creating an inclusive environment where everyone can thrive. We welcome applications from people of all backgrounds, genders, ethnicities, and abilities.
 
         ### Consulting
         Dr Ledesma-Amaro and the lab believe that academic knowledge has a key role in translational research, and we are currently involved in partnerships with several companies at different levels. We often consider consultancy tasks that relies in our field of expertise. Please contact us for more information.  
