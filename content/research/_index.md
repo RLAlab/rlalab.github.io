@@ -15,9 +15,16 @@ sections:
         and help us to move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of 
         applications which span from the production of novel foods and alternative proteins to chemicals and fuels.
 
-        {{% cta cta_link="./alumni/" cta_text="Alumni →" cta cta_link="./alumni/" cta_text="Alumni →" %}}
+        <div style="display: flex; gap: 10px;">
+          <a href="#tools" class="button" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Explore Tools</a>
+          <a href="#products" class="button" style="padding: 10px 15px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">Explore Products</a>
+          <a href="#processes" class="button" style="padding: 10px 15px; background-color: #17A2B8; color: white; text-decoration: none; border-radius: 5px;">Explore Processes</a>
+          <a href="#knowledge" class="button" style="padding: 10px 15px; background-color: #FFC107; color: white; text-decoration: none; border-radius: 5px;">Explore Knowledge</a>
+        </div>
+
 
   - block: markdown
+    id: tools
     content:
       title:
       text: |
@@ -89,6 +96,7 @@ sections:
         </div>
 
   - block: markdown
+    id: products
     content:
       title:
       text: |
@@ -143,6 +151,7 @@ sections:
         </div>
   
   - block: markdown
+    id: processes
     content:
       title:
       text: |
@@ -214,6 +223,7 @@ sections:
         </div>
 
   - block: markdown
+    id: knowledge
     content:
       title:
       text: |
