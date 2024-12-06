@@ -10,7 +10,7 @@ last_name: Caraffa
 superuser: true
 
 # Role/position
-role: PhD Students
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
