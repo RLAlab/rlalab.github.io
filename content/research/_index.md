@@ -16,7 +16,7 @@ sections:
         applications which span from the production of novel foods and alternative proteins to chemicals and fuels.
 
         <div style>
-          {{% cta_2 cta_link="#tools" cta_text="New Tools" %}}
+          {{% cta-group_2 cta_link="#tools" cta_text="New Tools" %}}
           {{% cta_2 cta_link="#products" cta_text="New Products" %}}
           {{% cta_2 cta_link="#processes" cta_text="New Processes" %}}
           {{% cta_2 cta_link="#knowledge" cta_text="New Knowledge" %}}
