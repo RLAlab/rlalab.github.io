@@ -5,3 +5,23 @@
 .article-style {
     margin-top: 25px; /* Increase the space above the avatar */
   }
+
+/* Ensure the CTA buttons are aligned horizontally */
+.cta-group {
+  list-style: none;          /* Remove default list styling */
+  padding: 0;                /* Remove padding from the list */
+  margin: 0;                 /* Remove margin */
+  display: flex;             /* Use flexbox for horizontal alignment */
+  justify-content: center;   /* Center the buttons horizontally */
+  gap: 10px;                 /* Add spacing between buttons */
+  flex-wrap: wrap;           /* Allow buttons to wrap on smaller screens */
+}
+
+.cta-group li {
+  display: inline-block;     /* Ensure list items are inline */
+}
+
+.cta-group a {
+  display: inline-block;     /* Ensure buttons behave like inline elements */
+  text-align: center;        /* Center-align text inside buttons */
+}
