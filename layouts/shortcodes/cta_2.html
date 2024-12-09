@@ -17,7 +17,7 @@
         If "true", open the alternative link in a new tab.
 */}}
 
-<div class="cta-group_2">
+<div class="cta-group">
   {{ if (.Get "cta_text") }}
     <a href="{{.Get "cta_link"}}" {{if eq (.Get "cta_new_tab") "true" }}target="_blank" rel="noopener"{{end}} class="btn btn-primary px-3 py-3">{{ (.Get "cta_text") | markdownify | emojify }}</a>
   {{ end }}
