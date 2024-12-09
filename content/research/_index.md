@@ -16,7 +16,7 @@ sections:
         applications which span from the production of novel foods and alternative proteins to chemicals and fuels.
 
         {{% cta cta_link="#tools" cta_text="New Tools" %}}
-        
+
         {{% cta cta_link="#products" cta_text="New Products" %}}
         {{% cta cta_link="#processes" cta_text="New Processes" %}}
         {{% cta cta_link="#knowledge" cta_text="New Knowledge" %}}
@@ -225,7 +225,7 @@ sections:
     content:
       title:
       text: |
-        <h2>New Knowledge: Understanding Phenotypic Heterogeneity and How It Affects Production</h2>
+        <h2>New Knowledge: Understanding phenotypic heterogeneity and how it affects production</h2>
 
         <p>The development of single-cell technologies has enabled the study of individual cell behaviors within a population. Such variations can impact total bioproduction in biotechnological processes. We aim to understand heterogeneity and develop tools to control it to our advantage.</p>
 
