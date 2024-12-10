@@ -26,8 +26,6 @@
 .circle {
   width: 120px; /* Circle size */
   height: 120px;
-  background-color: #3d7764; /* Light background */
-  border: 2px solid #294b4b; /* Dark green border */
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -40,31 +38,8 @@
 /* Hover effect */
 .circle:hover {
   transform: scale(1.1);
-  background-color: #3d7764; /* Dark background on hover */
 }
 
-/* Text styling below the circle */
 .circle-item p {
   margin-top: 10px;
-  color: white; /* Text color */
-}
-
-/* Dark mode styles */
-@media (prefers-color-scheme: dark) {
-
-  /* Circle and text adjustments for dark mode */
-  .circle {
-    background-color: var(--primary-dark); /* Dark circle background */
-    border: 2px solid var(--primary-dark); /* Dark border */
-    color: var(--primary-dark); /* Light text color */
-  }
-
-  .circle:hover {
-    background-color: var(--primary-light); /* Hover effect */
-    color: var(--primary-dark); /* Light text color on hover */
-  }
-
-  .circle-item p {
-    color: var(--primary-dark); /* Dark text for circle labels */
-  }
 }
