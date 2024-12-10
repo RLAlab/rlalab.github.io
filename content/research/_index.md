@@ -15,11 +15,12 @@ sections:
         and help us to move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of 
         applications which span from the production of novel foods and alternative proteins to chemicals and fuels.
 
+        
         <div style="text-align: center;">
-          <a href="#tools" class="custom-btn">New Tools</a>
-          <a href="#products" class="custom-btn">New Products</a>
-          <a href="#processes" class="custom-btn">New Processes</a>
-          <a href="#knowledge" class="custom-btn">New Knowledge</a>
+          <a href="#tools" class="custom-btn" style="margin: 10px;">New Tools</a>
+          <a href="#products" class="custom-btn" style="margin: 10px;">New Products</a>
+          <a href="#processes" class="custom-btn" style="margin: 10px;">New Processes</a>
+          <a href="#knowledge" class="custom-btn" style="margin: 10px;">New Knowledge</a>
         </div>
 
   - block: markdown
