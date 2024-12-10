@@ -11,7 +11,7 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap; /* Allow wrapping on smaller screens */
-  gap: 40px; /* Increase spacing between items */
+  gap: 80px; /* Increase spacing between items */
   margin-top: 20px;
 }
 
@@ -49,6 +49,4 @@
 /* Text styling below the circle */
 .circle-item p {
   margin-top: 10px; /* Space between the circle and text */
-  font-size: 14px; /* Text size */
-  color: #294b4b; /* Neutral color */
 }
