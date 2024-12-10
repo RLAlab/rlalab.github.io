@@ -12,15 +12,15 @@ sections:
         <br>
 
         The RLA Lab is interested in how the development of synthetic biology can revolutionise biotechnologies 
-        and help us to move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of 
-        applications which span from the production of novel foods and alternative proteins to chemicals and fuels.
+        and help us move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of 
+        applications, which span from the production of novel foods and alternative proteins to chemicals and fuels.
+        Our group is developing:
 
-        
         <div style="text-align: center;">
-          <a href="#tools" class="custom-btn" style="margin: 10px;">New Tools</a>
-          <a href="#products" class="custom-btn" style="margin: 10px;">New Products</a>
-          <a href="#processes" class="custom-btn" style="margin: 10px;">New Processes</a>
-          <a href="#knowledge" class="custom-btn" style="margin: 10px;">New Knowledge</a>
+          <a href="#tools" class="custom-btn" style="margin: 10px;">New tools for metabolic control</a>
+          <a href="#products" class="custom-btn" style="margin: 10px;">New sustainable products</a>
+          <a href="#processes" class="custom-btn" style="margin: 10px;">New processes for biotechnology</a>
+          <a href="#knowledge" class="custom-btn" style="margin: 10px;">New knowledge for bioproduction</a>
         </div>
 
   - block: markdown
