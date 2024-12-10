@@ -6,20 +6,6 @@
     margin-top: 25px; /* Increase the space above the avatar */
   }
 
-/* General variables for theme colors from TOML */
-:root {
-  --primary-light: #3d7764; /* Primary color for light mode */
-  --menu-primary-light: #fff;
-  --menu-text-light: #294b4b;
-  --menu-text-active-light: #56a68b;
-  --home-section-odd-light: rgb(255, 255, 255);
-  --home-section-even-light: rgb(247, 247, 247);
-
-  --primary-dark: #70aa97; /* Primary color for dark mode */
-  --link-dark: #70aa97;
-  --link-hover-dark: #70aa97;
-}
-
 /* Layout for the circles and labels */
 .circle-container {
   display: flex;
@@ -40,14 +26,14 @@
 .circle {
   width: 120px; /* Circle size */
   height: 120px;
-  background-color: var(--home-section-even-light); /* Light background */
-  border: 2px solid var(--primary-light); /* Dark green border */
+  background-color: #3d7764; /* Light background */
+  border: 2px solid #294b4b; /* Dark green border */
   border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
   text-decoration: none;
-  color: var(--primary-light); /* Text color */
+  color: white;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, background-color 0.3s ease;
 }
@@ -55,24 +41,19 @@
 /* Hover effect */
 .circle:hover {
   transform: scale(1.1);
-  background-color: var(--primary-light); /* Dark background on hover */
-  color: var(--home-section-even-light); /* Light text on hover */
+  background-color: #3d7764; /* Dark background on hover */
+  color: white; /* Light text on hover */
 }
 
 /* Text styling below the circle */
 .circle-item p {
   margin-top: 10px;
-  color: var(--primary-light); /* Text color */
+  color: white; /* Text color */
   font-family: Arial, sans-serif;
 }
 
 /* Dark mode styles */
 @media (prefers-color-scheme: dark) {
-  /* Body and text colors for dark mode */
-  body {
-    background-color: var(--primary-dark);
-    color: var(--link-dark);
-  }
 
   /* Circle and text adjustments for dark mode */
   .circle {
