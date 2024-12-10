@@ -17,10 +17,10 @@ sections:
         Our group is developing:
 
         <div style="text-align: center;">
-          <a href="#tools" class="custom-btn" style="margin: 15px;">New tools for metabolic control</a>
-          <a href="#products" class="custom-btn" style="margin: 15px;">New sustainable products</a>
-          <a href="#processes" class="custom-btn" style="margin: 15px;">New processes for biotechnology</a>
-          <a href="#knowledge" class="custom-btn" style="margin: 15px;">New knowledge for bioproduction</a>
+          <a href="#tools" class="custom-btn" style="margin: 10px;">New tools for metabolic control</a>
+          <a href="#products" class="custom-btn" style="margin: 10px;">New sustainable products</a>
+          <a href="#processes" class="custom-btn" style="margin: 10px;">New processes for biotechnology</a>
+          <a href="#knowledge" class="custom-btn" style="margin: 10px;">New knowledge for bioproduction</a>
         </div>
 
   - block: markdown
