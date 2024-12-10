@@ -15,10 +15,12 @@ sections:
         and help us to move towards a sustainable bio-based economy. We engineer microorganisms for a wide range of 
         applications which span from the production of novel foods and alternative proteins to chemicals and fuels.
 
-        {{% cta_2 cta_link="#tools" cta_text="New Tools" %}}
-        {{% cta_2 cta_link="#products" cta_text="New Products" %}}
-        {{% cta_2 cta_link="#processes" cta_text="New Processes" %}}
-        {{% cta_2 cta_link="#knowledge" cta_text="New Knowledge" %}}
+        <div style="text-align: center;">
+          <a href="#tools" class="custom-btn">New Tools</a>
+          <a href="#products" class="custom-btn">New Products</a>
+          <a href="#processes" class="custom-btn">New Processes</a>
+          <a href="#knowledge" class="custom-btn">New Knowledge</a>
+        </div>
 
   - block: markdown
     id: tools
