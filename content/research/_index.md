@@ -23,6 +23,27 @@ sections:
           <a href="#knowledge" class="custom-btn" style="margin: 10px;">New knowledge for bioproduction</a>
         </div>
 
+        <div class="circle-container">
+          <a href="#tools" class="circle">
+            🛠️
+            <p>New Tools</p>
+          </a>
+          <a href="#products" class="circle">
+            🛒
+            <p>New Products</p>
+          </a>
+          <a href="#processes" class="circle">
+            ⚙️
+            <p>New Processes</p>
+          </a>
+          <a href="#knowledge" class="circle">
+            📚
+            <p>New Knowledge</p>
+          </a>
+        </div>
+
+
+
   - block: markdown
     id: tools
     content:
