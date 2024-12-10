@@ -16,33 +16,24 @@ sections:
         applications, which span from the production of novel foods and alternative proteins to chemicals and fuels.  
         Our group is developing:
 
-        <div style="text-align: center;">
-          <a href="#tools" class="custom-btn" style="margin: 10px;">New tools for metabolic control</a>
-          <a href="#products" class="custom-btn" style="margin: 10px;">New sustainable products</a>
-          <a href="#processes" class="custom-btn" style="margin: 10px;">New processes for biotechnology</a>
-          <a href="#knowledge" class="custom-btn" style="margin: 10px;">New knowledge for bioproduction</a>
-        </div>
-
         <div class="circle-container">
-          <a href="#tools" class="circle">
-            🛠️
+          <div class="circle-item">
+            <a href="#tools" class="circle">🛠️</a>
             <p>New Tools</p>
-          </a>
-          <a href="#products" class="circle">
-            🛒
+          </div>
+          <div class="circle-item">
+            <a href="#products" class="circle">🛒</a>
             <p>New Products</p>
-          </a>
-          <a href="#processes" class="circle">
-            ⚙️
+          </div>
+          <div class="circle-item">
+            <a href="#processes" class="circle">⚙️</a>
             <p>New Processes</p>
-          </a>
-          <a href="#knowledge" class="circle">
-            📚
+          </div>
+          <div class="circle-item">
+            <a href="#knowledge" class="circle">📚</a>
             <p>New Knowledge</p>
-          </a>
+          </div>
         </div>
-
-
 
   - block: markdown
     id: tools
