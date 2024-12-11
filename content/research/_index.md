@@ -20,19 +20,19 @@ sections:
         <div class="circle-container">
           <div class="circle-item">
             <a href="#tools" class="circle">🛠️</a>
-            <p>New Tools</p>
+            <p>New tools</p>
           </div>
           <div class="circle-item">
             <a href="#products" class="circle">🛒</a>
-            <p>New Products</p>
+            <p>New products</p>
           </div>
           <div class="circle-item">
             <a href="#processes" class="circle">⚙️</a>
-            <p>New Processes</p>
+            <p>New processes</p>
           </div>
           <div class="circle-item">
             <a href="#knowledge" class="circle">📚</a>
-            <p>New Knowledge</p>
+            <p>New knowledge</p>
           </div>
         </div>
 
@@ -41,7 +41,7 @@ sections:
     content:
       title:
       text: |
-        <h2>New Tools: New synthetic biology approaches for metabolic control</h2>
+        <h2>New synthetic biology approaches for metabolic control</h2>
 
         <p>The group is interested in using and developing new synthetic biology tools that allow us to precisely 
         manipulate microbial cells in a reliable, predictable, and standardized way. In particular, we are interested 
@@ -113,7 +113,7 @@ sections:
     content:
       title:
       text: |
-        <h2>New Products: Metabolic engineering for sustainable bioproduction</h2>
+        <h2>Metabolic engineering for sustainable bioproduction</h2>
 
         <p>The manipulation and optimization of microbial metabolic pathways are the keys for biotechnology and a 
         bio-based economy. Our research group is highly interested in hacking metabolism using synthetic biology 
@@ -168,7 +168,7 @@ sections:
     content:
       title:
       text: |
-        <h2>New Processes: Synthetic microbial communities for biotechnology</h2>
+        <h2>Synthetic microbial communities for biotechnology</h2>
 
         <p>Microbial communities are important for industrial bioprocesses, such as food production. We are interested 
         in how microbial communities can be engineered and how synthetic biology can help to establish novel communities 
@@ -240,7 +240,7 @@ sections:
     content:
       title:
       text: |
-        <h2>New Knowledge: Understanding phenotypic heterogeneity and how it affects production</h2>
+        <h2>Understanding phenotypic heterogeneity and how it affects production</h2>
 
         <p>The development of single-cell technologies has enabled the study of individual cell behaviors within a population. Such variations can impact total bioproduction in biotechnological processes. We aim to understand heterogeneity and develop tools to control it to our advantage.</p>
 
