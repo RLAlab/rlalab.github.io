@@ -19,19 +19,19 @@ sections:
 
         <div class="circle-container">
           <div class="circle-item">
-            <a href="#tools" class="circle">🛠️</a>
+            <a href="#tools" class="circle">🧰</a>
             <p>New tools</p>
           </div>
           <div class="circle-item">
-            <a href="#products" class="circle">🛒</a>
+            <a href="#products" class="circle">🧪</a>
             <p>New products</p>
           </div>
           <div class="circle-item">
-            <a href="#processes" class="circle">⚙️</a>
+            <a href="#processes" class="circle">🔄</a>
             <p>New processes</p>
           </div>
           <div class="circle-item">
-            <a href="#knowledge" class="circle">📚</a>
+            <a href="#knowledge" class="circle">🔍</a>
             <p>New knowledge</p>
           </div>
         </div>
