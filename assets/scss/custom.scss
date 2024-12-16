@@ -9,7 +9,7 @@
   .circle {
     width: 120px;
     height: 120px;
-    background: linear-gradient(145deg, #a0e8d3, #6dbda6);
+    background: linear-gradient(to bottom, #e0e0e0, #bdbdbd);
     border: 2px solid #5ea28d;
     border-radius: 50%;
     display: flex;
@@ -25,7 +25,7 @@
   
   .circle:hover {
     transform: scale(1.1);
-    background: linear-gradient(145deg, #6dbda6, #a0e8d3);
+    background: linear-gradient(to bottom, #e0e0e0, #bdbdbd);
     box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
   }
   
