@@ -25,6 +25,7 @@
   
   .circle:hover {
     transform: scale(1.1);
+    text-decoration: none;
     background: linear-gradient(to bottom, #e0e0e0, #c5ccd2);
     box-shadow: 0 15px 20px rgba(0, 0, 0, 0.5);
   }
