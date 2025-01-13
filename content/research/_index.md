@@ -18,19 +18,16 @@ sections:
 
         <div class="rectangle-container">
           <div class="rectangle-item">
-            <a href="#tools" class="rectangle"><i class="fa-solid fa-screwdriver-wrench"></i>  New tools</a>
+            <a href="#tools" class="rectangle"><i class="fa-solid fa-screwdriver-wrench"></i> New tools</a>
           </div>
           <div class="rectangle-item">
-            <a href="#products" class="rectangle"><i class="fa-solid fa-flask-vial"></i>  New products</a>
-            <p>New products</p>
+            <a href="#products" class="rectangle"><i class="fa-solid fa-flask-vial"></i> New products</a>
           </div>
           <div class="rectangle-item">
-            <a href="#processes" class="rectangle">🔄</a>
-            <p>New processes</p>
+            <a href="#processes" class="rectangle"><i class="fa-solid fa-arrows-rotate"></i> New processes</a>
           </div>
           <div class="rectangle-item">
-            <a href="#knowledge" class="rectangle">🔍</a>
-            <p>New knowledge</p>
+            <a href="#knowledge" class="rectangle"><i class="fa-solid fa-magnifying-glass"></i> New knowledge</a>
           </div>
         </div>
 
