@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alejandro Lopez Barbera
+title: Stephanie Cui
 
 # Full Name (for SEO)
-first_name: Alejandro
-last_name: Lopez Barbera
+first_name: Stephanie
+last_name: Cui
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Visiting Researcher
+role: MEng Chemical Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: 
+  - name: Imperial College London
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -34,11 +34,17 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#   - icon: linkedin
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 
+#   - icon: x-twitter
 #     icon_pack: fab
 #     link: 
 #   - icon: google-scholar
 #     icon_pack: ai
+#     link: 
+#   - icon: researchgate
+#     icon_pack: fab
 #     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -55,9 +61,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #- Visitors
-  - Alumni
+  - Master Students
+  #- Researchers
 ---
 
-Hi! I’m Alejandro from Spain. I am a PhD student visiting RLA lab for a few months. My PhD project focuses on the application of multi-omics analysis as a tool to check for off-target effects and to optimize the metabolic flux in bioengineered microorganisms.  
-Outside the lab you can find me in the rugby pitch, having a pint in a pub or searching the city for new dishes to try.
+Hi! I'm Stephanie, a second-year Chemical Engineering student working on developing a food protein database. My project focuses on cataloging and analysing proteins relevant to the food industry, with particular emphasis on their structural characteristics and functional properties. This work aims to create a valuable resource for researchers and industry professionals in the alternative protein space.  
+Outside of my course, I enjoy hiking scenic trails, getting lost in a good book, and experimenting with new recipes.
