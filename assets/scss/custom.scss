@@ -6,6 +6,55 @@
     margin-top: 25px; /* Increase the space above the avatar */
   }
 
+/* Rectangle styles */
+.rectangle {
+  width: 200px;
+  height: 100px;
+  background: linear-gradient(to bottom, #e0e0e0, #c5ccd2);
+  border-radius: 20px;  /* Smooth edges */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 48px;
+  font-weight: bold;
+  color: #294b4b;  /* Text color */
+  text-decoration: none;
+  box-shadow: inset 0 6px 8px rgba(0, 0, 0, 0.2), 
+              0 10px 15px rgba(0, 0, 0, 0.25);
+  transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.rectangle:hover {
+  transform: scale(1.1);
+  text-decoration: none;
+  background: linear-gradient(to bottom, #e0e0e0, #c5ccd2);
+  box-shadow: 0 15px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Container layout */
+.rectangle-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 60px;
+  margin-top: 50px;
+}
+
+/* Text styling */
+.rectangle-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.rectangle-item p {
+  margin-top: 15px;
+  font-weight: bold;
+  color: #294b4b;
+}
+
+
   .circle {
     width: 120px;
     height: 120px;

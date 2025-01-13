@@ -16,24 +16,24 @@ sections:
         applications, which span from the production of novel foods and alternative proteins to chemicals and fuels.  
         We are developing:
 
-        <div class="circle-container">
-          <div class="circle-item">
-            <a href="#tools" class="circle">🧰</a>
-            <p>New tools</p>
+        <div class="rectangle-container">
+          <div class="rectangle-item">
+            <a href="#tools" class="rectangle">🧰 New tools</a>
           </div>
-          <div class="circle-item">
-            <a href="#products" class="circle">🧪</a>
+          <div class="rectangle-item">
+            <a href="#products" class="rectangle">🧪</a>
             <p>New products</p>
           </div>
-          <div class="circle-item">
-            <a href="#processes" class="circle">🔄</a>
+          <div class="rectangle-item">
+            <a href="#processes" class="rectangle">🔄</a>
             <p>New processes</p>
           </div>
-          <div class="circle-item">
-            <a href="#knowledge" class="circle">🔍</a>
+          <div class="rectangle-item">
+            <a href="#knowledge" class="rectangle">🔍</a>
             <p>New knowledge</p>
           </div>
         </div>
+
 
   - block: markdown
     id: tools
