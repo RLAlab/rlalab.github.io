@@ -18,14 +18,13 @@
   font-weight: bold;
   color: #294b4b;  /* Text color */
   text-decoration: none;
-  border: 4px solid #294b4b;  /* Border color */
+  border: 4px solid white;  /* Border color */
   transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
 }
 
 .rectangle:hover {
   transform: scale(1.1);
   text-decoration: none;
-  border-color: #56917e;
 }
 
 /* Container layout */
