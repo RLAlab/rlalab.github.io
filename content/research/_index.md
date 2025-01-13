@@ -18,7 +18,7 @@ sections:
 
         <div class="rectangle-container">
           <div class="rectangle-item">
-            <a href="#tools" class="rectangle"><i class="fa-solid fa-screwdriver-wrench"></i> New tools</a>
+            <a href="#tools" class="rectangle"><i class="fa-solid fa-screwdriver-wrench"></i>  New tools</a>
           </div>
           <div class="rectangle-item">
             <a href="#products" class="rectangle">🧪</a>
