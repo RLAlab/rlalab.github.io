@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 3 8 * *"  # Runs at 3AM (UCT) on the 8th day of every month
+    - cron: "0 3 */10 * *" # Runs at 3AM (UCT) every 10 days
   workflow_dispatch:  # Allows manual trigger of this workflow from the Actions tab
 
 jobs:
