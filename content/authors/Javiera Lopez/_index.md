@@ -11,6 +11,8 @@ superuser: true
 
 # Role/position
 role: Lab Manager
+start_date: 2021-06-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:

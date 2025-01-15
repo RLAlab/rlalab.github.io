@@ -11,6 +11,8 @@ superuser: true
 
 # Role/position
 role: Research Technician
+start_date: 2022-10-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:

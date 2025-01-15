@@ -11,6 +11,8 @@ superuser: true
 
 # Role/position
 role: Grant Writer & Project Manager
+start_date: 2023-08-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:

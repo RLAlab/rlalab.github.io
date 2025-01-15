@@ -11,6 +11,8 @@ superuser: true
 
 # Role/position
 role: Research Support Technician
+start_date: 2024-05-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
