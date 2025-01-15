@@ -11,6 +11,8 @@ superuser: true
 
 # Role/position
 role: Marie Skłodowska-Curie Individual Fellow
+start_date: 2022-03-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
