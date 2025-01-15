@@ -45,3 +45,24 @@
 .rectangle i {
   margin-right: 8px;  /* Adjust spacing as needed */
 }
+
+.people-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.people-entry {
+  margin-bottom: 0.5em;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.people-entry a {
+  text-decoration: none;
+  color: #007bff; /* Bootstrap primary color */
+}
+
+.people-entry a:hover {
+  text-decoration: underline;
+}
