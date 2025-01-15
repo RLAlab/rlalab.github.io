@@ -10,7 +10,7 @@ last_name: Lopez Barbera
 superuser: true
 
 # Role/position
-role: Visiting Researcher (Sept 2024 - Dec 2024)
+role: Visiting Researcher
 
 # Organizations/Affiliations
 organizations:
