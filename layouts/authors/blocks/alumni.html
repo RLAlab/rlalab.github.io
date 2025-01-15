@@ -48,7 +48,8 @@
           {{ range $query }}
             <div class="col-6 people-entry">
               <a href="{{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}{{ .RelPermalink }}{{ end }}">
-                <strong>{{ .Title }}</strong>:{{ if .Params.role }} {{ .Params.role | markdownify | emojify }}{{ end }}
+                <strong>{{ .Title }}</strong>:
+                {{ if .Params.role }} {{ .Params.role | markdownify | emojify }}{{ end }}
                 {{ if .Params.start_date }}{{ .Params.start_date | dateFormat "Jan 2006" }}{{ end }}
                 {{ if .Params.end_date }} – {{ .Params.end_date | dateFormat "Jan 2006" }}{{ end }}
                 {{ if .Params.notes }}<em>{{ .Params.notes | markdownify | emojify }}</em>{{ end }}
