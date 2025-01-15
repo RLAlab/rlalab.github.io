@@ -11,6 +11,8 @@ superuser: true
 
 # Role/position
 role: PhD student
+start_date: 2023-10-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
