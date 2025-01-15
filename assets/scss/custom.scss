@@ -53,9 +53,10 @@
 }
 
 .people-entry {
-  font-size: 0.9rem; /* Make the font size smaller */
+  font-size: 0.7rem; /* Make the font size smaller */
   line-height: 1.4; /* Adjust line height for readability */
   margin-bottom: 0.5em;
+  text-align: left; /* Align text to the left */
 }
 
 .people-entry a {
@@ -74,5 +75,10 @@
 
 .people-entry {
   margin-bottom: 1em;
+  text-align: left; /* Ensure alignment is left */
 }
 
+.section-heading h1,
+.section-heading p {
+  text-align: left; /* Align the section title and subtitle to the left */
+}
