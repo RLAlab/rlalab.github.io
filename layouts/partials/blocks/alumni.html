@@ -44,9 +44,9 @@
       {{ end }}
 
       <div class="col-12">
-        <ul class="people-list">
+        <div class="row people-columns">
           {{ range $query }}
-            <li class="people-entry">
+            <div class="col-6 people-entry">
               <a href="{{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}{{ .RelPermalink }}{{ end }}">
                 <strong>{{ .Title }}</strong>
               </a>: 
@@ -54,9 +54,9 @@
               {{ if .Params.start_date }}{{ .Params.start_date | dateFormat "Jan 2006" }}{{ end }}
               {{ if .Params.end_date }} – {{ .Params.end_date | dateFormat "Jan 2006" }}{{ end }}
               {{ if .Params.notes }}<em>{{ .Params.notes | markdownify | emojify }}</em>{{ end }}
-            </li>
+            </div>
           {{ end }}
-        </ul>
+        </div>
       </div>
     {{ end }}
   </div>

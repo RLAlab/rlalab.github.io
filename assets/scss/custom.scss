@@ -53,9 +53,9 @@
 }
 
 .people-entry {
+  font-size: 0.9rem; /* Make the font size smaller */
+  line-height: 1.4; /* Adjust line height for readability */
   margin-bottom: 0.5em;
-  font-size: 1rem;
-  line-height: 1.5;
 }
 
 .people-entry a {
@@ -65,3 +65,14 @@
 .people-entry a:hover {
   text-decoration: underline;
 }
+
+/* Two-column layout adjustments */
+.people-columns {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.people-entry {
+  margin-bottom: 1em;
+}
+
