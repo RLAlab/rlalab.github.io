@@ -10,7 +10,7 @@ sections:
       title: Former students, post-docs and staff of RLA Lab
       user_groups:
           - Alumni
-      sort_by: Params.last_name
+      sort_by: Params.end_date
       sort_ascending: true
     design:
       show_interests: false

@@ -11,6 +11,8 @@ superuser: true
 
 # Role/position
 role: Visiting Researcher
+start_date: Sep 2024
+end_date: Dec 2024
 
 # Organizations/Affiliations
 organizations:
