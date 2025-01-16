@@ -1,21 +1,19 @@
 ---
 # Display name
-title: Florian Hänsel
+title: Florian 
 
 # Full Name (for SEO)
-first_name: Florian
-last_name: Hänsel
+first_name: 
+last_name: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Visiting Researcher
-start_date:
-end_date:
+role: 
 
 # Organizations/Affiliations
-organizations: University of Düsseldorf
+organizations:
   - name: 
     url: 
 
