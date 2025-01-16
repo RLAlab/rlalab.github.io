@@ -16,7 +16,7 @@ end_date: 2024-09-30
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: University of Düsseldorf
     url: 
 
 # Short bio (displayed in user profile at end of posts)

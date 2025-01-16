@@ -16,7 +16,7 @@ end_date: 2023-12-15
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: ETH Zürich
     url: 
 
 # Short bio (displayed in user profile at end of posts)
