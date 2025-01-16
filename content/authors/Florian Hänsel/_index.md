@@ -15,7 +15,7 @@ start_date: 2024-08-01
 end_date: 2024-09-30
 
 # Organizations/Affiliations
-organizations: University of Dusseldorf
+organizations:
   - name: 
     url: 
 
