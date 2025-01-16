@@ -10,7 +10,9 @@ last_name: Patel
 superuser: true
 
 # Role/position
-role: 
+role: PhD student
+start_date: 2019-10-01
+end_date: 2024-03-01
 
 # Organizations/Affiliations
 organizations:

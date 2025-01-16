@@ -10,7 +10,9 @@ last_name: Shabestary
 superuser: true
 
 # Role/position
-role: 
+role: Research Associate
+start_date: 2021-04-01
+end_date: 2024-09-01
 
 # Organizations/Affiliations
 organizations:

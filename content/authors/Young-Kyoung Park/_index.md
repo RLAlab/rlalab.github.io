@@ -10,7 +10,9 @@ last_name: Park
 superuser: true
 
 # Role/position
-role: 
+role: Research Associate
+start_date: 2021-07-01
+end_date: 2023-03-01
 
 # Organizations/Affiliations
 organizations:

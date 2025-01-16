@@ -10,10 +10,12 @@ last_name: Hänsel
 superuser: true
 
 # Role/position
-role: 
+role: Visiting Researcher
+start_date: 2024-08-01
+end_date: 2024-09-30
 
 # Organizations/Affiliations
-organizations:
+organizations: University of Düsseldorf
   - name: 
     url: 
 

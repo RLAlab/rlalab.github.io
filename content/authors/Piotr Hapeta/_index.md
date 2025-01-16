@@ -10,7 +10,9 @@ last_name: Hapeta
 superuser: true
 
 # Role/position
-role: 
+role: Research Associate
+start_date: 2021-03-01
+end_date: 2024-01-31
 
 # Organizations/Affiliations
 organizations:

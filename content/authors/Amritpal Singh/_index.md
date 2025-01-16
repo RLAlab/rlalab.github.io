@@ -10,7 +10,9 @@ last_name: Singh
 superuser: true
 
 # Role/position
-role: 
+role: PhD student
+start_date: 2017-09-01
+end_date: 2022-09-01
 
 # Organizations/Affiliations
 organizations:

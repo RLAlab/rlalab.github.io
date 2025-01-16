@@ -10,10 +10,12 @@ last_name: Spoettling
 superuser: true
 
 # Role/position
-role: 
+role: Visiting Researcher
+start_date: 2023-09-01
+end_date: 2023-12-15
 
 # Organizations/Affiliations
-organizations:
+organizations: ETH Zürich
   - name: 
     url: 
 

@@ -10,7 +10,9 @@ last_name: E Graham
 superuser: true
 
 # Role/position
-role: 
+role: PhD student
+start_date: 2018-10-01
+end_date: 2023-01-01
 
 # Organizations/Affiliations
 organizations:

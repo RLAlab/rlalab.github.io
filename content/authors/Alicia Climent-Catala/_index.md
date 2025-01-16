@@ -10,7 +10,9 @@ last_name: Climent-Catala
 superuser: true
 
 # Role/position
-role: 
+role: PhD student
+start_date:
+end_date: 
 
 # Organizations/Affiliations
 organizations:
