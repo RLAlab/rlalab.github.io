@@ -10,14 +10,14 @@ last_name: Kassim
 superuser: true
 
 # Role/position
-role: Visiting Researcher
+role: Sponsored Researcher
 start_date: 2024-12-01
 end_date: 
 
 # Organizations/Affiliations
 organizations:
-  - name: Universiti Pendidikan Sultan Idris
-    url: ''
+  - name: 
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-    - Visitors
+    - Postdoctoral Researchers
   #- Researchers
 ---
 

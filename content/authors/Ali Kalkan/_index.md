@@ -10,7 +10,9 @@ last_name: Kalkan
 superuser: true
 
 # Role/position
-role: 
+role: MRes Bioengineering
+start_date: 2021-10-01
+end_date: 2022-09-14
 
 # Organizations/Affiliations
 organizations:

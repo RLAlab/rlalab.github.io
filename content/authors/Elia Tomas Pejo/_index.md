@@ -10,7 +10,9 @@ last_name: Pejo
 superuser: true
 
 # Role/position
-role: 
+role: Visiting Researcher
+start_date:
+end_date:
 
 # Organizations/Affiliations
 organizations:

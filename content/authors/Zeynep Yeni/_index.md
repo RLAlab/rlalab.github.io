@@ -10,7 +10,9 @@ last_name: Yeni
 superuser: true
 
 # Role/position
-role: 
+role: MRes Bioengineering
+start_date: 2024-07-02
+end_date: 2024-08-23
 
 # Organizations/Affiliations
 organizations:

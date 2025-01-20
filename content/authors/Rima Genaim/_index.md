@@ -10,7 +10,7 @@ last_name: Genaim
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Sponsored Researcher
 start_date: 2024-11-01
 end_date: 
 

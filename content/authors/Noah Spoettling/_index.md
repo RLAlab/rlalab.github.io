@@ -10,7 +10,7 @@ last_name: Spoettling
 superuser: true
 
 # Role/position
-role: Visiting Researcher
+role: Visiting student
 start_date: 2023-09-01
 end_date: 2023-12-15
 

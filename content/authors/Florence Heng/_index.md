@@ -10,7 +10,9 @@ last_name: Heng
 superuser: true
 
 # Role/position
-role: 
+role: MRes Bioengineering
+start_date: 2024-02-12
+end_date: 2024-09-05
 
 # Organizations/Affiliations
 organizations:

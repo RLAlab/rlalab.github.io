@@ -10,7 +10,9 @@ last_name: Bustos
 superuser: true
 
 # Role/position
-role: 
+role: Visiting Researcher
+start_date: 2023-01-16
+end_date: 2023-04-16
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,9 @@ last_name: Gerasimova
 superuser: true
 
 # Role/position
-role: 
+role: MRes Systems and Synthetic Biology
+start_date: 2019-09-01
+end_date: 2020-09-01
 
 # Organizations/Affiliations
 organizations:

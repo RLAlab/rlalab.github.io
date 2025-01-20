@@ -10,11 +10,13 @@ last_name: Villamor
 superuser: true
 
 # Role/position
-role: 
+role: Visiting student
+start_date: 2019-09-01
+end_date: 2020-01-01
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: Universidad Complutense de Madrid
     url: 
 
 # Short bio (displayed in user profile at end of posts)

@@ -10,7 +10,9 @@ last_name: Hueso-Gil
 superuser: true
 
 # Role/position
-role: 
+role: Research Associate
+start_date: 2021-03-01
+end_date: 2022-03-30
 
 # Organizations/Affiliations
 organizations:
