@@ -11,9 +11,9 @@ sections:
       user_groups:
           - Alumni
       sort_by: Params.end_date
-      sort_ascending: true
+      sort_ascending: false
     design:
       show_interests: false
       show_role: false
-      show_social: true
+      show_social: false
 ---
