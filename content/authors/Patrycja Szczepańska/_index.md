@@ -10,11 +10,13 @@ last_name: Szczepańska
 superuser: true
 
 # Role/position
-role: 
+role: Visiting Researcher
+start_date: 2019-05-01
+end_date: 2019-10-01
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: Wrocław University
     url: 
 
 # Short bio (displayed in user profile at end of posts)

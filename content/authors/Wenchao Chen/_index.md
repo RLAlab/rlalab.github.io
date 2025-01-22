@@ -10,7 +10,9 @@ last_name: Chen
 superuser: true
 
 # Role/position
-role: 
+role: Researcher
+start_date: 2022-08-16
+end_date: 2023-08-09
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,9 @@ last_name: Alvan
 superuser: true
 
 # Role/position
-role: 
+role: Research Assistant
+start_date: 2021-02-01
+end_date: 2022-02-01
 
 # Organizations/Affiliations
 organizations:

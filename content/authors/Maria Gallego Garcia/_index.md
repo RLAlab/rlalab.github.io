@@ -10,11 +10,13 @@ last_name: Garcia
 superuser: true
 
 # Role/position
-role: 
+role: Visiting Researcher
+start_date: 2022-07-15
+end_date: 2022-10-21
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: Universidad de Alcalá
     url: 
 
 # Short bio (displayed in user profile at end of posts)

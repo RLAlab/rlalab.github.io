@@ -10,7 +10,9 @@ last_name: Yin
 superuser: true
 
 # Role/position
-role: 
+role: MRes Bioengineering
+start_date: 2019-10-01
+end_date: 2020-06-01
 
 # Organizations/Affiliations
 organizations:

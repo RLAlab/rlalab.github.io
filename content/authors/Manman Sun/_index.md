@@ -10,11 +10,13 @@ last_name: Sun
 superuser: true
 
 # Role/position
-role: 
+role: Visiting Researcher
+start_date: 2023-03-20
+end_date: 2023-11-24
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: Jiangnan University
     url: 
 
 # Short bio (displayed in user profile at end of posts)

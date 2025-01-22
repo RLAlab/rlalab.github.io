@@ -10,11 +10,13 @@ last_name: Mota
 superuser: true
 
 # Role/position
-role: 
+role: Visiting Researcher
+start_date: 2021-07-01
+end_date: 2021-09-01
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: Instituto Superior Técnico Lisboa
     url: 
 
 # Short bio (displayed in user profile at end of posts)

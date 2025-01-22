@@ -10,7 +10,9 @@ last_name: Jiang
 superuser: true
 
 # Role/position
-role: 
+role: PhD student
+start_date: 2019-03-01
+end_date: 2022-12-01
 
 # Organizations/Affiliations
 organizations:

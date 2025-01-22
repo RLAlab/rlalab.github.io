@@ -10,7 +10,9 @@ last_name: Zhou
 superuser: true
 
 # Role/position
-role: 
+role: MRes Bioengineering
+start_date: 2022-10-01
+end_date: 2023-10-01
 
 # Organizations/Affiliations
 organizations:
