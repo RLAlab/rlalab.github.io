@@ -10,8 +10,9 @@ last_name: Peng
 superuser: true
 
 # Role/position
-role: 
-
+role: Research Associate
+start_date: 2018-11-01
+end_date: 2021-12-01
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,10 @@ last_name: Marshall
 superuser: true
 
 # Role/position
-role: 
+role: Research Assistant
+start_date: 2020-10-01
+end_date: 2022-08-08
+
 
 # Organizations/Affiliations
 organizations:

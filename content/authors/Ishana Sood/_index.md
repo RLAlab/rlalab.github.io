@@ -10,7 +10,9 @@ last_name: Sood
 superuser: true
 
 # Role/position
-role: 
+role: MRes Bioengineering
+start_date: 2020-10-01
+end_date: 2021-09-01
 
 # Organizations/Affiliations
 organizations:

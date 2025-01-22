@@ -10,7 +10,9 @@ last_name: Simoes
 superuser: true
 
 # Role/position
-role: 
+role: Visiting student
+start_date: 2023-05-05
+end_date: 2023-10-28
 
 # Organizations/Affiliations
 organizations:
