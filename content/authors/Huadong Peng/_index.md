@@ -12,6 +12,7 @@ superuser: true
 # Role/position
 role: 
 
+
 # Organizations/Affiliations
 organizations:
   - name: 

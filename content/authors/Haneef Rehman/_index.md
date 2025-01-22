@@ -10,7 +10,9 @@ last_name: Rehman
 superuser: true
 
 # Role/position
-role: 
+role: Postdoctoral Resarcher
+start_date: 2021-01-01
+end_date: 2021-11-01
 
 # Organizations/Affiliations
 organizations:

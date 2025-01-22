@@ -10,7 +10,9 @@ last_name: South
 superuser: true
 
 # Role/position
-role: 
+role: Postgraduate Researcher
+start_date: 2018-08-01
+end_date: 2020-07-01
 
 # Organizations/Affiliations
 organizations:

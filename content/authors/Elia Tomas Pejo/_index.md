@@ -11,12 +11,12 @@ superuser: true
 
 # Role/position
 role: Visiting Researcher
-start_date:
-end_date:
+start_date: 2024-07-01
+end_date: 2024-07-26
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: IMDEA Energy
     url: 
 
 # Short bio (displayed in user profile at end of posts)
