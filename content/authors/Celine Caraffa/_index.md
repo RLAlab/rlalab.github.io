@@ -59,3 +59,6 @@ highlight_name: false
 user_groups:
   - PhD Students
 ---
+
+Hi! My name is Celine. I’m a PhD student working on engineering _Yarrowia lipolytica_ for purple pigment production.  
+In my free time, I enjoy learning languages and like to consider myself a polyglot! My dream is to speak 10 someday.
