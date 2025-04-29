@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests bibtexparser re html unicodedata
+          pip install requests bibtexparser regex html unicodedata2
           
       - name: Run publications update
         run: python update_publications.py
