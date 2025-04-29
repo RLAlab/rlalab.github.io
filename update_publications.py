@@ -14,7 +14,6 @@ def fetch_openalex_works(author_name):
     
     author_id = results[0]["id"]  # Use first matched author
     display_name = results[0]["display_name"]
-    print(f"Found author: {display_name} ({author_id})")
 
     # Step 2: Get publications
     works = []
@@ -37,19 +36,33 @@ def fetch_openalex_works(author_name):
 
     return works
 
-def create_bibtex_entry(work):
+def create_bibtex_entry(publication):
+
+    authors = []
+    for author in publication['authorships']:
+        authors.append(author['author']['display_name'])
+
+    try: 
+        journal = publication['primary_location']['source']["display_name"]
+    except:
+        journal = ''
+
+    try:
+        if publication['doi']:
+            url = publication['doi']
+        else:
+            url = publication['primary_location']['landing_page_url']
+    except:
+        url = publication['primary_location']['landing_page_url']
+
     bib_entry = {
-        "ENTRYTYPE": "article",
-        "ID": work["id"].split("/")[-1],
-        "title": work.get("title", ""),
-        "author": " and ".join([a["author"]["display_name"] for a in work.get("authorships", [])]),
-        "journal": work.get("host_venue", {}).get("display_name", ""),
-        "volume": work.get("biblio", {}).get("volume", ""),
-        "number": work.get("biblio", {}).get("issue", ""),
-        "pages": work.get("biblio", {}).get("first_page", ""),
-        "year": str(work.get("publication_year", "")),
-        "publisher": work.get("host_venue", {}).get("publisher", ""),
-        "url": work.get("id", "")
+        "ENTRYTYPE": publication.get('type', 'article'),
+        "ID": publication.get('id', 'unknown_id'),
+        "title": publication.get('title', ''),
+        "author": ' and '.join(authors),
+        "journal": journal,
+        "year": str(publication.get('publication_year', '')),
+        "url": url
     }
     return bib_entry
 
@@ -59,8 +72,11 @@ works = fetch_openalex_works(author_name)
 
 bib_entries = []
 for work in works:
-    if work.get("publication_year") and work.get("host_venue", {}).get("display_name"):
+    try: 
+        work['primary_location']['landing_page_url']
         bib_entries.append(create_bibtex_entry(work))
+    except:
+        continue
 
 # Write to .bib file
 bib_database = BibDatabase()
