@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Rima Genaim
+title: Rima Gnaim
 
 # Full Name (for SEO)
 first_name: Rima
-last_name: Genaim
+last_name: Gnaim
 
 # Is this the primary user of the site?
 superuser: true
