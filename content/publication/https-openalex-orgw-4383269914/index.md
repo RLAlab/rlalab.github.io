@@ -1,0 +1,24 @@
+---
+title: Cascaded <i>de novo</i> biosynthesis of lacto-proteins from CO<sub>2</sub>
+  by engineered <i>Pichia pastoris</i>
+authors:
+- Xueqin Lv
+- Shixiu Cui
+- Jie Chen
+- Lingling Wang
+- Yanfeng Liu
+- Jianghua Li
+- Guocheng Du
+- Xiaohao Liu
+- Jian Chen
+- Rodrigo Ledesma‐Amaro
+- Long Liu
+date: '2023-01-01'
+publishDate: '2025-04-29T16:28:10.830629Z'
+publication_types:
+- article-journal
+publication: '*Green Chemistry*'
+links:
+- name: URL
+  url: https://doi.org/10.1039/d3gc00867c
+---
