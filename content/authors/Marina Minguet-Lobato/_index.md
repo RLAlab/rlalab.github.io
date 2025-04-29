@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Yi Wan
+title: Marina Minguet-Lobato
 
 # Full Name (for SEO)
-first_name: Yi
-last_name: Wan
+first_name: Marina
+last_name: Minguet-Lobato
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: Visiting Researcher
-start_date: 2025-01-01
-end_date: 2025-04-01
+start_date: 2025-05-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: CSIC, Spanish National Research Council
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -63,10 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #  - Visitors
-  - Alumni
+    - Visitors
   #- Researchers
 ---
 
-Hi! My name is Yi. I’m a visiting scholar from China, working on biosensing and its devices. I have also run a high-tech startup company for producing and selling the microbial-relating device invented by my lab.  
-In my free time, I enjoy traveling and having a good time with friends! 
+Hello! I'm Marina, a postdoctoral researcher from Spain. My research focuses on engineering _Yarrowia lipolytica_ for the development of sustainable bioprocesses aimed at the valorisation of renewable feedstocks. I have a background in biocatalysis and protein engineering, with particular experience working with carbohydrate-active enzymes. I am passionate about applying biotechnology to address environmental challenges.  
+Outside of research, I enjoy reading, playing the Spanish guitar, spending time with family and friends, and hanging out with my little black panther, #KarmaTheCat.

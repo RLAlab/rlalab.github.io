@@ -1,56 +1,71 @@
-from scholarly import scholarly
+import requests
 import bibtexparser
 from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 
-# Function to create a BibTeX entry from a publication dictionary
-def create_bibtex_entry(publication):
-    # Create a dictionary in BibTeX format
+def fetch_openalex_works(author_name):
+    # Step 1: Find the author ID
+    response = requests.get("https://api.openalex.org/authors", params={"search": author_name})
+    response.raise_for_status()
+    results = response.json()["results"]
+    
+    if not results:
+        raise ValueError("Author not found in OpenAlex.")
+    
+    author_id = results[0]["id"]  # Use first matched author
+    display_name = results[0]["display_name"]
+    print(f"Found author: {display_name} ({author_id})")
+
+    # Step 2: Get publications
+    works = []
+    cursor = "*"
+    while True:
+        works_response = requests.get(
+            "https://api.openalex.org/works",
+            params={
+                "filter": f"author.id:{author_id}",
+                "per-page": 200,
+                "cursor": cursor
+            }
+        )
+        works_response.raise_for_status()
+        works_page = works_response.json()
+        works.extend(works_page["results"])
+        cursor = works_page["meta"]["next_cursor"]
+        if not cursor:
+            break
+
+    return works
+
+def create_bibtex_entry(work):
     bib_entry = {
         "ENTRYTYPE": "article",
-        "ID": publication.get('author_pub_id', 'unknown_id'),
-        "title": publication['bib'].get('title', ''),
-        "author": publication['bib'].get('author', ''),
-        "journal": publication['bib'].get('citation', '').split(",")[0],  # Journal is extracted from 'citation'
-        "volume": publication['bib'].get('volume', ''),
-        "number": publication['bib'].get('number', ''),
-        "pages": publication['bib'].get('pages', ''),
-        "year": str(publication['bib'].get('pub_year', '')),  # Year is from 'pub_year'
-        "publisher": publication['bib'].get('publisher', ''),
-        "url": publication.get('pub_url', '')
+        "ID": work["id"].split("/")[-1],
+        "title": work.get("title", ""),
+        "author": " and ".join([a["author"]["display_name"] for a in work.get("authorships", [])]),
+        "journal": work.get("host_venue", {}).get("display_name", ""),
+        "volume": work.get("biblio", {}).get("volume", ""),
+        "number": work.get("biblio", {}).get("issue", ""),
+        "pages": work.get("biblio", {}).get("first_page", ""),
+        "year": str(work.get("publication_year", "")),
+        "publisher": work.get("host_venue", {}).get("publisher", ""),
+        "url": work.get("id", "")
     }
     return bib_entry
 
-# Function to check if a publication has both a journal and year
-def has_journal_and_year(publication):
-    journal = publication['bib'].get('citation', '').split(",")[0]  # Get the journal from 'citation'
-    year = publication['bib'].get('pub_year', None)  # Get the year from 'pub_year'
-    
-    # Return True if both journal and year are present and not empty
-    return bool(journal) and bool(year)
+# Fetch and filter
+author_name = "Rodrigo Ledesma-Amaro"
+works = fetch_openalex_works(author_name)
 
-# Get Google Scholar profile
-search_query = scholarly.search_author('Rodrigo Ledesma-Amaro')
-author = scholarly.fill(next(search_query))
+bib_entries = []
+for work in works:
+    if work.get("publication_year") and work.get("host_venue", {}).get("display_name"):
+        bib_entries.append(create_bibtex_entry(work))
 
-# Generate BibTeX for publications that have a journal and year
-bibtex_entries = []
-for pub in author['publications']:
-    publication = scholarly.fill(pub)
-    if has_journal_and_year(publication):  # Only include publications with a journal and year
-        bibtex_entry = create_bibtex_entry(publication)
-        bibtex_entries.append(bibtex_entry)
-
-# Create BibTeX database
+# Write to .bib file
 bib_database = BibDatabase()
-bib_database.entries = bibtex_entries
-
-# Convert the BibTeX database to a BibTeX string
+bib_database.entries = bib_entries
 writer = BibTexWriter()
-bibtex_string = writer.write(bib_database)
 
-# Save to file
-with open("publications.bib", "w") as bibtex_file:
-    bibtex_file.write(bibtex_string)
-
-print("BibTeX file with publications that have both journal and year created successfully.")
+with open("publications.bib", "w") as f:
+    f.write(writer.write(bib_database))

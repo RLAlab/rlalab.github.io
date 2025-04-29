@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Yi Wan
+title: Vanessa Wegat
 
 # Full Name (for SEO)
-first_name: Yi
-last_name: Wan
+first_name: Vanessa
+last_name: Wegat
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: Visiting Researcher
-start_date: 2025-01-01
-end_date: 2025-04-01
+start_date: 2025-05-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: Fraunhofer Institute for Interfacial Engineering and Biotechnology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -63,10 +63,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #  - Visitors
-  - Alumni
+   - Visitors
+  #- Alumni
   #- Researchers
 ---
 
-Hi! My name is Yi. I’m a visiting scholar from China, working on biosensing and its devices. I have also run a high-tech startup company for producing and selling the microbial-relating device invented by my lab.  
-In my free time, I enjoy traveling and having a good time with friends! 
+Hi! My name is Vanessa and I am a postdoc from Fraunhofer IGB in Straubing, Germany. I worked on synthetic methylotrophic yeast and enzyme engineering during my PhD, and as a visiting researcher at Imperial College, I am building on this work.  
+In my free time, I love to travel and meet new people. Besides that, you can count me in for most sports events (running, skiing, hiking, biking, etc.). I’m a total book nerd and might have read some of my favourite books more than 15 times. 
