@@ -101,5 +101,5 @@ bib_database = BibDatabase()
 bib_database.entries = bib_entries
 writer = BibTexWriter()
 
-#with open("publications.bib", "w") as f:
-#    f.write(writer.write(bib_database))
+with open("publications.bib", "w") as f:
+    f.write(writer.write(bib_database))
