@@ -10,7 +10,7 @@ last_name: Atkinson
 superuser: true
 
 # Role/position
-role: PhD student
+role: Research Assistant
 start_date: 2020-09-01
 end_date: 
 
@@ -63,8 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  #- PhD Students
   #- Researchers
+  - Postdoctoral Researchers
 ---
 
 Hello! I’m Eliza and I’m a BioDesign Engineering CDT student. My project investigates the use of novel communication systems and division of metabolic load within microbial consortia for the development of next generation biotechnology.  

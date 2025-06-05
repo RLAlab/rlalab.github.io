@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Research Technician
 start_date: 2022-10-01
-end_date: 
+end_date: 2025-05-31
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Staff
+  #- Staff
+  - Alumni
 ---
 
 Hi, I’m Peiti coming from Taiwan. In metabolic engineering, yeasts and bacteria are working to produce valuable compounds just like tiny biofactories. I’m extremely into biosynthesis of natural products with microorganisms, especially for colorants and fragrances. My project focuses on carotenoids production in _Yarrowia lipolytica_, enabling novel approaches to achieve green industries.  
