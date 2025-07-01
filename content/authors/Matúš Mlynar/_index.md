@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Visitors
 
 Hello, my name is Matúš. I'm an undergraduate student at Amsterdam University College majoring in natural sciences. In the RLA lab, I am working on elucidating how the control of intracellular metabolite secretion influences community population dynamics in the context of bioproduction.  
 In my free time I enjoy travelling, cooking and archery. 
