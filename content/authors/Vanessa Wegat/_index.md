@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Visiting Researcher
 start_date: 2025-05-01
-end_date: 
+end_date: 2025-07-30
 
 # Organizations/Affiliations
 organizations:
@@ -63,8 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-   - Visitors
-  #- Alumni
+  # - Visitors
+  - Alumni
   #- Researchers
 ---
 

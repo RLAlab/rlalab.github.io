@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Marina Minguet-Lobato
+title: Shangkun Qiu
 
 # Full Name (for SEO)
-first_name: Marina
-last_name: Minguet-Lobato
+first_name: Shangkun
+last_name: Qiu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Visiting Researcher
-start_date: 2025-05-01
-end_date: 2025-07-30
+role: Marie Curie Post Doctoral Fellow
+start_date: 2025-07-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
-  - name: CSIC, Spanish National Research Council
+  - name: Imperial College London
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -38,10 +38,10 @@ organizations:
 # social:
 #   - icon: envelope
 #     icon_pack: fas
-#     link: 'mailto:ksarkar@ic.ac.uk'
-#   - icon: linkedin
+#     link: 
+#   - icon: x-twitter
 #     icon_pack: fab
-#     link: https://www.linkedin.com/in/kathakali-sarkar-1975bb66/
+#     link: 
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: 
@@ -63,10 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #  - Visitors
-    - Alumni
+  - Postdoctoral Researchers
   #- Researchers
 ---
 
-Hello! I'm Marina, a postdoctoral researcher from Spain. My research focuses on engineering _Yarrowia lipolytica_ for the development of sustainable bioprocesses aimed at the valorisation of renewable feedstocks. I have a background in biocatalysis and protein engineering, with particular experience working with carbohydrate-active enzymes. I am passionate about applying biotechnology to address environmental challenges.  
-Outside of research, I enjoy reading, playing the Spanish guitar, spending time with family and friends, and hanging out with my little black panther, #KarmaTheCat.
+Hello! I’m Shangkun Qiu, a researcher from Zhengzhou, China, passionate about synthetic biology and its potential to drive innovation. My current work focuses on enhancing resveratrol production using engineered _Yarrowia lipolytica_ strains, combining metabolic pathway engineering and bioprocess optimization to maximize yields. I’m deeply convinced that biotechnology holds the key to solving global challenges, and I’m excited to contribute to this transformative field.  
+In my leisure time, I enjoy traveling, cooking, reading, and socializing with friends.
