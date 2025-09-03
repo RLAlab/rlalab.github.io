@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: PhD student
 start_date: 2021-10-01
-end_date: 
+end_date: 2025-06-30
 
 # Organizations/Affiliations
 organizations:
@@ -63,8 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
-  #- Researchers
+  #- PhD Students
+  - Alumni
 ---
 
 Hi! I am Harman from India. My PhD project is focused on controlling synthetic bacterial communities for bioproduction.   Outside the lab, I enjoy reading, travelling and dancing.

@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Visiting Researcher
 start_date: 2025-07-01
-end_date:
+end_date: 2025-09-01
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  #- Visitors
+  - Alumni
 ---
 
 Hello, my name is Matúš. I'm an undergraduate student at Amsterdam University College majoring in natural sciences. In the RLA lab, I am working on elucidating how the control of intracellular metabolite secretion influences community population dynamics in the context of bioproduction.  

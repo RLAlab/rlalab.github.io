@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Research Support Technician
 start_date: 2020-03-01
-end_date: 
+end_date: 2025-07-31
 
 # Organizations/Affiliations
 organizations:
@@ -64,8 +64,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   #- PhD Students
-  - Staff
-  #- Researchers
+  #- Staff
+  - Alumni
 ---
 
 Trying to make the a-team of microbes: heterotrophs, diazotrophs and autotrophs combining forces, growing happily together and making up for eachother's deficiencies. I am a strong believer in the potential of synthetic biology to improve sustainability on our planet.  

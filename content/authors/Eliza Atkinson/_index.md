@@ -10,7 +10,7 @@ last_name: Atkinson
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Research Associate
 start_date: 2020-09-01
 end_date: 
 
