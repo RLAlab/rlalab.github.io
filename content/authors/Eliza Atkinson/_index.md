@@ -65,7 +65,7 @@ highlight_name: false
 user_groups:
   #- PhD Students
   #- Researchers
-  - Staff
+  - Postdoctoral Researchers
 ---
 
 Hello! I’m Eliza and I’m a BioDesign Engineering CDT student. My project investigates the use of novel communication systems and division of metabolic load within microbial consortia for the development of next generation biotechnology.  

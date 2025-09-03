@@ -10,7 +10,7 @@ last_name: Coppens
 superuser: true
 
 # Role/position
-role: Research Support Technician
+role: PhD student, Research Support Technician
 start_date: 2020-03-01
 end_date: 2025-07-31
 
