@@ -10,7 +10,7 @@ last_name: Del Missier
 superuser: true
 
 # Role/position
-role: Research Technician
+role: PhD Student
 start_date: 2022-11-01
 end_date: 
 
@@ -63,8 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Staff
+  #- Staff
+  - PhD Students
 ---
 
-Ciao! I’m Giorgia and I am from Italy. My research at the RLA lab lies at the intersection of bioengineering, structural biology, and machine learning. My long-term goal is to contribute to creating a circular bio-economy, and I believe synthetic biology is the key to a greener future.  
-Outside the lab I enjoy experimenting with new vegan recipes, swimming and hiking and I recently started bouldering!
+Ciao! I’m Giorgia and I am from Italy. My research at the RLA lab lies at the intersection of bioengineering and AI. During my PhD, I look into how AI can help accelerate alternative protein research and develop food that is better for our planet and for our health!
+Outside the lab I enjoy experimenting with new vegan recipes, swimming and hiking and I recently started crocheting!
