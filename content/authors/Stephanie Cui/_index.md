@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: MEng Chemical Engineering
 start_date: 2025-01-01
-end_date:
+end_date: 2025-04-30
 
 # Organizations/Affiliations
 organizations:
@@ -63,8 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  #- Master Students
   #- Researchers
+  - Alumni
 ---
 
 Hi! I'm Stephanie, a second-year Chemical Engineering student working on developing a food protein database. My project focuses on cataloging and analysing proteins relevant to the food industry, with particular emphasis on their structural characteristics and functional properties. This work aims to create a valuable resource for researchers and industry professionals in the alternative protein space.  
