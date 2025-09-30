@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Kyler Roy
+title:  Andrea Rico Montaña
 
 # Full Name (for SEO)
-first_name: Kyler
-last_name: Roy
+first_name: Andrea
+last_name: Rico Montaña
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: PhD student
-start_date: 2021-01-01
-end_date: 2025-09-01
+start_date: 2025-10-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
   - name: Imperial College London
-    url: ''
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -36,18 +36,12 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 
-#   - icon: x-twitter
-#     icon_pack: fab
-#     link: 
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: 
-#   - icon: researchgate
-#     icon_pack: fab
-#     link: 
+#    - icon: envelope
+#      icon_pack: fas
+#      link: 'mailto:'
+#    - icon: linkedin
+#      icon_pack: fab
+#      link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,9 +57,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #- PhD Students
-  #- Researchers
-  - Alumni
+  - PhD Students
 ---
 
-Hi, I’m Kyler from Canada! Yeasts make beer, which I think is pretty cool, but they could be even cooler if they made more things, like drugs, fragrances or biofuels. One of the biggest problems in metabolic engineering of microbes to produce high-value products is optimizing metabolic flux towards that compound of interest. My project focuses on enhancing multiplexed CRISPR systems to simultaneously upregulate or downregulate dozens of genes within a metabolic network to enhance bioproduction of many interesting compounds.
+Hey! My name is Andrea and I’m a Spanish-Colombian PhD student. After completing my MSci in Biotechnology at the University of Glasgow, I moved to Stanford, California, where I worked as a research associate and lab manager.
+My PhD research focuses on a key challenge in the commercialization of microbial cell factories: the more we engineer strains, the less robust and more heterogeneous they become. Using _Yarrowia lipolytica_ producing vitamins as a case study, I aim to explore strategies to overcome this bottleneck.  
+Beyond the lab, you’ll likely find me dancing Latin music, playing all kinds of sports, or spending time in nature.

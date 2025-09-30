@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Kyler Roy
+title:  Olivia Calkins
 
 # Full Name (for SEO)
-first_name: Kyler
-last_name: Roy
+first_name: Olivia
+last_name: Calkins
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: PhD student
-start_date: 2021-01-01
-end_date: 2025-09-01
+start_date: 2025-10-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
   - name: Imperial College London
-    url: ''
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -36,18 +36,12 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 
-#   - icon: x-twitter
-#     icon_pack: fab
-#     link: 
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: 
-#   - icon: researchgate
-#     icon_pack: fab
-#     link: 
+#    - icon: envelope
+#      icon_pack: fas
+#      link: 'mailto:'
+#    - icon: linkedin
+#      icon_pack: fab
+#      link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,9 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #- PhD Students
-  #- Researchers
-  - Alumni
+  - PhD Students
 ---
 
-Hi, I’m Kyler from Canada! Yeasts make beer, which I think is pretty cool, but they could be even cooler if they made more things, like drugs, fragrances or biofuels. One of the biggest problems in metabolic engineering of microbes to produce high-value products is optimizing metabolic flux towards that compound of interest. My project focuses on enhancing multiplexed CRISPR systems to simultaneously upregulate or downregulate dozens of genes within a metabolic network to enhance bioproduction of many interesting compounds.
+Hi! My name is Olivia and I am from Boston, Massachusetts. During my PhD, I am working on developing CRISPR-based tools and AI-driven strain engineering to improve yeast cells as factories for sustainable production of food proteins and other high-value molecules.  
+In my free time, I love going on walks, playing board games, and trying new restaurants! I have been vegan for 8 years and that is a big part of why I am so interested in sustainable food research.
