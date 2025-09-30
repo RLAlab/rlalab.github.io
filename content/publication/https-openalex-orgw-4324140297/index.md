@@ -1,0 +1,100 @@
+---
+title: 'Biotechnology and Bioengineering: Volume 120, Number 4, April 2023'
+authors:
+- Shahin Amiri
+- Setare Adibzadeh
+- Samaneh Ghanbari
+- Behnaz Rahmani
+- Mohammad Kheirandish
+- Aref Farokhi‐Fard
+- Mansoureh Shahbazi Dastjerdeh
+- Fatemeh Davami
+- Heba Sayed Mostafa
+- Marwa Mahmoud Hashem
+- N. Qin
+- Lingyun Li
+- Zheng Wang
+- Shuobo Shi
+- ' Toehold'
+- Synthe Biology
+- Sai .
+- Sumanjali Yarra
+- Ganapathy Ashok
+- Utpal Mohan
+- Taylor Brown
+- Sara Alharbi
+- Karen J. Ho
+- Bin Jiang
+- Maja Papež
+- Jiménez Lancho
+- Peter Eisenhut
+- Krishna Motheramgari
+- Nicole Borth
+- Christoph Keysberg
+- Helga Schneider
+- Kerstin Otte
+- Hannah S. Zurier
+- Julie Goddard
+- Kaifeng Wang
+- Wenyang Zhao
+- Lu Lin
+- Tianjing Wang
+- Ping Wei
+- Rodrigo Ledesma‐Amaro
+- Aihui Zhang
+- Xiao‐Jun Ji
+- Xu Wang
+- Jin Ma
+- Pengwei Li
+- Xiao-Man Huang
+- He Sun
+- Matthias Knödler
+- Patrick Opdensteinen
+- Ramya Ambur Sankaranarayanan
+- Agnieszka Morgenroth
+- Eva Miriam Buhl
+- Felix M. Mottaghy
+- Johannes F. Buyel
+- Patrick G. Negulescu
+- Derrick Risner
+- Edward S. Spang
+- Daniel Sumner
+- David E. Block
+- Somen Nandi
+- Karen A. McDonald
+- Young Lyun Oh
+- M. R. Becker
+- Kerri M. Mendola
+- Leila H. Choe
+- Kelvin H. Lee
+- Yinges Yigzaw
+- Alexander Seay
+- Jerome Bill
+- Xuanwen Li
+- David J. Roush
+- Steven M. Cramer
+- Stefano Menegatti
+- Abraham M. Lenhoff
+- Yanying Yu
+- Bingxue Gong
+- Huili Wang
+- Guixia Yang
+- Xianxuan Zhou
+- Kentaro Inokuma
+- Shunya Miyamoto
+- Kohei Morinaga
+- Yuma Kobayashi
+- Ryota Kumokita
+- Takahiro Bamba
+- Yoichiro Ito
+- Akihiko Kondo
+- Tomohisa Hasunuma
+date: '2023-01-01'
+publishDate: '2025-09-30T18:50:22.314323Z'
+publication_types:
+- article-journal
+publication: '*Biotechnology and Bioengineering*'
+links:
+- name: URL
+  url: https://doi.org/10.1002/bit.28137
+---
