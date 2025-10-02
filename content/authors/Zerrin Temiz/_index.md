@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: MRes Bioengineering
 start_date: 2024-10-01
-end_date: 
+end_date: 2025-07-30
 
 # Organizations/Affiliations
 organizations:

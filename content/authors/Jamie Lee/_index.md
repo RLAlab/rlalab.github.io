@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: PhD student
 start_date: 2020-10-01
-end_date: 
+end_date: 2025-01-01
 
 # Organizations/Affiliations
 organizations:
@@ -63,8 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  #- PhD Students
   #- Researchers
+  - Alumni
 ---
 
 My PhD focuses on designing a novel microbial therapy for patients with eczema by controlling the skin microbiome. I am particularly interested in using a systems biology approach to understand how the stability of the microbiome can be maintained.  

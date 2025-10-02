@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: MRes Bioengineering
 start_date: 2024-10-01
-end_date: 
+end_date: 2025-07-30
 
 # Organizations/Affiliations
 organizations:
@@ -63,8 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  #- Master Students
   #- Researchers
+  - Alumni
 ---
 
 Hi! My name is Keziah and I'm from Singapore. I'm working on engineering _Yarrowia lipolytica_ to grow in low oxygen environments using hemoproteins. Outside of the lab you'll find me crocheting, cooking and playing board games. 
