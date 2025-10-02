@@ -67,5 +67,5 @@ user_groups:
   - PhD Students
 ---
 
-Ciao! I’m Giorgia and I am from Italy. My research at the RLA lab lies at the intersection of bioengineering and AI. During my PhD, I look into how AI can help accelerate alternative protein research and develop food that is better for our planet and for our health!
+Ciao! I’m Giorgia and I am from Italy. My research at the RLA lab lies at the intersection of bioengineering and AI. During my PhD, I look into how AI can help accelerate alternative protein research and develop food that is better for our planet and for our health!  
 Outside the lab I enjoy experimenting with new vegan recipes, swimming and hiking and I recently started crocheting!
