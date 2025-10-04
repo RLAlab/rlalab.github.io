@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Razieh Rafieenia
+title: Thomas Gassler
 
 # Full Name (for SEO)
-first_name: Razieh
-last_name: Rafieenia
+first_name: Thomas
+last_name: Gassler
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Marie Skłodowska-Curie Individual Fellow
-start_date: 2022-03-01
-end_date: 2025-07-30
+role: Research Fellow
+start_date: 2025-10-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
@@ -63,10 +63,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #- Postdoctoral Researchers
+  - Postdoctoral Researchers
   #- Researchers
-  - Alumni
+  #- Alumni
 ---
 
-Hi, I’m Razieh and I joined the group as a Marie Skłodowska-Curie Research Fellow to work on microbial lipids production from lignocellulosic biomass using synthetic microbial consortia. Prior to Imperial, I had experience on microbial electrochemical systems for the treatment of recalcitrant pollutants, anaerobic digestion for hydrogen and methane production from organic wastes, and metabolic flux balance analysis.  
-In my free time, I enjoy traveling, eating, and cooking for friends.
+My name is Tom, and my scientific passions span from C1 metabolism over fungal biology and artificial endosymbiosis to fungal foods. I combine these passions as a Research Fellow and Subgroup Leader in the RLA lab!  
+In my free time I enjoy visiting hidden urban places and exploring nature while running absurdly long distances.
