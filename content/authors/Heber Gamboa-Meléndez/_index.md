@@ -42,15 +42,15 @@ social:
 #   - icon: x-twitter
 #     icon_pack: fab
 #     link: 
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: 
-#   - icon: researchgate
-#     icon_pack: fab
-#     link: 
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Om1z85gAAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Heber-Gamboa
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
+# - icon: cvs
 #   icon_pack: ai
 #   link: files/cv.pdf
 

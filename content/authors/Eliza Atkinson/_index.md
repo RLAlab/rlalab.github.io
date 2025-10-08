@@ -68,5 +68,5 @@ user_groups:
   - Postdoctoral Researchers
 ---
 
-Hello! I’m Eliza and I’m a BioDesign Engineering CDT student. My project investigates the use of novel communication systems and division of metabolic load within microbial consortia for the development of next generation biotechnology.  
-Outside the lab I spend my time baking cakes, watching horror movies and accidentally murdering my houseplants.
+Hello! I’m Eliza and I’m an EPSRC Doctoral Prize Fellowship Research Associate. I’ve been working in the RLA lab for 5 years now. My projects include designing microbial consortia for food waste degradation and precision fermentation for scents and dyes. I am currently working on the production of food proteins in _Yarrowia lipolytica_.  
+Outside the lab I spend my time painting, watching horror movies and accidentally murdering my houseplants.
