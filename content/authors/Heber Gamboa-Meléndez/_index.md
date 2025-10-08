@@ -39,9 +39,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/heber-gamboa-melendez/
-#   - icon: x-twitter
-#     icon_pack: fab
-#     link: 
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto: h.gamboa@imperial.ac.uk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Om1z85gAAAAJ&hl=en

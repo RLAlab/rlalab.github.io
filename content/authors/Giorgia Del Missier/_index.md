@@ -42,9 +42,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/giorgia-del-missier/
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: 
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto: gd1122@ic.ac.uk'
 #   - icon: researchgate
 #     icon_pack: fab
 #     link: 
