@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Visiting Researcher
 start_date: 2025-09-01
-end_date: 
+end_date: 2025-12-01
 
 # Organizations/Affiliations
 organizations:
@@ -57,8 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
-  #- Alumni
+  #- Visitors
+  - Alumni
 ---
 
 Hello! My name is Diego and I am a PhD student from Madrid, Spain working in lignocellulosic biomass degradation and consumption in _Yarrowia lipolytica_.  

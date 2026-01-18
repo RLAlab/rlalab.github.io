@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Visiting Researcher
 start_date: 2025-03-20
-end_date: 
+end_date: 2025-10-01
 
 # Organizations/Affiliations
 organizations:
@@ -63,8 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-    - Visitors
-  #- Researchers
+  #- Visitors
+  - Alumni
 ---
 
 Hi! My name is Yuzhu Zhao. I have a background in food microbial community. My research interests lie in the field of constructing cross-feeding relationships among them. In the lab, my primary focus is on the development of editing tools for _Yarrowia lipolytica_ yeast. This involves exploring innovative techniques to enhance the genetic manipulation of this oleaginous yeast, with the aim of advancing its applications in biotechnology and bioengineering.
