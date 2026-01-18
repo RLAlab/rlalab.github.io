@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Change Hu
+title: Changyu Hu
 
 # Full Name (for SEO)
-first_name: Change
+first_name: Changyu
 last_name: Hu
 
 # Is this the primary user of the site?
