@@ -1,18 +1,17 @@
 ---
 # Display name
-title: Razieh Rafieenia
+title: Utkarsh Singh
 
 # Full Name (for SEO)
-first_name: Razieh
-last_name: Rafieenia
+first_name: Utkarsh
+last_name: Sing
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-#role: Marie Skłodowska-Curie Individual Fellow
-role: Research Associate
-start_date: 2022-03-01
+role: MSc Chemical Engineering
+start_date: 2026-02-01
 end_date: 
 
 # Organizations/Affiliations
@@ -36,10 +35,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/utkarshsinghc052502/
 #   - icon: x-twitter
 #     icon_pack: fab
 #     link: 
@@ -64,10 +63,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Researchers
+  #- Alumni
+  - Master Students
   #- Researchers
-  - Alumni
 ---
 
-Hi, I’m Razieh and I joined the group as a Marie Skłodowska-Curie Research Fellow to work on microbial lipids production from lignocellulosic biomass using synthetic microbial consortia. Prior to Imperial, I had experience on microbial electrochemical systems for the treatment of recalcitrant pollutants, anaerobic digestion for hydrogen and methane production from organic wastes, and metabolic flux balance analysis.  
-In my free time, I enjoy traveling, eating, and cooking for friends.
+Hello! I am currently pursuing master's in chemical engineering with biotechnology at Imperial. I did Bachelor's in triple major's (Biotechnology, Chemistry, Zoology) and aspire to pursue my career in Biotechnology. I am working on improving SAF blends using synthetic microbial communities and development of a metabolomic analysis pipeline. In this project my role will be learning about the techniques used and getting hands on experience of lab experiments.
+
