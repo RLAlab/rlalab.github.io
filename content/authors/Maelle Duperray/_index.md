@@ -67,5 +67,5 @@ user_groups:
   #- Researchers
 ---
 
-Hi, I am Maëlle from France. I am working on phenotypic heterogeneity in clonal yeast populations. I am particularly interested in the mechanisms leading to production heterogeneity and how we could manage it to build more efficient microbial cell factories. I truly believe that biotechnology can contribute to changes towards a more sustainable future and I love talking and learning about all related subjects.  
-I also enjoy dancing, cooking, travelling and spending time out with friends.
+Hi, I'm Maëlle from France. I am working on phenotypic heterogeneity in clonal yeast populations. I am particularly interested in the mechanisms leading to bioproduction heterogeneity and how we could manage it to build more efficient and robust microbial cell factories.  
+When I’m not in the lab, you’ll probably find me enjoying live music, dancing swing and rock dances or spending time in nature.
