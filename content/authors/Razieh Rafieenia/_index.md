@@ -66,7 +66,7 @@ highlight_name: false
 user_groups:
   - Postdoctoral Researchers
   #- Researchers
-  - Alumni
+  #- Alumni
 ---
 
 Hi, I’m Razieh and I joined the group as a Marie Skłodowska-Curie Research Fellow to work on microbial lipids production from lignocellulosic biomass using synthetic microbial consortia. Prior to Imperial, I had experience on microbial electrochemical systems for the treatment of recalcitrant pollutants, anaerobic digestion for hydrogen and methane production from organic wastes, and metabolic flux balance analysis.  
