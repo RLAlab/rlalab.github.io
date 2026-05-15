@@ -20,16 +20,16 @@ sections:
       email: r.ledesma-amaro@imperial.ac.uk
       phone: 020 7584 1113
       address:
-        street: Exhibition Rd, South Kensington
+        street: 84 Wood Lane
         city: London
         #region: CA
-        postcode: 'SW7 2AZ'
+        postcode: 'W12 0BZ'
         country: United Kingdom
         country_code: UK
       coordinates:
-        latitude: '51.49936987716543'
-        longitude: '-0.1750880767103513'
-      directions: RSM 3.06, Royal School of Mines, South Kensington Campus
+        latitude: '51.51584525629267'
+        longitude: '-0.2244948202417522'
+      directions: Translation & Innovation Hub, Bioengineering Department 9th floor, Imperial White City Campus
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'

@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: PhD student
 start_date: 2022-01-01
-end_date: 
+end_date: 2026-05-01
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   #- Researchers
-  - PhD Students
+  #- PhD Students
+  - Alumni
 ---
 
 Hi there! I'm Diego, from Spain. In my PhD project I'm trying to understand how yeasts behave when they live in community. Why and how do they trade their very precious metabolites? How does this shape the population landscape? Can we rewrite the rules that govern their communities?  
