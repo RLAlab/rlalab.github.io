@@ -4,13 +4,13 @@ title: Mohamed Almarei
 
 # Full Name (for SEO)
 first_name: Mohamed
-last_name: Klemm
+last_name: Almarei
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD student
+role: Research Associate #PhD student
 start_date: 2021-10-01
 end_date: 
 
@@ -63,7 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+   - Postdoctoral Researchers 
+  #- PhD Students
   #- Researchers
 ---
 
