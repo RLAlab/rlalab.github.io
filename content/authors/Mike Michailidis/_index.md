@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Soleil Martin
+title: Mike Michailidis
 
 # Full Name (for SEO)
-first_name: Soleil
-last_name: Martin
+first_name: Mike
+last_name: Michailidis
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Visiting student
-start_date: 2026-03-01
+role: PhD student
+start_date: 2026-07-01
 end_date: 
 
 # Organizations/Affiliations
 organizations:
-  - name: Wageningen University & Research
+  - name: Imperial College London
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,10 +35,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: linkedin
-    icon_pack: fab
-    link: www.linkedin.com/in/soleilmartin
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 
 #   - icon: x-twitter
 #     icon_pack: fab
 #     link: 
@@ -63,11 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #- Alumni
-  - Visitors
+  - PhD Students
   #- Researchers
 ---
 
-Hello! My name is Soleil and I am from France. I am currently completing a Master’s degree in Food Technology at Wageningen University & Research, with specialisations in Food Fermentation and Biotechnology and Ingredient Functionality and Design.
-During my internship at the RLA Lab, I am working with Chang-Keun Kang on bacterial cellulose materials. The project explores how yeast can be integrated into the cellulose structure to introduce new characteristics and make the material more appealing as an edible product.  
-Outside the lab, I enjoy going to the gym, trying new sports, and experimenting with new recipes.
+Hi all, I am Mike. My research sits at the intersection of synthetic biology, tool making, and protein science. I did my undergrad in Biochemistry at the University of Bristol, followed by a masters in Synthetic Biology at UCL, where I focused on enzyme engineering. I then joined Jim Haseloff's lab at Cambridge for a year, engineering bacteria and chloroplasts into a hyperexpression platform for recombinant proteins. At RLA, I am working on vitamin biosynthesis in _Yarrowia lipolytica_.  
+I am from Limassol, Cyprus, and outside the lab (when I am not recovering from the lab) you will usually find me out in nature, playing or watching football, bbqing, and always looking to try new things and places with friends.

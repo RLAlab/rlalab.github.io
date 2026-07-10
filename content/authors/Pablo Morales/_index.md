@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Soleil Martin
+title: Pablo Morales
 
 # Full Name (for SEO)
-first_name: Soleil
-last_name: Martin
+first_name: Pablo
+last_name: Morales
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: Visiting student
-start_date: 2026-03-01
+start_date: 2026-07-01
 end_date: 
 
 # Organizations/Affiliations
 organizations:
-  - name: Wageningen University & Research
-    url: ''
+  - name: University of Murcia
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -35,18 +35,12 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: linkedin
-    icon_pack: fab
-    link: www.linkedin.com/in/soleilmartin
-#   - icon: x-twitter
+# social:
+#   - icon: linkedin
 #     icon_pack: fab
 #     link: 
 #   - icon: google-scholar
 #     icon_pack: ai
-#     link: 
-#   - icon: researchgate
-#     icon_pack: fab
 #     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,9 +59,7 @@ highlight_name: false
 user_groups:
   #- Alumni
   - Visitors
-  #- Researchers
 ---
 
-Hello! My name is Soleil and I am from France. I am currently completing a Master’s degree in Food Technology at Wageningen University & Research, with specialisations in Food Fermentation and Biotechnology and Ingredient Functionality and Design.
-During my internship at the RLA Lab, I am working with Chang-Keun Kang on bacterial cellulose materials. The project explores how yeast can be integrated into the cellulose structure to introduce new characteristics and make the material more appealing as an edible product.  
-Outside the lab, I enjoy going to the gym, trying new sports, and experimenting with new recipes.
+Hello everyone, I'm Pablo and I just finished the third year of my Biology undergrad at the University of Murcia. I also completed an internship at the Department of Genetics and Microbiology, where I worked in Mucor transformation using CRISPR/Cas9 gene editing. This experience really developed my interest in fungal genetics and biotechnology. During my stay at the RLA lab I am working on _Rhizopus cultivation_ and modification.  
+In my free time I enjoy hiking, birdwatching and reading (or attempting to read) philosophy and the classics.
