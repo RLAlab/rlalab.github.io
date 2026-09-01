@@ -10,7 +10,7 @@ last_name: Qian
 superuser: true
 
 # Role/position
-role: Sponsored Researcher
+role: Visiting Researcher
 start_date: 2026-02-01
 end_date: 
 

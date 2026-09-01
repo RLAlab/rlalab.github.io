@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Research Associate #PhD student
 start_date: 2021-10-01
-end_date: 
+end_date: 2026-09-01
 
 # Organizations/Affiliations
 organizations:
@@ -63,9 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-   - Postdoctoral Researchers 
+  # - Postdoctoral Researchers 
   #- PhD Students
-  #- Researchers
+  - Alumni
 ---
 
 Strictly aerobic organisms and oxygen formed an unbreakable bond that stretches back many generations and matured exclusively through evolution. For us to understand how this relationship came into place and reverse it requires identifying the missing parts in an aerobe’s metabolism, similar to solving a jigsaw puzzle! My name is Mohamed and that was a brief description of my project.  
