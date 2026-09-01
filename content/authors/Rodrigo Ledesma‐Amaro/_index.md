@@ -10,7 +10,7 @@ last_name: Ledesma-Amaro
 superuser: true
 
 # Role/position
-role: Reader in Synthetic Biology
+role: Professor & Academic Lead for Eng Biology for Sustainability
 
 # Organizations/Affiliations
 organizations:

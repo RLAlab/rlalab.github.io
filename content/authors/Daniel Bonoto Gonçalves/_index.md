@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Chris Su
+title: Daniel Bonoto Gonçalves
 
 # Full Name (for SEO)
-first_name: Chris
-last_name: Su
+first_name: Daniel
+last_name: Bonoto Gonçalves
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: BSc Biochemistry
-start_date: 2026-07-01
-end_date:
+role: Visiting Professor
+start_date: 2026-07-20
+end_date: 
 
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: 
+  - name: Federal University of São João del-Rei
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -36,11 +36,17 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#   - icon: linkedin
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 
+#   - icon: x-twitter
 #     icon_pack: fab
 #     link: 
 #   - icon: google-scholar
 #     icon_pack: ai
+#     link: 
+#   - icon: researchgate
+#     icon_pack: fab
 #     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,9 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master & Undergraduate Students
+  #- Researchers
+  - Visitors
 ---
 
-Hi everyone! I’m Chris, and I am studying Biochemistry at Imperial College London. I’m passionate about synthetic biology and biotechnology, and I’m particularly interested in engineering the mevalonate pathway to improve ergosterol production. I’ll primarily be working on investigating cell heterogeneity in _Saccharomyces cerevisiae_ in the context of mevalonate pathway optimisation.  
-A fun fact about me: I collect a fridge magnet from every place I travel!
-
+Hello! I am Daniel Bonoto Gonçalves, an Associate Professor in the Department of Biotechnology at the Federal University of São João del-Rei (UFSJ), Brazil. My background is in bioprocess optimization using yeasts and filamentous fungi. My research focuses on developing sustainable microbial bioprocesses within the biorefinery framework to convert renewable biomass into biofuels, food products, and other high-value bioproducts using non-conventional yeasts. At the RLA Lab, I aim to explore and optimize the production of bioemulsifiers and biomass using _Yarrowia lipolytica_ for use as functional ingredients in the food industry.  
+Outside the lab, I enjoy spending time with my family, being close to nature, and listening to music.

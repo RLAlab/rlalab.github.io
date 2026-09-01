@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Master & Undergraduate Students
 ---
 
 Hello! My name is Chen, from Shenzhen, China. I am currently studying Molecular Bioengineering at Imperial and in the RLA lab I’ll be working on investigating how p-coumaric acid is degraded in _Yarrowia lipolytica_ and identify the genes responsible for it.  

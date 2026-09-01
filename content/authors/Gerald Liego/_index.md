@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: BSc Biochemistry
 start_date: 2026-03-30
-end_date: 
+end_date: 2026-09-01
 
 # Organizations/Affiliations
 organizations:
@@ -63,9 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  #- Master Students
   #- Researchers
-  #- Alumni
+  - Alumni
 ---
 
 Hi! My name is Gerald Liego and I'm from Indonesia. I am currently pursuing a Bachelor's Degree in Biochemistry at Imperial and my main research interests lies within food biotechnology and structural biology. During my internship at the RLA Lab, I am working on isolating _Yarrowia Lipolytica_ for novel fermentation-based foods and ingredients.

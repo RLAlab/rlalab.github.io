@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Visiting Researcher
 start_date: 2026-05-01
-end_date: 
+end_date: 2026-09-01
 
 # Organizations/Affiliations
 organizations:
@@ -57,8 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
-  #- Alumni
+  #- Visitors
+  - Alumni
 ---
 
 Hey everyone! I am an Assistant Professor in the Department of Molecular Biology and Genetics at Bingöl University. My research focuses on synthetic biology and genome engineering, particularly in developing novel biological systems for biotechnological applications. My work during this visit focuses on establishing a yeast-based platform for V(D)J-like recombination to enable the generation of diverse antibody libraries. This project aims to explore a proof-of-concept system combining synthetic biology and microbial engineering approaches.

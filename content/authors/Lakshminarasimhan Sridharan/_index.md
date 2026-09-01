@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Chris Su
+title: Lakshminarasimhan Sridharan
 
 # Full Name (for SEO)
-first_name: Chris
-last_name: Su
+first_name: Lakshminarasimhan
+last_name: Sridharan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: BSc Biochemistry
-start_date: 2026-07-01
-end_date:
+role: Research Fellow
+start_date: 2026-09-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: 
+  - name: Imperial College London
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -36,11 +36,17 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#   - icon: linkedin
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 
+#   - icon: x-twitter
 #     icon_pack: fab
 #     link: 
 #   - icon: google-scholar
 #     icon_pack: ai
+#     link: 
+#   - icon: researchgate
+#     icon_pack: fab
 #     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,9 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master & Undergraduate Students
+  #- PhD Students
+  - Postdoctoral Researchers
+  #- Alumni
 ---
 
-Hi everyone! I’m Chris, and I am studying Biochemistry at Imperial College London. I’m passionate about synthetic biology and biotechnology, and I’m particularly interested in engineering the mevalonate pathway to improve ergosterol production. I’ll primarily be working on investigating cell heterogeneity in _Saccharomyces cerevisiae_ in the context of mevalonate pathway optimisation.  
-A fun fact about me: I collect a fridge magnet from every place I travel!
-
+My name is Simha, I am a food scientist with experience in alternative proteins and food colloids across industry and academia. As a Research Fellow in the Bezos Centre and mentee in the RLA lab, I apply my research interests to create innovative food ingredients.   Outside work, I enjoy capturing landscape pictures and to hike up mountains to capture those pictures.

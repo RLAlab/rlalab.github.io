@@ -10,7 +10,7 @@ last_name: Gnaim
 superuser: true
 
 # Role/position
-role: Sponsored Researcher
+role: Marie Skłodowska-Curie Actions Postdoctoral Fellow
 start_date: 2024-11-01
 end_date: 
 

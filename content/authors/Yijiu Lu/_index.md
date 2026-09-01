@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Chris Su
+title: Yijiu Lu
 
 # Full Name (for SEO)
-first_name: Chris
-last_name: Su
+first_name: Yijiu
+last_name: Lu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: BSc Biochemistry
-start_date: 2026-07-01
-end_date:
+start_date: 2026-07-15
+end_date: 
 
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: 
+  - name: Imperial College London
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -35,12 +35,18 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: linkedin
+social:
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/wilsonporteus/
+#   - icon: x-twitter
 #     icon_pack: fab
 #     link: 
 #   - icon: google-scholar
 #     icon_pack: ai
+#     link: 
+#   - icon: researchgate
+#     icon_pack: fab
 #     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,9 +63,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  #- Alumni
   - Master & Undergraduate Students
+  #- Researchers
 ---
 
-Hi everyone! I’m Chris, and I am studying Biochemistry at Imperial College London. I’m passionate about synthetic biology and biotechnology, and I’m particularly interested in engineering the mevalonate pathway to improve ergosterol production. I’ll primarily be working on investigating cell heterogeneity in _Saccharomyces cerevisiae_ in the context of mevalonate pathway optimisation.  
-A fun fact about me: I collect a fridge magnet from every place I travel!
-
+Hi, my name is Yijiu. I’m a third year undergraduate student at Imperial studying Biochemistry. My current research interests lie in the computational modelling and engineering of biological systems. I work on the metabolic engineering of skin commensal _C. acnes_ to produce bacteriocin.  
+Outside studies, I enjoy hiking, playing badminton, reading and watching films.
