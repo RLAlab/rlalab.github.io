@@ -4,8 +4,13 @@ title: Games
 # Listing view
 view: compact
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+
+sections:
+  - block: OverLab
+    content:
+      title: OverLab
+      text: |-
+        OverLab is a game by Izva. You can play it directly below:
+        
+        <iframe frameborder="0" src="https://itch.io/embed/3663518" width="552" height="167"><a href="https://izva.itch.io/overlab">OverLab by Izva</a></iframe>
 ---
