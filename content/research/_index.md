@@ -362,7 +362,7 @@ sections:
             <a href="https://doi.org/10.1038/s41467-023-37891-1" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
               <img src="microbial_food.png" alt="Microbial food review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
-                <strong>Our review on microbial food</strong><br>
+                <strong>The microbial food revolution</strong><br>
                 <em>Nature Communications</em> (2023)
               </div>
             </a>
