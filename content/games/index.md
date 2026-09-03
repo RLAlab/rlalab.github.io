@@ -1,8 +1,7 @@
 ---
 title: Games
 
-# Listing view
-view: compact
+type: landing
 
 sections:
   - block: games
