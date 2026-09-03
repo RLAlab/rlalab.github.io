@@ -107,7 +107,7 @@ sections:
         </div>
 
         <br>
-        <h3>Artificial Intelligence Approaches</h3>
+        <h3>Artificial Intelligence approaches</h3>
         <p>We are actively developing and applying AI and machine learning tools to accelerate the design-build-test-learn cycle and predict microbial behavior.</p>
 
         <div style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
@@ -327,7 +327,7 @@ sections:
     content:
       title:
       text: |
-        <h2>Microbial Food: Traditional, Biomass and Precision Fermentation</h2>
+        <h2>Microbial food: traditional, biomass and precision fermentation</h2>
 
         <p>Microbial food is a key area of the lab. Many of our other research lines directly relate to the development of tools, products, and processes that are essential to making sustainable food from microbes. We are highly interested in applying synthetic biology to advance precision fermentation, traditional fermentation, and microbial biomass for the future of food systems.</p>
 
