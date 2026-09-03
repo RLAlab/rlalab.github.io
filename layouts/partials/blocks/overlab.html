@@ -1,0 +1,26 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-12">
+      <div class="section-heading text-center mb-4">
+        {{ with $block.content.title }}
+          <h1 class="mb-0">{{ . | markdownify | emojify }}</h1>
+        {{ end }}
+        {{ with $block.content.subtitle }}
+          <p class="mt-1">{{ . | markdownify | emojify }}</p>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="col-lg-8 text-center">
+      {{ with $block.content.text }}
+        {{ . | emojify | $page.RenderString }}
+      {{ else }}
+        <p>OverLab is a game by Izva. You can play it directly below:</p>
+        <iframe frameborder="0" src="https://itch.io/embed/3663518" width="552" height="167"><a href="https://izva.itch.io/overlab">OverLab by Izva</a></iframe>
+      {{ end }}
+    </div>
+  </div>
+</div>
