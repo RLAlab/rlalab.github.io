@@ -16,7 +16,7 @@ sections:
         applications, which span from the production of novel foods and alternative proteins to chemicals and fuels.  
         We are developing:
 
-        <div class="rectangle-container">
+        <div class="rectangle-container" style="display: flex; flex-wrap: nowrap; justify-content: space-between; gap: 10px; overflow-x: auto;">
           <div class="rectangle-item">
             <a href="#tools" class="rectangle"><i class="fa-solid fa-screwdriver-wrench"></i> New tools</a>
           </div>
@@ -81,25 +81,25 @@ sections:
               </div>
             </a>
           </div>
-          
+
           <!-- Fourth Article -->
-          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1038/s41467-020-15053-x" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="multiplexing_crispr_review.png" alt="Multiplexing CRISPR review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
-              <div style="flex-grow: 1;">
-                <strong>Multiplexing CRISPR for accelerating metabolic engineering - a review</strong><br>
-                <em>Nature Communications</em> (2020)
-              </div>
-            </a>
-          </div>
-          
-          <!-- Fifth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://www.science.org/doi/10.1126/sciadv.abm5091" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
               <img src="electric_control_gene_expression.png" alt="Electric control of gene expression" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Electric control of gene expression</strong><br>
                 <em>Science Advances</em> (2022)
+              </div>
+            </a>
+          </div>
+          
+          <!-- Fifth Article -->
+          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+            <a href="https://doi.org/10.1038/s41467-020-15053-x" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="multiplexing_crispr_review.png" alt="Multiplexing CRISPR review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <div style="flex-grow: 1;">
+                <strong>Multiplexing CRISPR for accelerating metabolic engineering - a review</strong><br>
+                <em>Nature Communications</em> (2020)
               </div>
             </a>
           </div>
@@ -155,36 +155,36 @@ sections:
         <p>For further reading, see some of our recent articles and reviews:</p>
 
         <div style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
-          
+
           <!-- First Article -->
-          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1016/j.tibtech.2022.07.006" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="yarrowia_review.png" alt="Yarrowia review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
-              <div style="flex-grow: 1;">
-                <strong>Our latest review on <i>Yarrowia</i> and why it is one of our favorite hosts</strong><br>
-                <em>Trends in Biotechnology</em> (2023)
-              </div>
-            </a>
-          </div>
-
-          <!-- Second Article -->
-          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1038/s41589-021-00836-0" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="c1_utilisation.png" alt="C1 Utilisation review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
-              <div style="flex-grow: 1;">
-                <strong>Unlocking C1 utilization with metabolic engineering - a review</strong><br>
-                <em>Nature Chemical Biology</em> (2021)
-              </div>
-            </a>
-          </div>
-
-          <!-- Third Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s44160-026-01076-7" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
               <img src="formatotrophy.png" alt="Formatotrophy" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Engineering de novo formatotrophy in the non-model yeast Y. lipolytica</strong><br>
                 <em>Nature Synthesis</em> (2026)
+              </div>
+            </a>
+          </div>
+          
+          <!-- Second Article -->
+          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+            <a href="https://doi.org/10.1016/j.tibtech.2022.07.006" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="yarrowia_review.png" alt="Yarrowia review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <div style="flex-grow: 1;">
+                <strong>Our review on <i>Yarrowia</i> and why it is one of our favorite hosts</strong><br>
+                <em>Trends in Biotechnology</em> (2023)
+              </div>
+            </a>
+          </div>
+
+          <!-- Third Article -->
+          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+            <a href="https://doi.org/10.1038/s41589-021-00836-0" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="c1_utilisation.png" alt="C1 Utilisation review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <div style="flex-grow: 1;">
+                <strong>Unlocking C1 utilization with metabolic engineering - a review</strong><br>
+                <em>Nature Chemical Biology</em> (2021)
               </div>
             </a>
           </div>
@@ -208,60 +208,16 @@ sections:
 
           <!-- First Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1038/s41564-023-01596-4" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="yeast_synthetic_communities.png" alt="Yeast synthetic communities toolkit" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+            <a href="https://doi.org/10.1038/s41467-026-72389-6" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="burdenaware.png" alt="Burden aware control" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
-                <strong>A toolkit to make yeast synthetic communities for bioproduction</strong><br>
-                <em>Nature Microbiology</em> (2024)
+                <strong>Burden-aware feedback control of microbial consortia</strong><br>
+                <em>Nature Communications</em> (2026)
               </div>
             </a>
           </div>
 
           <!-- Second Article -->
-          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1016/j.biortech.2024.131232" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_lichen.png" alt="Synthetic lichen bioproduction" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
-              <div style="flex-grow: 1;">
-                <strong>Synthetic lichen, from CO<sub>2</sub> and light to products in <i>Yarrowia</i></strong><br>
-                <em>Bioresource Technology</em> (2024)
-              </div>
-            </a>
-          </div>
-
-          <!-- Third Article -->
-          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1038/s41589-023-01341-2" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_yeast_communities.png" alt="Synthetic yeast communities" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
-              <div style="flex-grow: 1;">
-                <strong>Synthetic yeast communities with syntrophy enhances bioproduction</strong><br>
-                <em>Nature Chemical Biology</em> (2023)
-              </div>
-            </a>
-          </div>
-
-          <!-- Fourth Article -->
-          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1016/j.copbio.2022.102706" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="division_of_labour.png" alt="Division of labor review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
-              <div style="flex-grow: 1;">
-                <strong>A review on division of labour</strong><br>
-                <em>Current Opinion in Biotechnology</em> (2022)
-              </div>
-            </a>
-          </div>
-
-          <!-- Fifth Article -->
-          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1016/j.tibtech.2018.11.002" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="synthetic_microbial_communities.png" alt="Synthetic microbial communities review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
-              <div style="flex-grow: 1;">
-                <strong>A review on synthetic microbial communities for biotechnology</strong><br>
-                <em>Trends in Biotechnology</em> (2019)
-              </div>
-            </a>
-          </div>
-
-          <!-- Sixth Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41589-025-02081-1" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
               <img src="cellcelladhesion.png" alt="Cell cell adhesion" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
@@ -272,13 +228,57 @@ sections:
             </a>
           </div>
 
+          <!-- Third Article -->
+          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+            <a href="https://doi.org/10.1038/s41564-023-01596-4" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="yeast_synthetic_communities.png" alt="Yeast synthetic communities toolkit" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <div style="flex-grow: 1;">
+                <strong>A toolkit to make yeast synthetic communities for bioproduction</strong><br>
+                <em>Nature Microbiology</em> (2024)
+              </div>
+            </a>
+          </div>
+
+          <!-- Fourth Article -->
+          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+            <a href="https://doi.org/10.1016/j.biortech.2024.131232" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="synthetic_lichen.png" alt="Synthetic lichen bioproduction" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <div style="flex-grow: 1;">
+                <strong>Synthetic lichen, from CO<sub>2</sub> and light to products in <i>Yarrowia</i></strong><br>
+                <em>Bioresource Technology</em> (2024)
+              </div>
+            </a>
+          </div>
+
+          <!-- Fifth Article -->
+          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+            <a href="https://doi.org/10.1038/s41589-023-01341-2" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="synthetic_yeast_communities.png" alt="Synthetic yeast communities" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <div style="flex-grow: 1;">
+                <strong>Synthetic yeast communities with syntrophy enhances bioproduction</strong><br>
+                <em>Nature Chemical Biology</em> (2023)
+              </div>
+            </a>
+          </div>
+
+          <!-- Sixth Article -->
+          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+            <a href="https://doi.org/10.1016/j.copbio.2022.102706" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="division_of_labour.png" alt="Division of labor review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <div style="flex-grow: 1;">
+                <strong>A review on division of labour</strong><br>
+                <em>Current Opinion in Biotechnology</em> (2022)
+              </div>
+            </a>
+          </div>
+
           <!-- Seventh Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1038/s41467-026-72389-6" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="burdenaware.png" alt="Burden aware control" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+            <a href="https://doi.org/10.1016/j.tibtech.2018.11.002" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="synthetic_microbial_communities.png" alt="Synthetic microbial communities review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
-                <strong>Burden-aware feedback control of microbial consortia</strong><br>
-                <em>Nature Communications</em> (2026)
+                <strong>A review on synthetic microbial communities for biotechnology</strong><br>
+                <em>Trends in Biotechnology</em> (2019)
               </div>
             </a>
           </div>
@@ -297,25 +297,25 @@ sections:
         <p>For further reading, see some of our recent articles and reviews:</p>
 
         <div style="display: flex; flex-direction: column; gap: 20px; max-width: 100%;">
-          
-          <!-- First Article -->
-          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1038/s41467-024-50602-8" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="heterogeneity.png" alt="Phenotypic heterogeneity" style="width: 250px; height: auto; margin-right: 15px;">
-              <div style="flex-grow: 1;">
-                <strong>Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity</strong><br>
-                <em>Nature Communications</em> (2024)
-              </div>
-            </a>
-          </div>
 
-          <!-- Second Article -->
+          <!-- First Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://www.nature.com/articles/s41467-025-67408-x" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
               <img src="bioproductionhet.png" alt="Bioproduction heterogeneity" style="width: 250px; height: auto; margin-right: 15px;">
               <div style="flex-grow: 1;">
                 <strong>Single cell profiling framework reveals metabolic subpopulations as drivers of bioproduction heterogeneity</strong><br>
                 <em>Nature Communications</em> (2025)
+              </div>
+            </a>
+          </div>
+          
+          <!-- Second Article -->
+          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+            <a href="https://doi.org/10.1038/s41467-024-50602-8" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="heterogeneity.png" alt="Phenotypic heterogeneity" style="width: 250px; height: auto; margin-right: 15px;">
+              <div style="flex-grow: 1;">
+                <strong>Phenotypic heterogeneity follows a growth-viability tradeoff in response to amino acid identity</strong><br>
+                <em>Nature Communications</em> (2024)
               </div>
             </a>
           </div>
@@ -337,17 +337,6 @@ sections:
 
           <!-- First Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-            <a href="https://doi.org/10.1038/s41467-023-37891-1" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
-              <img src="microbial_food.png" alt="Microbial food review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
-              <div style="flex-grow: 1;">
-                <strong>Our review on microbial food</strong><br>
-                <em>Nature Communications</em> (2023)
-              </div>
-            </a>
-          </div>
-
-          <!-- Second Article -->
-          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s43016-026-01380-7" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
               <img src="ai4food.png" alt="AI for Food" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
@@ -357,13 +346,24 @@ sections:
             </a>
           </div>
 
-          <!-- Third Article -->
+          <!-- Second Article -->
           <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
             <a href="https://doi.org/10.1038/s41467-026-73987-0" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
               <img src="microbialproteins.png" alt="Microbial Proteins barriers" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
               <div style="flex-grow: 1;">
                 <strong>Navigating adoption barriers for microbial proteins in future food</strong><br>
                 <em>Nature Communications</em> (2026)
+              </div>
+            </a>
+          </div>
+
+          <!-- Third Article -->
+          <div style="display: flex; align-items: center; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+            <a href="https://doi.org/10.1038/s41467-023-37891-1" target="_blank" style="text-decoration: none; display: flex; align-items: center; width: 100%;">
+              <img src="microbial_food.png" alt="Microbial food review" style="width: 250px; height: auto; margin-right: 15px; border-radius: 5px;">
+              <div style="flex-grow: 1;">
+                <strong>Our review on microbial food</strong><br>
+                <em>Nature Communications</em> (2023)
               </div>
             </a>
           </div>
