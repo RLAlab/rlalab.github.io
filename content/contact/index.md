@@ -14,11 +14,13 @@ sections:
 
         We value diversity and are committed to creating an inclusive environment where everyone can thrive. We welcome applications from people of all backgrounds, genders, ethnicities, and abilities.
 
-        Our group is also part of the [Bezos Centre](https://bezoscentre.co.uk/) and [Microbial Food Hub](https://microbialfoodhub.co.uk/)
-
         ### Consulting
         Dr Ledesma-Amaro and the lab believe that academic knowledge has a key role in translational research, and we are currently involved in partnerships with several companies at different levels. We often consider consultancy tasks that relies in our field of expertise. Please contact us for more information.  
         Additional information can be found at https://www.imperial-consultants.co.uk/.
+
+        ### Affiliations
+        Our group is also part of the [Bezos Centre](https://bezoscentre.co.uk/) and [Microbial Food Hub](https://microbialfoodhub.co.uk/)
+      
       email: r.ledesma-amaro@imperial.ac.uk
       phone: 020 7584 1113
       address:
