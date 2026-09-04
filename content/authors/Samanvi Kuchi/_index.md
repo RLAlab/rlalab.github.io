@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Pablo Morales
+title: Samanvi Kuchi
 
 # Full Name (for SEO)
-first_name: Pablo
-last_name: Morales
+first_name: Samanvi
+last_name: Kuchi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Visiting student
+role: BSc Biological Sciences
 start_date: 2026-07-01
-end_date: 2026-09-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Murcia
-    url: 
+  - name: Imperial College London
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -36,11 +36,17 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#   - icon: linkedin
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 
+#   - icon: x-twitter
 #     icon_pack: fab
 #     link: 
 #   - icon: google-scholar
 #     icon_pack: ai
+#     link: 
+#   - icon: researchgate
+#     icon_pack: fab
 #     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,9 +63,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
-  #- Visitors
+  - Master & Undergraduate Students
+  #- Researchers
+  #- Alumni
 ---
 
-Hello everyone, I'm Pablo and I just finished the third year of my Biology undergrad at the University of Murcia. I also completed an internship at the Department of Genetics and Microbiology, where I worked in Mucor transformation using CRISPR/Cas9 gene editing. This experience really developed my interest in fungal genetics and biotechnology. During my stay at the RLA lab I am working on _Rhizopus cultivation_ and modification.  
-In my free time I enjoy hiking, birdwatching and reading (or attempting to read) philosophy and the classics.
+My name is Samanvi (Sam). I am an undergrad studying Biological Sciences at Imperial College London and also self-learn Data Science & AI with interests in experimental design and computational biology. I use computational approaches to investigate protein digestibility and contribute to developing predictive models for sustainable alternative proteins.  
+Other than biology, I like observing patterns, exercising, and getting to know people.
