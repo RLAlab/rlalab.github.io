@@ -68,5 +68,5 @@ user_groups:
   #- Alumni
 ---
 
-My name is Samanvi (Sam). I am an undergrad studying Biological Sciences at Imperial College London and also self-learn Data Science & AI with interests in experimental design and computational biology. I use computational approaches to investigate protein digestibility and contribute to developing predictive models for sustainable alternative proteins.  
+My name is Samanvi (Sam). I am an undergrad studying Biological Sciences at Imperial College London and have a developing background in Data Science & AI. I use computational approaches to investigate protein digestibility and contribute to developing predictive models for sustainable alternative proteins.  
 Other than biology, I like observing patterns, exercising, and getting to know people.
