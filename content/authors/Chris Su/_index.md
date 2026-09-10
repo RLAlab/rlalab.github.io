@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: BSc Biochemistry
 start_date: 2026-07-01
-end_date:
+end_date: 2026-09-10
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master & Undergraduate Students
+  #- Master & Undergraduate Students
+  - Alumni
 ---
 
 Hi everyone! I’m Chris, and I am studying Biochemistry at Imperial College London. I’m passionate about synthetic biology and biotechnology, and I’m particularly interested in engineering the mevalonate pathway to improve ergosterol production. I’ll primarily be working on investigating cell heterogeneity in _Saccharomyces cerevisiae_ in the context of mevalonate pathway optimisation.  

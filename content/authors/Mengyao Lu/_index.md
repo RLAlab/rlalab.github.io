@@ -10,7 +10,7 @@ last_name: Lu
 superuser: true
 
 # Role/position
-role: PhD student
+role: Research Associate #PhD student
 start_date: 2022-10-01
 end_date: 
 
@@ -63,8 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
-  #- Researchers
+  #- PhD Students
+  - Postdoctoral Researchers 
 ---
 
 Hi, I'm Mengyao from China. I am trying to explore the production of some nutrients by engineered _Yarrowia lipolytica_, like carbohydrates, proteins and lipids. I am currently building a synthetic pathway for human milk oligosaccharides. Next may be the most valuable protein in human milk. Yes! We may be creating unrivaled baby formula!  

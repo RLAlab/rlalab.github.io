@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: BSc Biochemistry
 start_date: 2026-07-15
-end_date: 
+end_date: 2026-09-10
 
 # Organizations/Affiliations
 organizations:
@@ -63,8 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #- Alumni
-  - Master & Undergraduate Students
+  - Alumni
+  #- Master & Undergraduate Students
   #- Researchers
 ---
 

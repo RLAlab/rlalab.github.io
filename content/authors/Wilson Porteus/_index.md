@@ -10,7 +10,7 @@ last_name: Porteus
 superuser: true
 
 # Role/position
-role: MRes Systems and Synthetic Biology
+role: Research Support Technician #MRes Systems and Synthetic Biology
 start_date: 2026-01-01
 end_date: 
 
@@ -64,8 +64,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   #- Alumni
-  - Master & Undergraduate Students
-  #- Researchers
+  #- Master & Undergraduate Students
+  - Staff
 ---
 
 My name is Wilson, and I am from California. I am a master's student pursuing my MRes in Systems and Synthetic Biology. My research project involves the develop of a genetic toolkit for _Rhizopus microsporus_ to improve the nutritional value and taste of its solid-state fermentation products. By the end of the project, I aim to create ready-to-use tools that will be used for future studies.  

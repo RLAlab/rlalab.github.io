@@ -10,7 +10,7 @@ last_name: Fan
 superuser: true
 
 # Role/position
-role: MEng Molecular Bioengineering
+role: PhD student #MEng Molecular Bioengineering
 start_date: 2025-07-01
 end_date:
 
@@ -57,7 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master & Undergraduate Students
+  #- Master & Undergraduate Students
+  - PhD Students
 ---
 
 Hello! My name is Chen, from Shenzhen, China. I am currently studying Molecular Bioengineering at Imperial and in the RLA lab I’ll be working on investigating how p-coumaric acid is degraded in _Yarrowia lipolytica_ and identify the genes responsible for it.  

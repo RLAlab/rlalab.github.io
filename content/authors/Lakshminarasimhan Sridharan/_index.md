@@ -10,7 +10,7 @@ last_name: Sridharan
 superuser: true
 
 # Role/position
-role: Research Fellow
+role: Independent Research Fellow
 start_date: 2026-09-01
 end_date: 
 

@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: MRes Medical Device Design and Entrepreneurship
 start_date: 2026-02-01
-end_date: 
+end_date: 2026-09-10
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master & Undergraduate Students
+  #- Master & Undergraduate Students
+  - Alumni
 ---
 
 Hi, my name is Mia Hlavackova and I am from Bratislava, Slovakia! I am an MRes student in Medical Device Design and Entrepreneurship and at RLA Lab I am focusing on a project which uses precision fermentation to engineer microbial production of a carotenoid crucial for eye health. This initiative aims to develop a sustainable fermentation-based platform to support new treatments for Age-related Macular Degeneration.  

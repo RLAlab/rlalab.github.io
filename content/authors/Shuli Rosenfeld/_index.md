@@ -10,7 +10,7 @@ last_name: Rosenfeld
 superuser: true
 
 # Role/position
-role: MRes Bioengineering
+role: PhD student #MRes Bioengineering
 start_date: 2025-10-01
 end_date: 
 
@@ -64,8 +64,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   #- Alumni
-  - Master & Undergraduate Students
-  #- Researchers
+  #- Master & Undergraduate Students
+  - PhD Students
 ---
 
 Hello! My name is Shuli, and I’m from Miami, Florida. During my MRes, I am advancing the synthetic biology toolkit for _Fusarium venenatum_, a filamentous fungus. Additionally, I hope to employ these tools to enhance the technofunctional and sensorial properties of _Fusarium venenatum_ biomass for meat alternatives and potentially, other food applications.  
