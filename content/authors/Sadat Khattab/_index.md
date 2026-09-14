@@ -10,7 +10,7 @@ last_name: Khattab
 superuser: true
 
 # Role/position
-role: Visiting Professor
+role: Research Associate
 start_date: 2026-06-01
 end_date: 
 
@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Postdoctoral Researchers
   #- Researchers
 ---
 
