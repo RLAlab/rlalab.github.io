@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Rena Matsuoka
+title: Hana Urukalovic
 
 # Full Name (for SEO)
-first_name: Rena
-last_name: Matsuoka
+first_name: Hana
+last_name: Urukalovic
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: BSc Biochemistry
-start_date: 2026-05-20
-end_date: 2026-09-15
+role: Bioengineering MRes
+start_date: 2026-10-01
+end_date: 
 
 # Organizations/Affiliations
 organizations:
@@ -35,10 +35,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: linkedin
-    icon_pack: fab
-    link: www.linkedin.com/in/renamatsuoka
+#social:
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: www.linkedin.com/in/humayra-qurrata-aini
 #   - icon: x-twitter
 #     icon_pack: fab
 #     link: 
@@ -63,10 +63,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
-  #- Master & Undergraduate Students
+  #- Alumni
+  - Master & Undergraduate Students
   #- Researchers
 ---
 
-Hi, my name is Rena, and I am currently pursuing Biochemistry Bsc with a particular interest in sustainability in the food industry. I work on engineering yeast cells to improve cell agglutination (sticking together) for a more efficient cell circuit design. This is done through improving cell-cell and cell-substrate interactions. My role entails building DNA plasmids, sequencing, and performing assays to measure the outcome.  
-Outside of my degree, I like to read sci-fi and fantasy books, as well as go on long walks. 
+Hi! I’m Hana and I am a Bioengineering MRes student from Zagreb, Croatia. I am interested in synthetic biology and sustainability, which is why I was drawn to bioproduction and metabolic engineering, particularly research regarding waste feedstocks. Before my MRes, I studied Biomedical Sciences with a focus on immunology and infectious diseases at King’s College London.  
+In my free time I enjoy going to art exhibitions, concerts, and trying out different arts and crafts projects!
