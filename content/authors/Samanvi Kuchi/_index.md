@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: BSc Biological Sciences
 start_date: 2026-07-01
-end_date: 
+end_date: 2026-09-30
 
 # Organizations/Affiliations
 organizations:
@@ -63,9 +63,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master & Undergraduate Students
+  #- Master & Undergraduate Students
   #- Researchers
-  #- Alumni
+  - Alumni
 ---
 
 My name is Samanvi (Sam). I am an undergrad studying Biological Sciences at Imperial College London and have a developing background in Data Science & AI. I use computational approaches to investigate protein digestibility and contribute to developing predictive models for sustainable alternative proteins.  
