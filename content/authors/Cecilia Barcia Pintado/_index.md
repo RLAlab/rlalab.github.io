@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cecilia
+title: Cecilia Barcia Pintado
 
 # Full Name (for SEO)
 first_name: Cecilia
