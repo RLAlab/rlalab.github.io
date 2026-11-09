@@ -68,5 +68,5 @@ user_groups:
   #- Researchers
 ---
 
-Hi! I'm Archita, an MRes Bioengineering student from Mauritius. I did my undergraduate studies in Biotechnology at Imperial, where my final-year project used RNA-seq to study immune gene regulation in plants. At the RLA lab, I am characterising wild Yarrowia strains isolated from foods to find out what useful traits natural diversity has already produced. I am particularly interested in how microbial systems can be made more predictable and engineerable for food and sustainability applications.  
+Hi! I'm Archita, an MRes Bioengineering student from Mauritius. I did my undergraduate studies in Biotechnology at Imperial, where my final-year project used RNA-seq to study immune gene regulation in plants. At the RLA lab, I will be characterising wild Yarrowia strains isolated from foods to find out what useful traits natural diversity has already produced. I am particularly interested in how microbial systems can be made more predictable and engineerable for food and sustainability applications.  
 In my free time, I enjoy cooking, writing my food blog about the science behind everyday ingredients, and choreographing dance performances.
